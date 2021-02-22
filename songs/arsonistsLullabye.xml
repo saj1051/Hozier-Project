@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song16>
+    <information>
+        <trackNumber> 16 </trackNumber>
+        <title>Arsonist's Lullabye</title>
+    </information>
+    <lyrics>
+        <!-- humming -->
+        <verse1>
+            <stanza>
+                <line>When I was a child, I heard voices</line>
+                <line>Some would sing and some would scream</line>
+                <line>You soon find you have few choices</line>
+                <line>I learned the voices died with me</line>
+                <line>When I was a child, I'd sit for hours</line>
+                <line>Staring into open flame</line>
+                <line>Something in it had a power</line>
+                <line>Could barely tear my eyes away</line>
+            </stanza>
+        </verse1>
+        <hook>
+            <stanza>
+                <line>All you have is your fire</line>
+                <line>And the place you need to reach</line>
+                <line>Don't you ever tame your demons</line>
+                <line>But always keep them on a leash</line>
+            </stanza>
+        </hook>
+        <!-- humming -->
+        <verse2>
+            <stanza>
+                <line>When I was sixteen, my senses fooled me</line>
+                <line>Thought gasoline was on my clothes</line>
+                <line>I knew that something would always rule me</line>
+                <line> I knew this scent was mine alone </line>
+            </stanza>
+        </verse2>
+        <hook>
+            <stanza>
+                <line>All you have is your fire</line>
+                <line>And the place you need to reach</line>
+                <line>Don't you ever tame your demons</line>
+                <line>Always keep them on a leash</line>
+            </stanza>
+        </hook>
+        <bridge>
+            <stanza>
+                <line>When I was a man, I thought it ended</line>
+                <line>When I knew love's perfect ache</line>
+                <line>But my peace has always depended</line>
+                <line>On all the ashes in my wake</line>
+            </stanza>
+        </bridge>
+        <outro>
+            <stanza>
+                <line>All you have is your fire</line>
+                <line>And the place you need to reach</line>
+                <line>Don't you ever tame your demons</line>
+                <line>But always keep them on a leash</line>
+            </stanza>
+        </outro>
+    </lyrics>
+</song16>
