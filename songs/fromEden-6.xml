@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<song6>
+<song>
     <information>
         <trackNumber> 6 </trackNumber>
         <title>From Eden</title>
@@ -66,7 +66,7 @@
                 <line> I slithered here from Eden just to sit outside your door</line>
             </stanza>
         </chorus>
-        <!-- instrumental interlude -->
+        <instrumentalInterlude/>
         <chorus>
             <stanza>
                 <line>Honey, you're familiar, like my mirror years ago</line>
@@ -76,4 +76,4 @@
             </stanza>
         </chorus>
     </lyrics>
-</song6>
+</song>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<song12>
+<song>
     <information>
         <trackNumber> 12 </trackNumber>
         <title>Foreigner's God</title>
@@ -69,7 +69,7 @@
                 <line>The purest expression of grief</line>
             </stanza>
         </chorus>
-        <!-- instrumental -->
+        <instrumental/>
         <chorus>
             <stanza>
                 <line>Screaming the name</line>
@@ -91,4 +91,4 @@
             </stanza>
         </chorus>
     </lyrics>
-</song12>
+</song>
