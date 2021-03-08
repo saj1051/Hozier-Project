@@ -6,7 +6,7 @@
         <title>Angle of Small Death and the Codeine Scene</title>
     </information>
     <lyrics>
-        <verse1>
+        <verse number = "1">
             <stanza>
                 <line>I watch the work of my kin, bold and boyful</line>
                 <line>Toying somewhere between love and abuse</line>
@@ -19,7 +19,7 @@
                 <line> Lurched like a stray to the arms that were open</line>
                 <line> No shortage of sordid, no protest from me</line>
             </stanza>
-        </verse1>
+        </verse>
         <chorus>
             <stanza>
                 <line>With her sweetened breath, and her tongue so mean</line>
@@ -28,14 +28,14 @@
                 <line>She's the angel of small death and the codeine scene</line>
             </stanza>
         </chorus>
-        <verse2>
+        <verse number = "2">
             <stanza>
                 <line>Feeling more human and hooked on her flesh, I</line>
                 <line>Lay my heart down with the rest at her feet</line>
                 <line>Fresh from the fields, all fetor and fertile</line>
                 <line>It's bloody and raw, but I swear it is sweet</line>
             </stanza>
-        </verse2>
+        </verse>
         <chorus>
             <stanza>
                 <line>With her sweetened breath, and her tongue so mean</line>

@@ -5,7 +5,7 @@
         <title>In the Woods Somewhere</title>
     </information>
     <lyrics>
-        <verse1>
+        <verse number = "1">
             <stanza>
                 <line>My head was warm</line>
                 <line>My skin was soaked</line>
@@ -14,8 +14,8 @@
                 <line>The moon still hung</line>
                 <line>The night so black that the darkness hums</line>
             </stanza>
-        </verse1>
-        <verse2>
+        </verse>
+        <verse number = "2">
             <stanza>
                 <line>I raised myself</line>
                 <line>My legs were weak</line>
@@ -24,11 +24,11 @@
                 <line>Filled the air</line>
                 <line>I heard a scream in the woods somewhere</line>
             </stanza>
-        </verse2>
+        </verse>
         <chorus>
             <line>Ooh, oo-ooh, oo-ooh</line>
         </chorus>
-        <verse3>
+        <verse number = "3">
             <stanza>
                 <line>A woman's voice</line>
                 <line>I quickly ran</line>
@@ -37,8 +37,8 @@
                 <line>He shook afraid</line>
                 <line>I spoke no words, no sound he made</line>
             </stanza>
-        </verse3>
-        <verse4>
+        </verse>
+        <verse number = "4">
             <stanza>
                 <line>His bone exposed</line>
                 <line>His hind was lame</line>
@@ -47,11 +47,11 @@
                 <line>How large the teeth?</line>
                 <line>I saw new eyes were watching me</line>
             </stanza>
-        </verse4>
+        </verse>
         <chorus>
             <line>Ooh, oo-ooh, oo-ooh</line>
         </chorus>
-        <verse5>
+        <verse number = "5">
             <stanza>
                 <line>The creature lunged</line>
                 <line>I turned and ran</line>
@@ -60,8 +60,8 @@
                 <line>There as I flew</line>
                 <line>Forgot all prayers of joining you</line>
             </stanza>
-        </verse5>
-        <verse6>
+        </verse>
+        <verse number = "6">
             <stanza>
                 <line>I clutched my life</line>
                 <line>And wished it kept</line>
@@ -70,7 +70,7 @@
                 <line>I know I'll bear</line>
                 <line>I found something in the woods somewhere</line>
             </stanza>
-        </verse6>
+        </verse>
         <chorus>
             <line>Ooh, oo-ooh, oo-ooh</line>
         </chorus>
