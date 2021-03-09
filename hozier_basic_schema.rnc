@@ -5,7 +5,7 @@ information = element information {trackNumber, title}
 trackNumber = element trackNumber {text}
 title = element title {text}
 
-lyrics = element lyrics {mixed {(verse, chorus, stanza, verse, bridge, outro, hook, preChorus, refrain)*}}
+lyrics = element lyrics {mixed {(verse, chorus, stanza, verse, bridge, outro, hook, preChorus, refrain, humming, instrumental)*}}
 #here I need to account for the open tags for instrumental items but I'm not sure how
 
 verse = element verse {stanza+}
@@ -15,6 +15,8 @@ outro = element outro {stanza+}
 hook = element hook {stanza+}
 preChorus = element preChorus {stanza+}
 refrain = element refrain {stanza+}
+humming = element humming {empty}
+instrumental = element instrumental {empty}
 
 stanza = element stanza {line+}
 line = element line {text}
