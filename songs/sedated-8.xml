@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<song8>
+<song>
     <information>
         <trackNumber> 8 </trackNumber>
         <title>Sedated</title>
     </information>
     <lyrics>
-        <verse1>
+        <verse number = "1">
             <stanza>
                 <line>Just a little rush, babe, to feel dizzy</line>
                 <line>To derail the mind of me</line>
                 <line>Just a little hush, babe; my veins are busy</line>
                 <line> But my heart's in atrophy</line>
             </stanza>
-        </verse1>
+        </verse>
         <preChorus>
             <stanza>
                 <line>Any way</line>
@@ -22,7 +22,7 @@
                 <line>To the walls of the cave</line>
             </stanza>
         </preChorus>
-        <chorus1>
+        <chorus number = "1">
             <stanza>
                 <line>You and I, nursing on a</line>
                 <line>Poison that never stung</line>
@@ -35,15 +35,15 @@
                 <line>Free and young and we</line>
                 <line>Can feel none of it</line>
             </stanza>
-        </chorus1>
-        <verse2>
+        </chorus>
+        <verse number = "2">
             <stanza>
                 <line>Something isn't right, babe; I keep catching</line>
                 <line>Little words, but the meaning's thin</line>
                 <line>I'm somewhere outside my life, babe; I keep scratching</line>
                 <line>But somehow I can't get in</line>
             </stanza>
-        </verse2>
+        </verse>
         <preChorus>
             <stanza>
                 <line>So we're slaves</line>
@@ -52,7 +52,7 @@
                 <line>But we love it too much</line>
             </stanza>
         </preChorus>
-        <chorus2>
+        <chorus number = "2">
             <stanza>
                 <line>Sedated, we're nursing on a</line>
                 <line>Poison that never stung</line>
@@ -65,7 +65,7 @@
                 <line>Free and young and we</line>
                 <line>Can feel none of it</line>
             </stanza>
-        </chorus2>
+        </chorus>
         <bridge>
             <stanza>
                 <line>Darlin', don't you</line>
@@ -86,7 +86,7 @@
                 <line>To the walls of the cave</line>
             </stanza>
         </preChorus>
-        <chorus1>
+        <chorus number = "1">
             <stanza>
                 <line>You and I, nursing on a</line>
                 <line>Poison that never stung</line>
@@ -99,8 +99,8 @@
                 <line>Free and young and we</line>
                 <line>Can feel none of it</line>
             </stanza>
-        </chorus1>
-        <chorus2>
+        </chorus>
+        <chorus number = "2">
             <stanza>
                 <line>Sedated, we're nursing on a</line>
                 <line>Poison that never stung</line>
@@ -113,6 +113,6 @@
                 <line>Free and young and we</line>
                 <line>Can feel none of it</line>
             </stanza>
-        </chorus2>
+        </chorus>
     </lyrics>
-</song8>
+</song>

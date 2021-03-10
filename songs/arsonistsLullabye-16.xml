@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<song16>
+<song>
     <information>
         <trackNumber> 16 </trackNumber>
         <title>Arsonist's Lullabye</title>
     </information>
     <lyrics>
-        <!-- humming -->
-        <verse1>
+        <humming/>
+        <verse number = "1">
             <stanza>
                 <line>When I was a child, I heard voices</line>
                 <line>Some would sing and some would scream</line>
@@ -17,7 +17,7 @@
                 <line>Something in it had a power</line>
                 <line>Could barely tear my eyes away</line>
             </stanza>
-        </verse1>
+        </verse>
         <hook>
             <stanza>
                 <line>All you have is your fire</line>
@@ -26,15 +26,15 @@
                 <line>But always keep them on a leash</line>
             </stanza>
         </hook>
-        <!-- humming -->
-        <verse2>
+        <humming/>
+        <verse number = "2">
             <stanza>
                 <line>When I was sixteen, my senses fooled me</line>
                 <line>Thought gasoline was on my clothes</line>
                 <line>I knew that something would always rule me</line>
                 <line> I knew this scent was mine alone </line>
             </stanza>
-        </verse2>
+        </verse>
         <hook>
             <stanza>
                 <line>All you have is your fire</line>
@@ -60,4 +60,4 @@
             </stanza>
         </outro>
     </lyrics>
-</song16>
+</song>

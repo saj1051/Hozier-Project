@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<song10>
+<song>
     <information>
         <trackNumber> 10 </trackNumber>
         <title>Like Real People Do</title>
     </information>
     <lyrics>
-        <verse1>
+        <verse number = "1">
             <stanza>
                 <line>I had a thought, dear, however scary</line>
                 <line>About that night, the bugs and the dirt</line>
                 <line>Why were you digging? What did you bury</line>
                 <line>Before those hands pulled me from the earth?</line>
             </stanza>
-        </verse1>
+        </verse>
         <chorus>
             <stanza>
                 <line>I will not ask you where you came from</line>
@@ -21,14 +21,14 @@
                 <line>We should just kiss like real people do</line>
             </stanza>
         </chorus>
-        <verse2>
+        <verse number = "2">
             <stanza>
                 <line>I knew that look, dear: eyes always seeking</line>
                 <line>Was there in someone that dug long ago</line>
                 <line>So I will not ask you why you were creeping</line>
                 <line>In some sad way, I already know</line>
             </stanza>
-        </verse2>
+        </verse>
         <chorus>
             <stanza>
                 <line>So I will not ask you where you came from</line>
@@ -46,4 +46,4 @@
             </stanza>
         </chorus>
     </lyrics>
-</song10>
+</song>

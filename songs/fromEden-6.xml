@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<song6>
+<song>
     <information>
         <trackNumber> 6 </trackNumber>
         <title>From Eden</title>
     </information>
     <lyrics>
-        <verse1>
+        <verse number = "1">
             <stanza>
                 <line>Babe</line>
                 <line>There's something tragic about you</line>
@@ -19,15 +19,15 @@
                 <line>Something so wholesome about you</line>
                 <line>Get closer to me</line>
             </stanza>
-        </verse1>
-        <preChorus1>
+        </verse>
+        <preChorus number = "1">
             <stanza>
                 <line>No tired sigh, no rolling eyes</line>
                 <line>No irony</line>
                 <line>No "Who cares?", no vacant stare</line>
                 <line>No time for me</line>
             </stanza>
-        </preChorus1>
+        </preChorus>
         <chorus>
             <stanza>
                 <line>Honey, you're familiar, like my mirror years ago</line>
@@ -36,7 +36,7 @@
                 <line> I slithered here from Eden just to sit outside your door</line>
             </stanza>
         </chorus>
-        <verse2>
+        <verse number = "2">
             <stanza>
                 <line>Babe</line>
                 <line>There's something wretched about this</line>
@@ -49,15 +49,15 @@
                 <line>But I might be hoping about this</line>
                 <line>Oh, what a sin</line>
             </stanza>
-        </verse2>
-        <preChorus2>
+        </verse>
+        <preChorus number = "2">
             <stanza>
                 <line>To the strand, a picnic planned</line>
                 <line>For you and me</line>
                 <line>A rope in hand for your other man</line>
                 <line>To hang from a tree</line>
             </stanza>
-        </preChorus2>
+        </preChorus>
         <chorus>
             <stanza>
                 <line>Honey, you're familiar, like my mirror years ago</line>
@@ -66,7 +66,7 @@
                 <line> I slithered here from Eden just to sit outside your door</line>
             </stanza>
         </chorus>
-        <!-- instrumental interlude -->
+        <instrumental/>
         <chorus>
             <stanza>
                 <line>Honey, you're familiar, like my mirror years ago</line>
@@ -76,4 +76,4 @@
             </stanza>
         </chorus>
     </lyrics>
-</song6>
+</song>
