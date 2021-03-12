@@ -1,57 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <song>
-    [Chorus]
-    Rare is this love
-    Keep it covered
-    I need you to run to me, run to me, lover
-    Run until you feel your lungs bleeding
-    
-    [Verse 1]
-    Oh but the farrow know
-    Her hungry eyes, her ancient soul
-    It's carried by the sneering menagerie
-    
-    Know what it is to grow
-    Beneath her sky, her punishing cold
-    To slowly learn of her ancient misery
-    
-    To be twisted by something
-    A shame without a sin
-    Like how she twisted the bog man
-    After she married him
-    
-    [Chorus]
-    Rare is this love, keep it covered
-    I need you to run to me, run to me, lover
-    Run until you feel your lungs bleeding
-    
-    [Verse 2]
-    But in all the world
-    There is one lover worthy of her
-    With as many souls claimed as she
-    
-    But for all he's worth
-    He still shatters always on her earth
-    The cause of every tear she'd ever weep
-    
-    Rushing to shore to meet her
-    Foaming with loneliness
-    White hands to fondle and beat her
-    Give her his onliness
-    
-    [Chorus]
-    Rare is this love, keep it covered
-    I need you to run to me, run to me, lover
-    Run until you feel your lungs bleeding
-    Rare is this love, keep it covered
-    I need you to run to me, run to me, lover
-    Run until you feel your lungs bleeding
-    
-    Rare is this love, keep it covered
-    I need you to run to me, run to me, lover
-    Run until you feel your lungs bleeding
-    Rare is this love, keep it covered
-    I need you to run to me, run to me, lover
-    Run until you feel your lungs bleeding
+    <information>
+        <producers>Rob Kirwan and Hozier</producers>
+        <track_number>15</track_number>
+        <title>Run</title>
+    </information>
+    <lyrics>
+        <chorus>
+            <stanza>
+                <line>Rare is this love</line>
+                <line>Keep it covered</line>
+                <line>I need you to run to me, run to me, lover</line>
+                <line>Run until you feel your lungs bleeding</line>
+            </stanza>
+        </chorus>
+        <verse_1>
+            <stanza>
+                <line>Oh but the farrow know</line>
+                <line>Her hungry eyes, her ancient soul</line>
+                <line>It's carried by the sneering menagerie</line>
+            </stanza>
+            <stanza>
+                <line>Know what it is to grow</line>
+                <line>Beneath her sky, her punishing cold</line>
+                <line>To slowly learn of her ancient misery</line>
+            </stanza>
+            <stanza>
+                <line>To be twisted by something</line>
+                <line>A shame without a sin</line>
+                <line>Like how she twisted the bog man</line>
+                <line>After she married him</line>
+            </stanza>
+        </verse_1>
+        <chorus>
+            <stanza>
+                <line>Rare is this love</line>
+                <line>Keep it covered</line>
+                <line>I need you to run to me, run to me, lover</line>
+                <line>Run until you feel your lungs bleeding</line>
+            </stanza>
+        </chorus>
+        <verse_2>
+            <stanza>
+                <line>But in all the world</line>
+                <line>There is one lover worthy of her</line>
+                <line>With as many souls claimed as she</line>
+            </stanza>
+            <stanza>
+                <line>But for all he's worth</line>
+                <line>He still shatters always on her earth</line>
+                <line>The cause of every tear she'd ever weep</line>
+            </stanza>
+            <stanza>
+                <line>Rushing to shore to meet her</line>
+                <line>Foaming with loneliness</line>
+                <line>White hands to fondle and beat her</line>
+                <line>Give her his onliness</line>
+            </stanza>
+        </verse_2>
+        <chorus>
+            <stanza>
+                <line>Rare is this love, keep it covered</line>
+                <line>I need you to run to me, lover</line>
+                <line>Run until you feel your lungs bleeding</line>
+                <line>Rare is this love, keep it covered</line>
+                <line>I need you to run to me, run to me, lover</line>
+                <line>Run until you feel your lungs bleeding</line>
+            </stanza>
+            <stanza>
+                <line>Rare is this love, keep it covered</line>
+                <line>I need you to run to me, lover</line>
+                <line>Run until you feel your lungs bleeding</line>
+                <line>Rare is this love, keep it covered</line>
+                <line>I need you to run to me, run to me, lover</line>
+                <line>Run until you feel your lungs bleeding</line>
+            </stanza>
+        </chorus>
+    </lyrics>
 </song>

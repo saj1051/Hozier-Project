@@ -1,70 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    [Intro: Hozier]
-    I have never known peace
-    Like the damp grass that yields to me
-    I have never known hunger
-    Like these insects that feast on me
-    
-    [Verse 1: Hozier]
-    A thousand teeth
-    And yours among them, I know
-    Our hungers appeased
-    Our heartbeats becoming slow
-    
-    [Pre-Chorus 1: Karen Cowley &amp; Hozier, Karen Cowley, Hozier]
-    We'll lay here for years or for hours
-    Thrown here or found, to freeze or to thaw
-    So long, we'd become the flowers
-    Two corpses we were, two corpses I saw
-    
-    [Chorus 1: Karen Cowley &amp; Hozier]
-    And they'd find us in a week
-    When the weather gets hot
-    After the insects have made their claim
-    I'd be home with you, I'd be home with you
-    
-    [Verse 2: Karen Cowley]
-    I have never known sleep
-    Like this slumber that creeps to me
-    I have never known colour
-    Like this morning reveals to me 
-    
-    [Verse 3: Karen Cowley]
-    And you haven't moved an inch
-    Such that I would not know
-    If you sleep always like this
-    The flesh calmly going cold
-    
-    [Pre-Chorus 2: Karen Cowley &amp; Hozier, Karen Cowley, Hozier]
-    We'll lay here for years or for hours
-    Your hand in my hand, so still and discreet
-    So long, we'd become the flowers
-    We'd feed well the land and worry the sheep
-    
-    [Chorus 2: Karen Cowley &amp;amp Hozier]
-    And they'd find us in a week
-    When the cattle show fear
-    After the insects have made their claim
-    After the foxes have known our taste
-    I'd be home with you, I'd be home with you...
-    
-    [Bridge: Karen Cowley, Hozier]
-    They'd find us in a week (We lay here for years or for hours)
-    When the weather gets hot (So long we become the flowers)
-    And they'd find us in a week (We lay here for years or for hours)
-    When the cattle show fear (So long we become the flowers)
-    
-    [Verse 4: Karen Cowley &amp; Hozier]
-    And they'd find us in a week
-    When the buzzards get loud
-    After the insects have made their claim
-    After the foxes have known our taste
-    
-    
-    [Outro: Karen Cowley &amp; Hozier]
-    After the raven has had his say
-    I'd be home with you, I'd be home with you
-    I'd be home with you, I'd be home with you
-    I'd be home with you, I'd be home with you
+    <information>
+        <producers>Rob Kirwan and Hozier</producers>
+        <guest_vocals>Karen Crowley</guest_vocals>
+        <track_number>7</track_number>
+        <title>In a Week</title>
+    </information>
+    <lyrics>
+        <intro singer="Hozier">
+            <stanza>
+                <line>I have never known peace</line>
+                <line>Like the damp grass that yields to me</line>
+                <line>I have never known hunger</line>
+                <line>Like these insects that feast on me</line>
+            </stanza>
+        </intro>
+        <verse_1 singer="Hozier">
+            <stanza>
+                <line>A thousand teeth</line>
+                <line>And yours among them, I know</line>
+                <line>Our hungers appeased</line>
+                <line>Our heartbeats becoming slow</line>
+            </stanza>
+        </verse_1>
+        <chorus singer="Hozier, Karen Crowley">
+            <prechorus singer="Hozier, Karen Crowley">
+                <stanza>
+                    <line>We'll lay here for years or for hours</line>
+                    <line>Thrown here of found, to freeze or to thaw</line>
+                    <line>So long, we'd become the flowers</line>
+                    <line>Two corpses we were, two corpses I saw</line>
+                </stanza>
+            </prechorus>
+            <stanza>
+                <line>And they'd find us in a week</line>
+                <line>When the weather gets hot</line>
+                <line>After the insects have made their claim</line>
+                <line>I'd be home with you, I'd be home with you</line>
+            </stanza>
+        </chorus>
+        <verse_2 singer="Karen Crowley">
+            <stanza>
+                <line>I have never known sleep</line>
+                <line>Like this slumber that creeps to me</line>
+                <line>I have never known colour</line>
+                <line>Like this morning reveals to me</line>
+            </stanza>
+        </verse_2>
+        <verse_3 singer="Karen Crowley">
+            <stanza>
+                <line>And you haven't moved an inch</line>
+                <line>Such that I would not know</line>
+                <line>If you sleep alwyas like this</line>
+                <line>The flesh calmly going cold</line>
+            </stanza>
+        </verse_3>
+        <chorus singer="Karen Crowley, Hozier">
+            <prechorus singer="Karen Crowley, Hozier">
+                <stanza>
+                    <line>We'll lay here for years of for hours</line>
+                    <line>Your hand in my hand, so still and discreet</line>
+                    <line>So long, we'd become the flowers</line>
+                    <line>We'd feed well the land and worry the sheep</line>
+                </stanza>
+            </prechorus>
+            <stanza>
+                <line>And they'd find us in a week</line>
+                <line>When the cattle show fear</line>
+                <line>After the insects have made their claim</line>
+                <line>After the foxes have known our taste</line>
+                <line>I'd be home with you, I'd be home with you...</line>
+            </stanza>
+        </chorus>
+        <bridge singer="Karen Crowley, Hozier">
+            <stanza>
+                <line>They'd find us in a week (We lay here for years or for hours</line>
+                <line>When the weather gets hot (So long we become the flowers)</line>
+                <line>And they'd find us in a week (We lay here for years of for hours)</line>
+                <line>When the cattle show fear (So long we become the flowers)</line>
+            </stanza>
+        </bridge>
+        <verse_4 singer="Karen Crowley, Hozier">
+            <stanza>
+                <line>And they'd find us in a week</line>
+                <line>When the buzzards get loud</line>
+                <line>After the insects have made their claim</line>
+                <line>After the foxes have known our taste</line>
+            </stanza>
+        </verse_4>
+        <outro singer="Karen Crowley, Hozier">
+            <stanza>
+                <line>And the raven has had his say</line>
+                <line>I'd be home with you, I'd be home with you</line>
+                <line>I'd be home with you, I'd be home with you</line>
+                <line>I'd be home with you, I'd be home with you</line>
+            </stanza>
+        </outro>
+    </lyrics>
 </song>

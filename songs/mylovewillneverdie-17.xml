@@ -1,39 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <song>
-    You've done
-    Me wrong
-    For a long
-    Long time
-    
-    But after all
-    You've done
-    I never changed
-    My mind
-    
-    Honey please
-    Try to love me
-    Honey please
-    Honey try
-    My love will never die
-    
-    Flowers
-    Flowers grow
-    Where I'm laid
-    To rest
-    
-    Honey pick
-    A blossom
-    And hold it
-    Hold it
-    To your breast
-    
-    Honey you know
-    That's my love
-    Bursting loud
-    From inside
-    
-    My love
-    Oh my love my love
-    Will never die
+    <information>
+        <producers>Hozier</producers>
+        <track_number>17</track_number>
+        <title>My Love Will Never Die</title>
+    </information>
+    <lyrics>
+        <stanza>
+            <line>You've done</line>
+            <line>Me wrong</line>
+            <line>For a long</line>
+            <line>Long time</line>
+        </stanza>
+        <stanza>
+            <line>But after all</line>
+            <line>You've done</line>
+            <line>I never changed</line>
+            <line>My mind</line>
+        </stanza>
+        <stanza>
+            <line>Honey please</line>
+            <line>Try to love me</line>
+            <line>Honey please</line>
+            <line>Honey try</line>
+            <line>My love will never die</line>
+        </stanza>
+        <stanza>
+            <line>Flowers</line>
+            <line>Flowers grow</line>
+            <line>Where I'm laid</line>
+            <line>To rest</line>
+        </stanza>
+        <stanza>
+            <line>Honey pick</line>
+            <line>A blossom</line>
+            <line>And hold it</line>
+            <line>Hold it</line>
+            <line>To your breast</line>
+        </stanza>
+        <stanza>
+            <line>Honey you know</line>
+            <line>That's my love</line>
+            <line>Bursting loud</line>
+            <line>From inside</line>
+        </stanza>
+        <stanza>
+            <line>My love</line>
+            <line>Oh my love my love</line>
+            <line>Will never die</line>
+        </stanza>
+    </lyrics>
 </song>
