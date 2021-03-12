@@ -19,7 +19,7 @@
             <stanza>
                 <line>I raised myself</line>
                 <line>My legs were weak</line>
-                <line>I prayed my mind be good to me</line>
+                <line>I <religiousConcept religion = "unknown">prayed</religiousConcept> my mind be good to me</line>
                 <line>An awful noise</line>
                 <line>Filled the air</line>
                 <line>I heard a scream in the woods somewhere</line>
@@ -58,7 +58,7 @@
                 <line>To save a life I didn't have</line>
                 <line>Dear, in the chase</line>
                 <line>There as I flew</line>
-                <line>Forgot all prayers of joining you</line>
+                <line>Forgot all <religiousConcept religion = "unknown">prayers</religiousConcept> of joining you</line>
             </stanza>
         </verse>
         <verse number = "6">

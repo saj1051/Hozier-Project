@@ -39,7 +39,7 @@
                 <line>There's an art to life's distraction</line>
                 <line>To somehow escape the burning wait, the art of scraping through</line>
                 <line>Some like to imagine</line>
-                <line> The dark caress of someone else; I guess any thrill will do</line>
+                <line> The <religiousConcept religion = "christianity"> dark caress </religiousConcept> of someone else; I guess any thrill will do</line>
             </stanza>
         </verse>
         <preChorus>
@@ -70,7 +70,7 @@
                 <line>That you would pray for him</line>
             </stanza>
             <stanza>
-                <line>'Cause God knows I fall in love just a little, oh, a little bit</line>
+                <line>'Cause <religiousFigure religion = "christianity">God</religiousFigure>knows I fall in love just a little, oh, a little bit</line>
                 <line>Every day with someone new</line>
                 <line>I fall in love just a little, oh, a little bit</line>
                 <line>Every day with someone new</line>

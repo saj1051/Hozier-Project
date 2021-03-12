@@ -83,7 +83,7 @@
                 <line>Any way</line>
                 <line>To distract and sedate</line>
                 <line>Adding shadows</line>
-                <line>To the walls of the cave</line>
+                <line><mythReference mythology = "Greek">To the walls of the cave</mythReference></line>
             </stanza>
         </preChorus>
         <chorus number = "1">

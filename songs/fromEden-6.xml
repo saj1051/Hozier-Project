@@ -33,13 +33,13 @@
                 <line>Honey, you're familiar, like my mirror years ago</line>
                 <line>Idealism sits in prison, chivalry fell on his sword</line>
                 <line>Innocence died screaming; honey, ask me, I should know</line>
-                <line> I slithered here from Eden just to sit outside your door</line>
+                <line> I <religiousFigure religious = "christianity">slithered</religiousFigure> here from <religiousPlace religion = "christianity">Eden</religiousPlace> just to sit outside your door</line>
             </stanza>
         </chorus>
         <verse number = "2">
             <stanza>
                 <line>Babe</line>
-                <line>There's something wretched about this</line>
+                <line>There's something <religiousConcept religion = "christianity">wretched</religiousConcept>about this</line>
                 <line>Something so precious about this</line>
                 <line>Where to begin?</line>
             </stanza>
@@ -47,7 +47,7 @@
                 <line>Babe</line>
                 <line>There's something broken about this</line>
                 <line>But I might be hoping about this</line>
-                <line>Oh, what a sin</line>
+                <line>Oh, what a <religiousConcept religion = "christianity">sin</religiousConcept></line>
             </stanza>
         </verse>
         <preChorus number = "2">

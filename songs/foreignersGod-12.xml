@@ -8,9 +8,9 @@
         <verse number = "1">
             <stanza>
                 <line>She moved with shameless wonder</line>
-                <line>The perfect creature rarely seen</line>
+                <line>The <mythReference mythology = "unknown">perfect creature</mythReference> rarely seen</line>
                 <line>Since some liar brought the thunder</line>
-                <line>When the land was godless and free</line>
+                <line>When the land was <religiousReference religion = "pagan">godless and free</religiousReference></line>
             </stanza>
             <stanza>
                 <line>Her eyes look sharp and steady</line>
@@ -29,7 +29,7 @@
         <chorus>
             <stanza>
                 <line>Screaming the name</line>
-                <line>Of a foreigner's God</line>
+                <line>Of a <religiousReference religion = "pagan">foreigner's God</religiousReference></line>
                 <line>Screaming the name</line>
                 <line>Of a foreigner's God</line>
                 <line>Screaming the name</line>

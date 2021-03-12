@@ -9,7 +9,7 @@
         <verse number = "1">
             <stanza>
                 <line>When I was a child, I heard voices</line>
-                <line>Some would sing and some would scream</line>
+                <line><religiousConcept religion = "chrisianity">Some would sing and some would scream</religiousConcept></line>
                 <line>You soon find you have few choices</line>
                 <line>I learned the voices died with me</line>
                 <line>When I was a child, I'd sit for hours</line>
@@ -22,7 +22,7 @@
             <stanza>
                 <line>All you have is your fire</line>
                 <line>And the place you need to reach</line>
-                <line>Don't you ever tame your demons</line>
+                <line>Don't you ever tame your <religiousConcept religion = "chrisianity">demons</religiousConcept></line>
                 <line>But always keep them on a leash</line>
             </stanza>
         </hook>
