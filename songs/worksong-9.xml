@@ -1,66 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <song>
-    [Verse 1]
-    Boys, workin' on empty
-    Is that the kinda way to face the burning heat?
-    I just think about my baby
-    I'm so full of love I could barely eat
-    
-    There's nothin' sweeter than my baby
-    I'd never want once from the cherry tree
-    'Cause my baby's sweet as can be
-    She give me toothaches just from kissin' me
-    
-    [Chorus]
-    When, my, time comes around
-    Lay me gently in the cold dark earth
-    No grave can hold my body down
-    I'll crawl home to her
-    
-    [Verse 2]
-    Boys, when my baby found me
-    I was three days on a drunken sin
-    I woke with her walls around me
-    Nothin' in her room but an empty crib
-    
-    And I was burning up a fever
-    I didn't care much how long I lived
-    But I swear, I thought I dreamed her
-    She never asked me once about the wrong I did
-    
-    [Chorus]
-    When, my, time comes around
-    Lay me gently in the cold dark earth
-    No grave can hold my body down
-    I'll crawl home to her
-    
-    [Chorus]
-    When, my, time comes around
-    Lay me gently in the cold dark earth
-    No grave can hold my body down
-    I'll crawl home to her
-    
-    [Bridge]
-    My babe would never fret none
-    About what my hands and my body done
-    If the Lord don't forgive me
-    I'd still have my baby and my babe would have me
-    
-    When I was kissin' on my baby
-    And she'd put her love down, soft and sweet
-    In the low lamp light, I was free
-    Heaven and hell were words to me
-    
-    [Chorus]
-    When, my, time comes around
-    Lay me gently in the cold dark earth
-    No grave can hold my body down
-    I'll crawl home to her
-    
-    [Chorus]
-    When, my, time comes around
-    Lay me gently in the cold dark earth
-    No grave can hold my body down
-    I'll crawl home to her
+    <information>
+        <producers>Hozier and Rob Kirwan</producers>
+        <track_number>9</track_number>
+        <title>Work Song</title>
+    </information>
+    <lyrics>
+        <verse number="1">
+            <stanza>
+                <line>Boys, workin' on that empty</line>
+                <line>Is that the kinda way to face the burning heat?</line>
+                <line><lit_device motif="I just think about my baby"></lit_device></line>
+                <line><lit_device dramatic_irony="I'm just so full of love I could barely eat"></lit_device></line>
+            </stanza>
+            <stanza>
+                <line>There's nothing sweeter than my baby</line>
+                <line>I'd never want once from the cherry tree</line>
+                <line><lit_device motif="'Cause my baby's as sweet as can be"></lit_device></line>
+                <line><lit_device motif="She gives me toothaches just from kissin' me"></lit_device></line>
+            </stanza>
+        </verse>
+        <chorus>
+            <stanza>
+                <line>When, my, time comes around</line>
+                <line><lit_device imagery="Lay me gently in the cold dark earth"></lit_device></line>
+                <line>No grave can hold my body down</line>
+                <line>I'll crawl home to her</line>
+            </stanza>
+        </chorus>
+        <verse number="2">
+            <stanza>
+                <line>Boys, when my baby found me</line>
+                <line>I was <lit_device symbolism="three"></lit_device> days on a drunken sin</line>
+                <line><lit_device euphemism="I woke with her walls around me"></lit_device></line>
+                <line><lit_device imagery="Nothin' in her room but an empty crib"></lit_device></line>
+            </stanza>
+            <stanza>
+                <line>And I was burning up a fever</line>
+                <line>I didn't care much how long I lived</line>
+                <line><lit_device motif="But I swear, I thought I dreamed her"></lit_device></line>
+                <line>She never asked me once about the wrong I did</line>
+            </stanza>
+        </verse>
+        <chorus>
+            <stanza>
+                <line>When, my, time comes around</line>
+                <line><lit_device imagery="Lay me gently in the cold dark earth"></lit_device></line>
+                <line><lit_device paradox="No grave can hold my body down"></lit_device></line>
+                <line>I'll crawl home to her</line>
+            </stanza>
+        </chorus>
+        <chorus>
+            <stanza>
+                <line>When, my, time comes around</line>
+                <line><lit_device imagery="Lay me gently in the cold dark earth"></lit_device></line>
+                <line><lit_device paradox="No grave can hold my body down"></lit_device></line>
+                <line>I'll crawl home to her</line>
+            </stanza>
+        </chorus>
+        <bridge>
+            <stanza>
+                <line>My babe would never fret none</line>
+                <line>About what my hands and my body have done</line>
+                <line>If the <religious_figure christianity="Lord"></religious_figure> don't forgive me</line>
+                <line><lit_device motif="I'd still have my baby and my babe would have me"></lit_device></line>
+            </stanza>
+            <stanza>
+                <line><lit_device motif="When I was kissin' on my baby"></lit_device></line>
+                <line><lit_device euphemism="And she'd put her love down, soft and sweet"></lit_device></line>
+                <line>In the low lamp light, I was free</line>
+                <line><religious_place christianity="Heaven"></religious_place> and <religious_place christianity="hell"></religious_place> were words to me</line>
+            </stanza>
+        </bridge>
+        <chorus>
+            <stanza>
+                <line>When, my, time comes around</line>
+                <line><lit_device imagery="Lay me gently in the cold dark earth"></lit_device></line>
+                <line><lit_device paradox="No grave can hold my body down"></lit_device></line>
+                <line>I'll crawl home to her</line>
+            </stanza>
+        </chorus>
+        <chorus>
+            <stanza>
+                <line>When, my, time comes around</line>
+                <line><lit_device imagery="Lay me gently in the cold dark earth"></lit_device></line>
+                <line><lit_device paradox="No grave can hold my body down"></lit_device></line>
+                <line>I'll crawl home to her</line>
+            </stanza>
+        </chorus>
+    </lyrics>
 </song>
