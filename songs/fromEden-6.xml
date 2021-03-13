@@ -31,8 +31,8 @@
         <chorus>
             <stanza>
                 <line>Honey, you're familiar, like my mirror years ago</line>
-                <line>Idealism sits in prison, chivalry fell on his sword</line>
-                <line>Innocence died screaming; honey, ask me, I should know</line>
+                <line><literaryDevice device = "metaphor">Idealism sits in prison, chivalry fell on his sword</literaryDevice></line>
+                <line><literaryDevice device = "personification">Innocence died screaming</literaryDevice>; honey, ask me, I should know</line>
                 <line> I <religiousFigure religious = "christianity">slithered</religiousFigure> here from <religiousPlace religion = "christianity">Eden</religiousPlace> just to sit outside your door</line>
             </stanza>
         </chorus>
@@ -54,7 +54,7 @@
             <stanza>
                 <line>To the strand, a picnic planned</line>
                 <line>For you and me</line>
-                <line>A rope in hand for your other man</line>
+                <line><literaryDevice device = "symbolism">A rope in hand for your other man</literaryDevice></line>
                 <line>To hang from a tree</line>
             </stanza>
         </preChorus>

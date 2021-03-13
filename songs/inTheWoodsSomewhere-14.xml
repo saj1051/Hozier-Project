@@ -9,10 +9,10 @@
             <stanza>
                 <line>My head was warm</line>
                 <line>My skin was soaked</line>
-                <line>I called your name 'til the fever broke</line>
-                <line> When I awoke</line>
+                <line>I called your name <literaryDevice device = "metaphor">'til the fever broke</literaryDevice></line>
+                <line>When I awoke</line>
                 <line>The moon still hung</line>
-                <line>The night so black that the darkness hums</line>
+                <line>The night so black that <literaryDevice device = "personification">the darkness hums</literaryDevice></line>
             </stanza>
         </verse>
         <verse number = "2">

@@ -8,16 +8,16 @@
     <lyrics>
         <verse number = "1">
             <stanza>
-                <line>I watch the work of my kin, bold and boyful</line>
+                <line>I watch the work of my kin, <literaryDevice device = "alliteration">bold and boyful</literaryDevice></line>
                 <line>Toying somewhere between love and abuse</line>
                 <line>Calling to join them the wretched and joyful</line>
-                <line>Shaking the wings of their terrible youths</line>
+                <line><literaryDevice device = "metaphor">Shaking the wings of their terrible youths</literaryDevice></line>
             </stanza>
             <stanza>
                 <line>Freshly disowned in some frozen devotion</line>
                 <line>No more alone or myself could I be</line>
-                <line> Lurched like a stray to the arms that were open</line>
-                <line> No shortage of sordid, no protest from me</line>
+                <line>Lurched like a stray to the arms that were open</line>
+                <line>No shortage of sordid, no protest from me</line>
             </stanza>
         </verse>
         <chorus>
@@ -31,8 +31,8 @@
         <verse number = "2">
             <stanza>
                 <line>Feeling more human and hooked on her flesh, I</line>
-                <line>Lay my heart down with the rest at her feet</line>
-                <line>Fresh from the fields, all fetor and fertile</line>
+                <line><literaryDevice device = "metaphor">Lay my heart down with the rest at her feet</literaryDevice></line>
+                <line>Fresh from the fields, all <literaryDevice device = "alliteration">fetor and fertile</literaryDevice></line>
                 <line>It's bloody and raw, but I swear it is sweet</line>
             </stanza>
         </verse>

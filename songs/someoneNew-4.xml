@@ -10,7 +10,7 @@
             <stanza>
                 <line>Don't take this the wrong way</line>
                 <line>You knew who I was with every step that I ran to you</line>
-                <line>Only blue or black days</line>
+                <line><literaryDevice device = "symbolism">Only blue or black days</literaryDevice></line>
                 <line>Electing strange perfections in any stranger I choose</line>
             </stanza>
         </verse>
@@ -65,9 +65,9 @@
         <bridge>
             <stanza>
                 <line>I wake at the first cringe of morning</line>
-                <line>And my heart's already sinned</line>
+                <line>And my heart's already <religiousConcept religion = "christianity">sinned</religiousConcept></line>
                 <line>How pure, how sweet a love, Aretha</line>
-                <line>That you would pray for him</line>
+                <line>That you would <religiousConcept religion = "christianity">pray</religiousConcept> for him</line>
             </stanza>
             <stanza>
                 <line>'Cause <religiousFigure religion = "christianity">God</religiousFigure>knows I fall in love just a little, oh, a little bit</line>

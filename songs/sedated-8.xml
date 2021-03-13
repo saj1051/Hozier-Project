@@ -8,10 +8,10 @@
     <lyrics>
         <verse number = "1">
             <stanza>
-                <line>Just a little rush, babe, to feel dizzy</line>
+                <line>Just a little rush, babe, <literaryDevice device = "sensory imgagery">to feel dizzy</literaryDevice></line>
                 <line>To derail the mind of me</line>
                 <line>Just a little hush, babe; my veins are busy</line>
-                <line> But my heart's in atrophy</line>
+                <line>But my heart's in atrophy</line>
             </stanza>
         </verse>
         <preChorus>
@@ -19,13 +19,13 @@
                 <line>Any way</line>
                 <line>To distract and sedate</line>
                 <line>Adding shadows</line>
-                <line>To the walls of the cave</line>
+                <line><mythReference mythology = "Greek">To the walls of the cave</mythReference></line>
             </stanza>
         </preChorus>
         <chorus number = "1">
             <stanza>
                 <line>You and I, nursing on a</line>
-                <line>Poison that never stung</line>
+                <line><literaryDevice device = "metaphor">Poison that never stung</literaryDevice></line>
                 <line>Our teeth and lungs are lined</line>
                 <line>With the scum of it</line>
             </stanza>
@@ -83,7 +83,7 @@
                 <line>Any way</line>
                 <line>To distract and sedate</line>
                 <line>Adding shadows</line>
-                <line><mythReference mythology = "Greek">To the walls of the cave</mythReference></line>
+                <line>To the walls of the cave</line>
             </stanza>
         </preChorus>
         <chorus number = "1">

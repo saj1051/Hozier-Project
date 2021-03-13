@@ -20,10 +20,10 @@
         </verse>
         <hook>
             <stanza>
-                <line>All you have is your fire</line>
+                <line>All you have is <literaryDevice device = "symbolism">your fire</literaryDevice></line>
                 <line>And the place you need to reach</line>
                 <line>Don't you ever tame your <religiousConcept religion = "chrisianity">demons</religiousConcept></line>
-                <line>But always keep them on a leash</line>
+                <line>But <literaryDevice device = "metaphor">always keep them on a leash</literaryDevice></line>
             </stanza>
         </hook>
         <humming/>
@@ -31,8 +31,8 @@
             <stanza>
                 <line>When I was sixteen, my senses fooled me</line>
                 <line>Thought gasoline was on my clothes</line>
-                <line>I knew that something would always rule me</line>
-                <line> I knew this scent was mine alone </line>
+                <line>I knew that <literaryDevice device = "symbolism">something would always rule me</literaryDevice></line>
+                <line>I knew this scent was mine alone </line>
             </stanza>
         </verse>
         <hook>
@@ -46,7 +46,7 @@
         <bridge>
             <stanza>
                 <line>When I was a man, I thought it ended</line>
-                <line>When I knew love's perfect ache</line>
+                <line>When I knew <literaryDevice device = "metaphor">love's perfect ache</literaryDevice></line>
                 <line>But my peace has always depended</line>
                 <line>On all the ashes in my wake</line>
             </stanza>

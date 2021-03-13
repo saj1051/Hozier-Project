@@ -9,8 +9,8 @@
             <stanza>
                 <line>I had a thought, dear, however scary</line>
                 <line>About that night, the bugs and the dirt</line>
-                <line>Why were you digging? What did you bury</line>
-                <line>Before those hands pulled me from the earth?</line>
+                <line><literaryDevice device = "metaphor">Why were you digging? What did you bury</literaryDevice></line>
+                <line>Before those <literaryDevice device = "metaphor">hands pulled me from the earth?</literaryDevice></line>
             </stanza>
         </verse>
         <chorus>
@@ -18,13 +18,13 @@
                 <line>I will not ask you where you came from</line>
                 <line>I will not ask and neither should you</line>
                 <line>Honey, just put your sweet lips on my lips</line>
-                <line>We should just kiss like real people do</line>
+                <line>We should just kiss <literaryDevice device = "simile">like real people do</literaryDevice></line>
             </stanza>
         </chorus>
         <verse number = "2">
             <stanza>
                 <line>I knew that look, dear: eyes always seeking</line>
-                <line>Was there in someone that dug long ago</line>
+                <line><literaryDevice device = "metaphor">Was there in someone that dug long ago</literaryDevice></line>
                 <line>So I will not ask you why you were creeping</line>
                 <line>In some sad way, I already know</line>
             </stanza>
