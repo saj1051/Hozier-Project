@@ -9,22 +9,22 @@
     <lyrics>
         <chorus>
             <stanza>
-                <line>Rare is this love</line>
+                <line><lit_device motif="Rare is this love"></lit_device></line>
                 <line>Keep it covered</line>
-                <line>I need you to run to me, run to me, lover</line>
+                <line><lit_device motif="I need you to run to me, run to me, lover"></lit_device></line>
                 <line>Run until you feel your lungs bleeding</line>
             </stanza>
         </chorus>
-        <verse_1>
+        <verse number="1">
             <stanza>
                 <line>Oh but the farrow know</line>
-                <line>Her hungry eyes, her ancient soul</line>
+                <line>Her hungry eyes, <lit_device hyperbole="her ancient soul"></lit_device></line>
                 <line>It's carried by the sneering menagerie</line>
             </stanza>
             <stanza>
                 <line>Know what it is to grow</line>
-                <line>Beneath her sky, her punishing cold</line>
-                <line>To slowly learn of her ancient misery</line>
+                <line><lit_device hyperbole="Beneath her sky, her punishing cold"></lit_device></line>
+                <line><lit_device hyperbole="To slowly learn of her ancient misery"></lit_device></line>
             </stanza>
             <stanza>
                 <line>To be twisted by something</line>
@@ -32,16 +32,16 @@
                 <line>Like how she twisted the bog man</line>
                 <line>After she married him</line>
             </stanza>
-        </verse_1>
+        </verse>
         <chorus>
             <stanza>
-                <line>Rare is this love</line>
+                <line><lit_device motif="Rare is this love"></lit_device></line>
                 <line>Keep it covered</line>
-                <line>I need you to run to me, run to me, lover</line>
+                <line><lit_device motif="I need you to run to me, run to me, lover"></lit_device></line>
                 <line>Run until you feel your lungs bleeding</line>
             </stanza>
         </chorus>
-        <verse_2>
+        <verse number="2">
             <stanza>
                 <line>But in all the world</line>
                 <line>There is one lover worthy of her</line>
@@ -49,31 +49,31 @@
             </stanza>
             <stanza>
                 <line>But for all he's worth</line>
-                <line>He still shatters always on her earth</line>
-                <line>The cause of every tear she'd ever weep</line>
+                <line><lit_device frame_story="He still shatters always on her earth"></lit_device></line>
+                <line><lit_device framer_story="The cause of every tear she'd ever weep"></lit_device></line>
             </stanza>
             <stanza>
                 <line>Rushing to shore to meet her</line>
-                <line>Foaming with loneliness</line>
-                <line>White hands to fondle and beat her</line>
+                <line><lit_device metaphor="Foaming with loneliness"></lit_device></line>
+                <line><lit_device imagery="White hands to fondle and beat her"></lit_device></line>
                 <line>Give her his onliness</line>
             </stanza>
-        </verse_2>
+        </verse>
         <chorus>
             <stanza>
-                <line>Rare is this love, keep it covered</line>
-                <line>I need you to run to me, lover</line>
+                <line><lit_device motif="Rare is this love"></lit_device></line>
+                <line><lit_device motif="I need you to run to me, lover"></lit_device></line>
                 <line>Run until you feel your lungs bleeding</line>
-                <line>Rare is this love, keep it covered</line>
-                <line>I need you to run to me, run to me, lover</line>
+                <line><lit_device motif="Rare is this love"></lit_device></line>
+                <line><lit_device motif="I need you to run to me, run to me, lover"></lit_device></line>
                 <line>Run until you feel your lungs bleeding</line>
             </stanza>
             <stanza>
-                <line>Rare is this love, keep it covered</line>
-                <line>I need you to run to me, lover</line>
+                <line><lit_device motif="Rare is this love"></lit_device></line>
+                <line><lit_device motif="I need you to run to me, lover"></lit_device></line>
                 <line>Run until you feel your lungs bleeding</line>
-                <line>Rare is this love, keep it covered</line>
-                <line>I need you to run to me, run to me, lover</line>
+                <line><lit_device motif="Rare is this love"></lit_device></line>
+                <line><lit_device motif="I need you to run to me, run to me, lover"></lit_device></line>
                 <line>Run until you feel your lungs bleeding</line>
             </stanza>
         </chorus>

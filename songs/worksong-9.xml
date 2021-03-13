@@ -7,55 +7,55 @@
         <title>Work Song</title>
     </information>
     <lyrics>
-        <verse_1>
+        <verse number="1">
             <stanza>
                 <line>Boys, workin' on that empty</line>
                 <line>Is that the kinda way to face the burning heat?</line>
-                <line>I just think about my baby</line>
-                <line>I'm just so full of love I could barely eat</line>
+                <line><lit_device motif="I just think about my baby"></lit_device></line>
+                <line><lit_device dramatic_irony="I'm just so full of love I could barely eat"></lit_device></line>
             </stanza>
             <stanza>
                 <line>There's nothing sweeter than my baby</line>
                 <line>I'd never want once from the cherry tree</line>
-                <line>'Cause my baby's as sweet as can be</line>
-                <line>She gives me toothaches just from kissin' me</line>
+                <line><lit_device motif="'Cause my baby's as sweet as can be"></lit_device></line>
+                <line><lit_device motif="She gives me toothaches just from kissin' me"></lit_device></line>
             </stanza>
-        </verse_1>
+        </verse>
         <chorus>
             <stanza>
                 <line>When, my, time comes around</line>
-                <line>Lay me gently in the cold dark earth</line>
+                <line><lit_device imagery="Lay me gently in the cold dark earth"></lit_device></line>
                 <line>No grave can hold my body down</line>
                 <line>I'll crawl home to her</line>
             </stanza>
         </chorus>
-        <verse_2>
+        <verse number="2">
             <stanza>
                 <line>Boys, when my baby found me</line>
-                <line>I was three days on a drunken sin</line>
-                <line>I woke with her walls around me</line>
-                <line>Nothin' in her room but an empty crib</line>
+                <line>I was <lit_device symbolism="three"></lit_device> days on a drunken sin</line>
+                <line><lit_device euphemism="I woke with her walls around me"></lit_device></line>
+                <line><lit_device imagery="Nothin' in her room but an empty crib"></lit_device></line>
             </stanza>
             <stanza>
                 <line>And I was burning up a fever</line>
-                <line>I didn't care much how long I loved</line>
-                <line>But I swear, I thought I dreamed her</line>
+                <line>I didn't care much how long I lived</line>
+                <line><lit_device motif="But I swear, I thought I dreamed her"></lit_device></line>
                 <line>She never asked me once about the wrong I did</line>
             </stanza>
-        </verse_2>
+        </verse>
         <chorus>
             <stanza>
                 <line>When, my, time comes around</line>
-                <line>Lay me gently in the cold dark earth</line>
-                <line>No grave can hold my body down</line>
+                <line><lit_device imagery="Lay me gently in the cold dark earth"></lit_device></line>
+                <line><lit_device paradox="No grave can hold my body down"></lit_device></line>
                 <line>I'll crawl home to her</line>
             </stanza>
         </chorus>
         <chorus>
             <stanza>
                 <line>When, my, time comes around</line>
-                <line>Lay me gently in the cold dark earth</line>
-                <line>No grave can hold my body down</line>
+                <line><lit_device imagery="Lay me gently in the cold dark earth"></lit_device></line>
+                <line><lit_device paradox="No grave can hold my body down"></lit_device></line>
                 <line>I'll crawl home to her</line>
             </stanza>
         </chorus>
@@ -63,29 +63,29 @@
             <stanza>
                 <line>My babe would never fret none</line>
                 <line>About what my hands and my body have done</line>
-                <line>If the Lord don't forgive me</line>
-                <line>I'd still have my baby and my babe would have me</line>
+                <line>If the <religious_figure christianity="Lord"></religious_figure> don't forgive me</line>
+                <line><lit_device motif="I'd still have my baby and my babe would have me"></lit_device></line>
             </stanza>
             <stanza>
-                <line>When I was kissin' on my baby</line>
-                <line>And she'd put her love down, soft and sweet</line>
+                <line><lit_device motif="When I was kissin' on my baby"></lit_device></line>
+                <line><lit_device euphemism="And she'd put her love down, soft and sweet"></lit_device></line>
                 <line>In the low lamp light, I was free</line>
-                <line>Heaven and hell were words to me</line>
+                <line><religious_place christianity="Heaven"></religious_place> and <religious_place christianity="hell"></religious_place> were words to me</line>
             </stanza>
         </bridge>
         <chorus>
             <stanza>
                 <line>When, my, time comes around</line>
-                <line>Lay me gently in the cold dark earth</line>
-                <line>No grave can hold my body down</line>
+                <line><lit_device imagery="Lay me gently in the cold dark earth"></lit_device></line>
+                <line><lit_device paradox="No grave can hold my body down"></lit_device></line>
                 <line>I'll crawl home to her</line>
             </stanza>
         </chorus>
         <chorus>
             <stanza>
                 <line>When, my, time comes around</line>
-                <line>Lay me gently in the cold dark earth</line>
-                <line>No grave can hold my body down</line>
+                <line><lit_device imagery="Lay me gently in the cold dark earth"></lit_device></line>
+                <line><lit_device paradox="No grave can hold my body down"></lit_device></line>
                 <line>I'll crawl home to her</line>
             </stanza>
         </chorus>

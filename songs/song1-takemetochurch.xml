@@ -7,48 +7,47 @@
         <title>Take Me To Church</title>
     </information>
 <lyrics>
-    <verse_1>
+    <verse number ="1">
         <stanza>
-            <line>My lover's got humor</line>
+            <line><person relationship="My lover's"></person> got humor</line>
             <line>She's the giggle at a funeral</line>
             <line>Knows everybody's disapproval</line>
-            <line>I should've worshipped her sooner</line>
-            <line>If the heavens ever did speak</line>
+            <line>I should've <religious action="worshipped"></religious> her sooner</line>
+            <line>If the <religious place="heavens"></religious> ever did speak</line>
             <line>She's the last true mouthpiece</line>
-            <line>Every Sunday's getting more bleak</line>
+            <line>Every <bib reference="Sunday's"></bib> getting more bleak</line>
             <line>A fresh poison each week</line>
             <line>"We were born sick"</line>
             <line>You heard them say it</line>
-            <line>My church offers no absolutes</line>
-            <line>She tells me "Worship in the bedroom"</line>
-            <line>The only Heaven I'll be sent to</line>
+            <line>My <religious place="church"></religious> offers no absolutes</line>
+            <line>She tells me "<religious action="Worship"></religious> in the bedroom"</line>
+            <line>The only <religious place="Heaven"></religious> I'll be sent to</line>
             <line>Is when I'm alone with you</line>
-            <line>I was born sick, but I love it</line>
+            <line><bib reference="I was born sick"></bib>, but I love it</line>
             <line>Command me to be well</line>
         </stanza>
-    </verse_1>
+    </verse>
     <chorus>
         <stanza>
-            <prechorus>Aaa, Amen, Amen, Amen</prechorus>
-            <line>Take me to church</line>
-            <line>I'll worship like a dog at the shrine of your lies</line>
-            <line>I'll tell you my sins and you can sharpen your knife</line>
+            <prechorus>Aaa, <religious_action christianity="Amen"></religious_action>, <religious_action christianity="Amen"></religious_action>, <religious_action christianity="Amen"></religious_action></prechorus>
+            <line>Take me to <religious_place christianity="church"></religious_place></line>
+            <line>I'll <religious action="worship"></religious> like a dog at the <bib reference="shrine of your lies"></bib></line>
+            <line>I'll tell you my <bib reference="sins"></bib> and you can sharpen your knife</line>
             <line>Offer me that deathless death</line>
-            <line>Good God, let me give you my life</line>
-            <line>Take me to church</line>
-            <line>I'll worship like a dog at the shrine of your lies</line>
-            <line>I'll tell you my sins and you can sharpen your knife</line>
+            <line>Good <religious_figure christianity="God"></religious_figure>, <bib reference="let me give you my life"></bib></line>
+            <line>Take me to <religious_place christianity="church"></religious_place></line>
+            <line>I'll <religious action="worship"></religious> like a dog at the <bib reference="shrine of your lies"></bib></line>
+            <line>I'll tell you my <bib reference="sins"></bib> and you can sharpen your knife</line>
             <line>Offer me that deathless death</line>
-            <line>Good God, let me give you my life</line>
+            <line>Good <religious_figure christianity="God"></religious_figure>, <bib reference="let me give you my life"></bib></line>
         </stanza>
     </chorus>
-
-    <verse_2>
+    <verse number="2">
         <stanza>
-            <line>I'f I'm a pagan of the good times</line>
+            <line>I'f I'm a <religious_figure paganism="pagan"></religious_figure> of the good times</line>
             <line>My lover's the sunlight</line>
             <line>To keep the goddess on my side</line>
-            <line>She demands a sacrifice</line>
+            <line>She demands a <religious action="sacrifice"></religious></line>
             <line>Drain the whole sea</line>
             <line>Get something shiny</line>
             <line>Something meaty for the main course</line>
@@ -59,25 +58,26 @@
             <line>That looks plenty</line>
             <line>This is hungry work</line>
         </stanza>
-    </verse_2>
+    </verse>
     <chorus>
         <stanza>
-            <line>Take me to church</line>
-            <line>I'll worship like a dog at the shrine of your lies</line>
-            <line>I'll tell you my sins and you can sharpen your knife</line>
+            <prechorus>Aaa, <religious_action christianity="Amen"></religious_action>, <religious_action christianity="Amen"></religious_action>, <religious_action christianity="Amen"></religious_action></prechorus>
+            <line>Take me to <religious_place christianity="church"></religious_place></line>
+            <line>I'll <religious action="worship"></religious> like a dog at the <bib reference="shrine of your lies"></bib></line>
+            <line>I'll tell you my <bib reference="sins"></bib> and you can sharpen your knife</line>
             <line>Offer me that deathless death</line>
-            <line>Good God, let me give you my life</line>
-            <line>Take me to church</line>
-            <line>I'll worship like a dog at the shrine of your lies</line>
-            <line>I'll tell you my sins and you can sharpen your knife</line>
+            <line>Good <religious_figure christianity="God"></religious_figure>, <bib reference="let me give you my life"></bib></line>
+            <line>Take me to <religious_place christianity="church"></religious_place></line>
+            <line>I'll <religious action="worship"></religious> like a dog at the <bib reference="shrine of your lies"></bib></line>
+            <line>I'll tell you my <bib reference="sins"></bib> and you can sharpen your knife</line>
             <line>Offer me that deathless death</line>
-            <line>Good God, let me give you my life</line>
+            <line>Good <religious_figure christianity="God"></religious_figure>, <bib reference="let me give you my life"></bib></line>
         </stanza>
     </chorus>
     <bridge>
         <stanza>
-            <line>No masters of kings when the ritual begins</line>
-            <line>There is no sweeter innocence than our gentle sin</line>
+            <line>No masters of kings when the <religious action="ritual"></religious> begins</line>
+            <line><bib reference="There is no sweeter innocence than our gentle sin"></bib></line>
             <line>In the madness and soil of that sad earthly scene</line>
             <line>Only then I am human</line>
             <line>Only then I am clean</line>
@@ -85,16 +85,16 @@
     </bridge>
     <chorus>
         <stanza>
-            <line>Take me to church</line>
-            <line>I'll worship like a dog at the shrine of your lies</line>
-            <line>I'll tell you my sins and you can sharpen your knife</line>
+            <line>Take me to <religious_place christianity="church"></religious_place></line>
+            <line>I'll <religious action="worship"></religious> like a dog at the <bib reference="shrine of your lies"></bib></line>
+            <line>I'll tell you my <bib reference="sins"></bib> and you can sharpen your knife</line>
             <line>Offer me that deathless death</line>
-            <line>Good God, let me give you my life</line>
-            <line>Take me to church</line>
-            <line>I'll worship like a dog at the shrine of your lies</line>
-            <line>I'll tell you my sins and you can sharpen your knife</line>
+            <line>Good <religious_figure christianity="God"></religious_figure>, <bib reference="let me give you my life"></bib></line>
+            <line>Take me to <religious_place christianity="church"></religious_place></line>
+            <line>I'll <religious action="worship"></religious> like a dog at the <bib reference="shrine of your lies"></bib></line>
+            <line>I'll tell you my <bib reference="sins"></bib> and you can sharpen your knife</line>
             <line>Offer me that deathless death</line>
-            <line>Good God, let me give you my life</line>
+            <line>Good <religious_figure christianity="God"></religious_figure>, <bib reference="let me give you my life"></bib></line>
         </stanza>
     </chorus>
 </lyrics>

@@ -7,26 +7,26 @@
         <title>Jackie and Wilson</title>
     </information>
     <lyrics>
-        <verse_1>
+        <verse number="1">
             <stanza>
                 <line>So tired trying to see from behind the red in my eyes</line>
                 <line>No better version of me I could pretend to be tonight</line>
                 <line>Soul deep in this swill with the most familiar of swine</line>
                 <line>For reasons wretched and divine</line>
             </stanza>
-        </verse_1>
-        <verse_2>
+        </verse>
+        <verse number="2">
             <stanza>
-                <line>She blows out of nowhere, a roman candle of the wild</line>
+                <line>She blows out of nowhere, <myth reference="a roman candle of the wild"></myth></line>
                 <line>Laughing her way through my feeble disguise</line>
                 <line>No other version of me I would rather be tonight</line>
-                <line>And Lord, she found me just in time</line>
+                <line>And <religious_figure christianity="Lord"></religious_figure>, <person>she</person> found me just in time</line>
             </stanza>
-        </verse_2>
+        </verse>
         <chorus>
             <prechorus>
                 <line>'Cause with my mid-youth crisis all said and done</line>
-                <line>I need to be youthfully felt 'cause, God, I never felt young</line>
+                <line>I need to be youthfully felt 'cause, <religious_figure christianity="God"></religious_figure>, I never felt young</line>
             </prechorus>
             <stanza>
                 <line>She's gonna save me, call me baby</line>
@@ -41,18 +41,18 @@
                 <line>Raise 'em on rhythm and blues</line>
             </stanza>
         </chorus>
-        <verse_3>
+        <verse number="3">
             <stanza>
-                <line>Lord, it'd be great to find a place we could escape sometime</line>
-                <line>Me and my Isis growing black irises in the sunshine</line>
+                <line><religious_figure christianity="Lord"></religious_figure>, it'd be great to find a place we could escape sometime</line>
+                <line>Me and my <myth reference="Isis"></myth> growing black irises in the sunshine</line>
                 <line>Every version of me dead and buried in the yard outside</line>
                 <line>We'd sit back and watch the world go by</line>
             </stanza>
-        </verse_3>
+        </verse>
         <chorus>
             <prechorus>
                 <line>Happy to lie back, watch it burn and rust</line>
-                <line>We tried the world; good God it wasn't for us</line>
+                <line>We tried the world; good <religious_figure christianity="God"></religious_figure> it wasn't for us</line>
             </prechorus>
             <stanza>
                 <line>She's gonna save me, call me baby</line>
@@ -63,20 +63,20 @@
             <stanza>
                 <line>We'll steal a Lexus, be detectives</line>
                 <line>Ride 'round picking up clues</line>
-                <line>We'll name our children Jackie and Wilson</line>
+                <line>We'll name our children <lit_device allusion="Jackie and Wilson"></lit_device></line>
                 <line>Raise 'em on rhythm and blues</line>
             </stanza>
         </chorus>
         <element empty="intrumental"/>
-        <verse_4>
+        <verse number="4">
             <stanza>
                 <line>Cut clean from the dream that night, let my mind reset</line>
-                <line>Looing up from a cigarette, she's already left</line>
+                <line>Looking up from a cigarette, she's already left</line>
                 <line>I start digging up the yard for what's left of me in our little
                     vignette</line>
                 <line>For whatever poor soul is coming next</line>
             </stanza>
-        </verse_4>
+        </verse>
         <chorus>
             <stanza>
                 <line>She's gonna save me, call me baby</line>

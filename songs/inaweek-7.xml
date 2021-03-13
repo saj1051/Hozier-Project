@@ -10,26 +10,26 @@
         <intro singer="Hozier">
             <stanza>
                 <line>I have never known peace</line>
-                <line>Like the damp grass that yields to me</line>
+                <line><lit_device simile="Like the damp grass that yields to me"></lit_device></line>
                 <line>I have never known hunger</line>
-                <line>Like these insects that feast on me</line>
+                <line><lit_device simile="Like these insects that feast on me"></lit_device></line>
             </stanza>
         </intro>
-        <verse_1 singer="Hozier">
+        <verse number="1" singer="Hozier">
             <stanza>
                 <line>A thousand teeth</line>
                 <line>And yours among them, I know</line>
                 <line>Our hungers appeased</line>
                 <line>Our heartbeats becoming slow</line>
             </stanza>
-        </verse_1>
+        </verse>
         <chorus singer="Hozier, Karen Crowley">
             <prechorus singer="Hozier, Karen Crowley">
                 <stanza>
                     <line>We'll lay here for years or for hours</line>
                     <line>Thrown here of found, to freeze or to thaw</line>
-                    <line>So long, we'd become the flowers</line>
-                    <line>Two corpses we were, two corpses I saw</line>
+                    <line><lit_device metaphor="So long, we'd become the flowers"></lit_device></line>
+                    <line><lit_device metaphor="Two corpses we were, two corpses I saw"></lit_device></line>
                 </stanza>
             </prechorus>
             <stanza>
@@ -39,29 +39,29 @@
                 <line>I'd be home with you, I'd be home with you</line>
             </stanza>
         </chorus>
-        <verse_2 singer="Karen Crowley">
+        <verse number="2" singer="Karen Crowley">
             <stanza>
                 <line>I have never known sleep</line>
-                <line>Like this slumber that creeps to me</line>
+                <line><lit_device simile="Like this slumber that creeps to me"></lit_device></line>
                 <line>I have never known colour</line>
-                <line>Like this morning reveals to me</line>
+                <line><lit_device simile="Like this morning reveals to me"></lit_device></line>
             </stanza>
-        </verse_2>
-        <verse_3 singer="Karen Crowley">
+        </verse>
+        <verse number="3" singer="Karen Crowley">
             <stanza>
                 <line>And you haven't moved an inch</line>
                 <line>Such that I would not know</line>
                 <line>If you sleep alwyas like this</line>
                 <line>The flesh calmly going cold</line>
             </stanza>
-        </verse_3>
+        </verse>
         <chorus singer="Karen Crowley, Hozier">
             <prechorus singer="Karen Crowley, Hozier">
                 <stanza>
-                    <line>We'll lay here for years of for hours</line>
+                    <line>We'll lay here for years or for hours</line>
                     <line>Your hand in my hand, so still and discreet</line>
-                    <line>So long, we'd become the flowers</line>
-                    <line>We'd feed well the land and worry the sheep</line>
+                    <line><lit_device metaphor="So long, we'd become the flowers"></lit_device></line>
+                    <line><lit_device metaphor="We'd feed well the land and worry the sheep"></lit_device></line>
                 </stanza>
             </prechorus>
             <stanza>
@@ -74,23 +74,23 @@
         </chorus>
         <bridge singer="Karen Crowley, Hozier">
             <stanza>
-                <line>They'd find us in a week (We lay here for years or for hours</line>
+                <line>They'd find us in a week (We lay here for years or for hours)</line>
                 <line>When the weather gets hot (So long we become the flowers)</line>
                 <line>And they'd find us in a week (We lay here for years of for hours)</line>
                 <line>When the cattle show fear (So long we become the flowers)</line>
             </stanza>
         </bridge>
-        <verse_4 singer="Karen Crowley, Hozier">
+        <verse number="4" singer="Karen Crowley, Hozier">
             <stanza>
                 <line>And they'd find us in a week</line>
                 <line>When the buzzards get loud</line>
                 <line>After the insects have made their claim</line>
                 <line>After the foxes have known our taste</line>
             </stanza>
-        </verse_4>
+        </verse>
         <outro singer="Karen Crowley, Hozier">
             <stanza>
-                <line>And the raven has had his say</line>
+                <line><lit_device personification="And the raven has had his say"></lit_device></line>
                 <line>I'd be home with you, I'd be home with you</line>
                 <line>I'd be home with you, I'd be home with you</line>
                 <line>I'd be home with you, I'd be home with you</line>

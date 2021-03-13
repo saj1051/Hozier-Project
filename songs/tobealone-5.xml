@@ -7,7 +7,7 @@
         <title>To Be Alone</title>
     </information>
     <lyrics>
-        <verse_1>
+        <verse number="1">
             <stanza>
                 <line>Never feel too good in crowds</line>
                 <line>With folks around, when they're playing</line>
@@ -20,14 +20,14 @@
                 <line>Honey, when you kill the lights and kiss my eyes</line>
                 <line>I feel like a person for a moment of my life</line>
             </stanza>
-        </verse_1>
+        </verse>
         <chorus>
             <prechorus>
                 <stanza>
                     <line>But you don't know what hell you put me through</line>
                     <line>To have someone kiss the skin that crawls from you</line>
                     <line>To feel your weight in arms I'd never use</line>
-                    <line>It's the God that heroin prays to</line>
+                    <line>It's the <religious_figure christianity="God"></religious_figure> that heroin prays to</line>
                 </stanza>
             </prechorus>
             <stanza>
@@ -37,15 +37,15 @@
                 <line>Oh, to be alone with you</line>
             </stanza>
         </chorus>
-        <refrain_1>
+        <refrain number="1">
             <stanza>
                 <line>Whoa-oh, oh-oh, oh-oh, oh</line>
                 <line>Oh-oh, oh, oh-oh-oh, oh-oh, oh</line>
                 <line>Whoa-oh, oh-oh, oh-oh, oh</line>
                 <line>Oh-oh, oh, oh-oh-oh, oh-oh, oh-oh, oh-oh, oh-oh, oh-oh, oh-oh</line>
             </stanza>
-        </refrain_1>
-        <verse_2>
+        </refrain>
+        <verse number="2">
             <stanza>
                 <line>There are questions I can't ask</line>
                 <line>Now at last, the worst is over</line>
@@ -58,13 +58,13 @@
                 <line>Honey, we should run away, oh someday</line>
                 <line>Our baby and her momma, and the damaged love she made</line>
             </stanza>
-        </verse_2>
+        </verse>
         <chorus>
             <prechorus>
                 <line>But I don't know what else that I would do</line>
                 <line>Than to try to kiss the skin that crawls from you</line>
                 <line>Than feel your weight in arms I'd never use</line>
-                <line>It's the god that heroin prays to</line>
+                <line>It's the god that heroin <religous action="prays"></religous> to</line>
             </prechorus>
             <stanza>
                 <line>It feels good, girl, it feels good</line>
@@ -73,7 +73,7 @@
                 <line>Oh, to be alone with you</line>
             </stanza>
         </chorus>
-        <refrain_2>
+        <refrain number="2">
             <stanza>
                 <line>Whoa-oh, oh-oh, oh-oh, oh</line>
                 <line>Oh-oh oh, oh-oh-oh, oh-oh, oh-oh</line>
@@ -86,7 +86,7 @@
                 <line>Whoa-oh, oh-oh, oh-oh, oh</line>
                 <line>Oh-oh, oh, oh-oh-oh, oh-oh, oh-oh, oh-oh, oh-oh, oh-oh, oh-oh</line>
             </stanza>
-        </refrain_2>
+        </refrain>
         <chorus>
             <stanza>
                 <line>It feels good, girl, it feels good</line>
