@@ -1,30 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../hozier_basic_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <information>
+        <producers>Hozier and Rob Kirwan</producers>
         <trackNumber> 10 </trackNumber>
         <title>Like Real People Do</title>
     </information>
     <lyrics>
-        <verse number = "1">
+        <verse>
             <stanza>
                 <line>I had a thought, dear, however scary</line>
                 <line>About that night, the bugs and the dirt</line>
-                <line><literaryDevice device = "metaphor">Why were you digging? What did you bury</literaryDevice></line>
-                <line>Before those <literaryDevice device = "metaphor">hands pulled me from the earth?</literaryDevice></line>
+                <line><litDevice device = "metaphor">Why were you digging? What did you bury</litDevice></line>
+                <line>Before those <litDevice device = "metaphor">hands pulled me from the earth?</litDevice></line>
             </stanza>
         </verse>
         <chorus>
             <stanza>
                 <line>I will not ask you where you came from</line>
-                <line>I will not ask and neither should you</line>
+                <line><litDevice device = "allusion">I will not ask and neither should you</litDevice></line>
                 <line>Honey, just put your sweet lips on my lips</line>
-                <line>We should just kiss <literaryDevice device = "simile">like real people do</literaryDevice></line>
+                <line>We should just kiss <litDevice device = "simile">like real people do</litDevice></line>
             </stanza>
         </chorus>
-        <verse number = "2">
+        <verse>
             <stanza>
                 <line>I knew that look, dear: eyes always seeking</line>
-                <line><literaryDevice device = "metaphor">Was there in someone that dug long ago</literaryDevice></line>
+                <line><litDevice device = "metaphor">Was there in someone that dug long ago</litDevice></line>
                 <line>So I will not ask you why you were creeping</line>
                 <line>In some sad way, I already know</line>
             </stanza>

@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?xml-model href="../hozier_basic_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <information>
+        <producers>Hozier and Rob Kirwan</producers>
         <trackNumber> 6 </trackNumber>
         <title>From Eden</title>
     </information>
     <lyrics>
-        <verse number = "1">
+        <verse>
             <stanza>
                 <line>Babe</line>
                 <line>There's something tragic about you</line>
@@ -20,7 +22,7 @@
                 <line>Get closer to me</line>
             </stanza>
         </verse>
-        <preChorus number = "1">
+        <preChorus>
             <stanza>
                 <line>No tired sigh, no rolling eyes</line>
                 <line>No irony</line>
@@ -31,15 +33,15 @@
         <chorus>
             <stanza>
                 <line>Honey, you're familiar, like my mirror years ago</line>
-                <line><literaryDevice device = "metaphor">Idealism sits in prison, chivalry fell on his sword</literaryDevice></line>
-                <line><literaryDevice device = "personification">Innocence died screaming</literaryDevice>; honey, ask me, I should know</line>
+                <line><litDevice device = "metaphor">Idealism sits in prison, chivalry fell on his sword</litDevice></line>
+                <line><litDevice device = "personification">Innocence died screaming</litDevice>; honey, ask me, I should know</line>
                 <line> I <religiousFigure religious = "christianity">slithered</religiousFigure> here from <religiousPlace religion = "christianity">Eden</religiousPlace> just to sit outside your door</line>
             </stanza>
         </chorus>
-        <verse number = "2">
+        <verse>
             <stanza>
                 <line>Babe</line>
-                <line>There's something <religiousConcept religion = "christianity">wretched</religiousConcept>about this</line>
+                <line>There's something <bibReference reference = "sin">wretched</bibReference>about this</line>
                 <line>Something so precious about this</line>
                 <line>Where to begin?</line>
             </stanza>
@@ -47,14 +49,14 @@
                 <line>Babe</line>
                 <line>There's something broken about this</line>
                 <line>But I might be hoping about this</line>
-                <line>Oh, what a <religiousConcept religion = "christianity">sin</religiousConcept></line>
+                <line>Oh, what a <bibReference reference = "sin">sin</bibReference></line>
             </stanza>
         </verse>
-        <preChorus number = "2">
+        <preChorus>
             <stanza>
                 <line>To the strand, a picnic planned</line>
                 <line>For you and me</line>
-                <line><literaryDevice device = "symbolism">A rope in hand for your other man</literaryDevice></line>
+                <line><litDevice device = "symbolism">A rope in hand for your other man</litDevice></line>
                 <line>To hang from a tree</line>
             </stanza>
         </preChorus>

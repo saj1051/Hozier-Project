@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../hozier_basic_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <information>
+        <producers>Hozier and Rob Kirwan</producers>
         <trackNumber> 16 </trackNumber>
         <title>Arsonist's Lullabye</title>
     </information>
     <lyrics>
         <humming/>
-        <verse number = "1">
+        <verse>
             <stanza>
                 <line>When I was a child, I heard voices</line>
                 <line><religiousConcept religion = "chrisianity">Some would sing and some would scream</religiousConcept></line>
@@ -20,18 +22,18 @@
         </verse>
         <hook>
             <stanza>
-                <line>All you have is <literaryDevice device = "symbolism">your fire</literaryDevice></line>
+                <line>All you have is <litDevice device = "symbolism">your fire</litDevice></line>
                 <line>And the place you need to reach</line>
                 <line>Don't you ever tame your <religiousConcept religion = "chrisianity">demons</religiousConcept></line>
-                <line>But <literaryDevice device = "metaphor">always keep them on a leash</literaryDevice></line>
+                <line>But <litDevice device = "metaphor">always keep them on a leash</litDevice></line>
             </stanza>
         </hook>
         <humming/>
-        <verse number = "2">
+        <verse>
             <stanza>
                 <line>When I was sixteen, my senses fooled me</line>
                 <line>Thought gasoline was on my clothes</line>
-                <line>I knew that <literaryDevice device = "symbolism">something would always rule me</literaryDevice></line>
+                <line>I knew that <litDevice device = "symbolism">something would always rule me</litDevice></line>
                 <line>I knew this scent was mine alone </line>
             </stanza>
         </verse>
@@ -46,7 +48,7 @@
         <bridge>
             <stanza>
                 <line>When I was a man, I thought it ended</line>
-                <line>When I knew <literaryDevice device = "metaphor">love's perfect ache</literaryDevice></line>
+                <line>When I knew <litDevice device = "metaphor">love's perfect ache</litDevice></line>
                 <line>But my peace has always depended</line>
                 <line>On all the ashes in my wake</line>
             </stanza>

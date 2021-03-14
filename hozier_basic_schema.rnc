@@ -1,7 +1,7 @@
 start = song
 song = element song { information, lyrics }
 
-information = element information { trackNumber, producers, title, guestVocals}
+information = element information { producers, trackNumber, title, guestVocals*}
 producers = element producers { text }
 trackNumber = element trackNumber { text }
 title = element title { text }
@@ -15,16 +15,17 @@ bridge = element bridge { stanza+ }
 outro = element outro { stanza+ }
 hook = element hook { stanza+ }
 preChorus = element prechorus { stanza+ }
-litDevice = element litDevice { stanza+ }
 refrain = element refrain { stanza+ }
 humming = element humming { empty }
 instrumental = element instrumental { empty }
 
 stanza = element stanza { line+ }
-line = element line { litDevice, religiousFigure, religiousPlace, religiousAction, mythReference, bibReference, text }
+line = element line { (litDevice | religiousFigure | religiousPlace | religiousAction | mythReference | bibReference | religiousConcept | religiousReference | text)+ }
 litDevice = attribute litDevice { text }
 religiousFigure = attribute religiousFigure { text }
 religiousPlace = attribute religiousPlace { text }
 religiousAction = attribute religiousAction { text }
 mythReference = attribute mythReference { text }
 bibReference = attribute bibReference { text }
+religiousConcept = attribute religiousConcept { text }
+religiousReference = attribute religiousReference { text }

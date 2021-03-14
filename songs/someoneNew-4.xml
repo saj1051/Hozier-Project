@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?xml-model href="../hozier_basic_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <information>
+        <producers>Hozier and Rob Kirwan</producers>
         <trackNumber> 4 </trackNumber>
         <title>Someone New</title>
     </information>
     <lyrics>
-        <verse number = "1">
+        <verse>
             <stanza>
                 <line>Don't take this the wrong way</line>
                 <line>You knew who I was with every step that I ran to you</line>
-                <line><literaryDevice device = "symbolism">Only blue or black days</literaryDevice></line>
+                <line><litDevice device = "symbolism">Only blue or black days</litDevice></line>
                 <line>Electing strange perfections in any stranger I choose</line>
             </stanza>
         </verse>
@@ -34,12 +36,12 @@
                 <line>Every day with someone new</line>
             </stanza>
         </chorus>
-        <verse number = "2">
+        <verse>
             <stanza>
                 <line>There's an art to life's distraction</line>
                 <line>To somehow escape the burning wait, the art of scraping through</line>
                 <line>Some like to imagine</line>
-                <line> The <religiousConcept religion = "christianity"> dark caress </religiousConcept> of someone else; I guess any thrill will do</line>
+                <line> The <bibReference reference = "sin"> dark caress </bibReference> of someone else; I guess any thrill will do</line>
             </stanza>
         </verse>
         <preChorus>
@@ -65,9 +67,9 @@
         <bridge>
             <stanza>
                 <line>I wake at the first cringe of morning</line>
-                <line>And my heart's already <religiousConcept religion = "christianity">sinned</religiousConcept></line>
+                <line>And my heart's already <bibReference reference = "sin">sinned</bibReference></line>
                 <line>How pure, how sweet a love, Aretha</line>
-                <line>That you would <religiousConcept religion = "christianity">pray</religiousConcept> for him</line>
+                <line>That you would <religiousAction action = "worship">pray</religiousAction> for him</line>
             </stanza>
             <stanza>
                 <line>'Cause <religiousFigure religion = "christianity">God</religiousFigure>knows I fall in love just a little, oh, a little bit</line>

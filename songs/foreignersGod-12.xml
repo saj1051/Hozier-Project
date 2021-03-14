@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../hozier_basic_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <information>
+        <producers>Hozier and Rob Kirwan</producers>
         <trackNumber> 12 </trackNumber>
         <title>Foreigner's God</title>
     </information>
     <lyrics>
-        <verse number = "1">
+        <verse>
             <stanza>
                 <line>She moved with shameless wonder</line>
-                <line>The <mythReference mythology = "unknown">perfect creature</mythReference> rarely seen</line>
+                <line>The <mythReference mythology = "ambiguous">perfect creature</mythReference> rarely seen</line>
                 <line>Since some liar brought the thunder</line>
                 <line>When the land was <religiousReference religion = "pagan">godless and free</religiousReference></line>
             </stanza>
@@ -16,7 +18,7 @@
                 <line>Her eyes look sharp and steady</line>
                 <line>Into the empty parts of me</line>
                 <line>But still my heart is heavy</line>
-                <line>With the <literaryDevice device = "symbolism">hate of some other man's beliefs</literaryDevice></line>
+                <line>With the <litDevice device = "symbolism">hate of some other man's beliefs</litDevice></line>
             </stanza>
         </verse>
         <preChorus>
@@ -34,21 +36,21 @@
                 <line>Of a foreigner's God</line>
                 <line>Screaming the name</line>
                 <line>Of a foreigner's God</line>
-                <line>The purest expression of grief</line>
+                <line><litDevice device = "motif">The purest expression of grief</litDevice></line>
             </stanza>
         </chorus>
-        <verse number = "2">
+        <verse>
             <stanza>
                 <line>Wondering who I copy</line>
                 <line>Mustering some tender charm</line>
-                <line>She feels no control of her body</line>
+                <line><litDevice device = "allusion">She feels no control of her body</litDevice></line>
                 <line>She feels no safety in my arms</line>
             </stanza>
             <stanza>
                 <line>I've no language left to say it</line>
                 <line>But all I do is quake to her</line>
                 <line>Breaking if I try convey it</line>
-                <line>The broken love I make to her</line>
+                <line><litDevice device = "allusion">The broken love I make to her</litDevice></line>
             </stanza>
         </verse>
         <preChorus>

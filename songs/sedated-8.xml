@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?xml-model href="../hozier_basic_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
-    <information>
+    <information>\
+        <producers>Hozier and Rob Kirwan</producers>
         <trackNumber> 8 </trackNumber>
         <title>Sedated</title>
     </information>
     <lyrics>
-        <verse number = "1">
+        <verse>
             <stanza>
-                <line>Just a little rush, babe, <literaryDevice device = "sensory imgagery">to feel dizzy</literaryDevice></line>
+                <line>Just a little rush, babe, <litDevice device = "sensory imagery">to feel dizzy</litDevice></line>
                 <line>To derail the mind of me</line>
                 <line>Just a little hush, babe; my veins are busy</line>
                 <line>But my heart's in atrophy</line>
@@ -22,10 +24,10 @@
                 <line><mythReference mythology = "Greek">To the walls of the cave</mythReference></line>
             </stanza>
         </preChorus>
-        <chorus number = "1">
+        <chorus>
             <stanza>
                 <line>You and I, nursing on a</line>
-                <line><literaryDevice device = "metaphor">Poison that never stung</literaryDevice></line>
+                <line><litDevice device = "metaphor">Poison that never stung</litDevice></line>
                 <line>Our teeth and lungs are lined</line>
                 <line>With the scum of it</line>
             </stanza>
@@ -36,7 +38,7 @@
                 <line>Can feel none of it</line>
             </stanza>
         </chorus>
-        <verse number = "2">
+        <verse>
             <stanza>
                 <line>Something isn't right, babe; I keep catching</line>
                 <line>Little words, but the meaning's thin</line>
@@ -48,11 +50,11 @@
             <stanza>
                 <line>So we're slaves</line>
                 <line>To any semblance of touch</line>
-                <line>Lord, we should quit</line>
-                <line>But we love it too much</line>
+                <line><litDevice device = "motif">Lord, we should quit</litDevice></line>
+                <line><litDevice device = "motif">But we love it too much</litDevice></line>
             </stanza>
         </preChorus>
-        <chorus number = "2">
+        <chorus>
             <stanza>
                 <line>Sedated, we're nursing on a</line>
                 <line>Poison that never stung</line>
@@ -86,7 +88,7 @@
                 <line>To the walls of the cave</line>
             </stanza>
         </preChorus>
-        <chorus number = "1">
+        <chorus>
             <stanza>
                 <line>You and I, nursing on a</line>
                 <line>Poison that never stung</line>
@@ -100,7 +102,7 @@
                 <line>Can feel none of it</line>
             </stanza>
         </chorus>
-        <chorus number = "2">
+        <chorus>
             <stanza>
                 <line>Sedated, we're nursing on a</line>
                 <line>Poison that never stung</line>

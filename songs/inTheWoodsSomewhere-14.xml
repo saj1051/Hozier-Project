@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../hozier_basic_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <information>
+        <producers>Hozier and Rob Kirwan</producers>
         <trackNumber> 14 </trackNumber>
         <title>In the Woods Somewhere</title>
     </information>
     <lyrics>
-        <verse number = "1">
+        <verse>
             <stanza>
                 <line>My head was warm</line>
                 <line>My skin was soaked</line>
-                <line>I called your name <literaryDevice device = "metaphor">'til the fever broke</literaryDevice></line>
+                <line>I called your name <litDevice device = "metaphor">'til the fever broke</litDevice></line>
                 <line>When I awoke</line>
                 <line>The moon still hung</line>
-                <line>The night so black that <literaryDevice device = "personification">the darkness hums</literaryDevice></line>
+                <line>The night so black that <litDevice device = "personification">the darkness hums</litDevice></line>
             </stanza>
         </verse>
-        <verse number = "2">
+        <verse>
             <stanza>
                 <line>I raised myself</line>
                 <line>My legs were weak</line>
-                <line>I <religiousConcept religion = "unknown">prayed</religiousConcept> my mind be good to me</line>
+                <line>I <religiousAction action = "worship">prayed</religiousAction> my mind be good to me</line>
                 <line>An awful noise</line>
                 <line>Filled the air</line>
                 <line>I heard a scream in the woods somewhere</line>
@@ -28,7 +30,7 @@
         <chorus>
             <line>Ooh, oo-ooh, oo-ooh</line>
         </chorus>
-        <verse number = "3">
+        <verse>
             <stanza>
                 <line>A woman's voice</line>
                 <line>I quickly ran</line>
@@ -38,7 +40,7 @@
                 <line>I spoke no words, no sound he made</line>
             </stanza>
         </verse>
-        <verse number = "4">
+        <verse>
             <stanza>
                 <line>His bone exposed</line>
                 <line>His hind was lame</line>
@@ -51,7 +53,7 @@
         <chorus>
             <line>Ooh, oo-ooh, oo-ooh</line>
         </chorus>
-        <verse number = "5">
+        <verse>
             <stanza>
                 <line>The creature lunged</line>
                 <line>I turned and ran</line>
@@ -61,11 +63,11 @@
                 <line>Forgot all <religiousConcept religion = "unknown">prayers</religiousConcept> of joining you</line>
             </stanza>
         </verse>
-        <verse number = "6">
+        <verse>
             <stanza>
                 <line>I clutched my life</line>
                 <line>And wished it kept</line>
-                <line>My dearest love, I'm not done yet</line>
+                <line><litDevice device = "motif">My dearest love, I'm not done yet</litDevice></line>
                 <line>How many years</line>
                 <line>I know I'll bear</line>
                 <line>I found something in the woods somewhere</line>
