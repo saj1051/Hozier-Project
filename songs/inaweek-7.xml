@@ -3,20 +3,20 @@
 <song>
     <information>
         <producers>Rob Kirwan and Hozier</producers>
-        <guest_vocals>Karen Crowley</guest_vocals>
-        <track_number>7</track_number>
+        <guestVocals>Karen Crowley</guestVocals>
+        <trackNumber>7</trackNumber>
         <title>In a Week</title>
     </information>
     <lyrics>
         <intro singer="Hozier">
             <stanza>
                 <line>I have never known peace</line>
-                <line><lit_device simile="Like the damp grass that yields to me"></lit_device></line>
+                <line><litDevice device = "simile">Like the damp grass that yields to me</litDevice></line>
                 <line>I have never known hunger</line>
-                <line><lit_device simile="Like these insects that feast on me"></lit_device></line>
+                <line><litDevice device = "simile">Like these insects that feast on me</litDevice></line>
             </stanza>
         </intro>
-        <verse number="1" singer="Hozier">
+        <verse singer="Hozier">
             <stanza>
                 <line>A thousand teeth</line>
                 <line>And yours among them, I know</line>
@@ -24,15 +24,15 @@
                 <line>Our heartbeats becoming slow</line>
             </stanza>
         </verse>
+        <preChorus singer="Hozier, Karen Crowley">
+            <stanza>
+                <line>We'll lay here for years or for hours</line>
+                <line>Thrown here of found, to freeze or to thaw</line>
+                <line><litDevice device = "metaphor">So long, we'd become the flowers</litDevice></line>
+                <line><litDevice device = "metaphor">Two corpses we were, two corpses I saw</litDevice></line>
+            </stanza>
+        </preChorus>
         <chorus singer="Hozier, Karen Crowley">
-            <prechorus singer="Hozier, Karen Crowley">
-                <stanza>
-                    <line>We'll lay here for years or for hours</line>
-                    <line>Thrown here of found, to freeze or to thaw</line>
-                    <line><lit_device metaphor="So long, we'd become the flowers"></lit_device></line>
-                    <line><lit_device metaphor="Two corpses we were, two corpses I saw"></lit_device></line>
-                </stanza>
-            </prechorus>
             <stanza>
                 <line>And they'd find us in a week</line>
                 <line>When the weather gets hot</line>
@@ -40,15 +40,15 @@
                 <line>I'd be home with you, I'd be home with you</line>
             </stanza>
         </chorus>
-        <verse number="2" singer="Karen Crowley">
+        <verse singer="Karen Crowley">
             <stanza>
                 <line>I have never known sleep</line>
-                <line><lit_device simile="Like this slumber that creeps to me"></lit_device></line>
+                <line><litDevice device = "simile">Like this slumber that creeps to me</litDevice></line>
                 <line>I have never known colour</line>
-                <line><lit_device simile="Like this morning reveals to me"></lit_device></line>
+                <line><litDevice device = "simile">Like this morning reveals to me</litDevice></line>
             </stanza>
         </verse>
-        <verse number="3" singer="Karen Crowley">
+        <verse singer="Karen Crowley">
             <stanza>
                 <line>And you haven't moved an inch</line>
                 <line>Such that I would not know</line>
@@ -56,15 +56,15 @@
                 <line>The flesh calmly going cold</line>
             </stanza>
         </verse>
+        <preChorus singer="Karen Crowley, Hozier">
+            <stanza>
+                <line>We'll lay here for years or for hours</line>
+                <line>Your hand in my hand, so still and discreet</line>
+                <line><litDevice device = "metaphor">So long, we'd become the flowers</litDevice></line>
+                <line><litDevice device = "metaphor">We'd feed well the land and worry the sheep</litDevice></line>
+            </stanza>
+        </preChorus>
         <chorus singer="Karen Crowley, Hozier">
-            <prechorus singer="Karen Crowley, Hozier">
-                <stanza>
-                    <line>We'll lay here for years or for hours</line>
-                    <line>Your hand in my hand, so still and discreet</line>
-                    <line><lit_device metaphor="So long, we'd become the flowers"></lit_device></line>
-                    <line><lit_device metaphor="We'd feed well the land and worry the sheep"></lit_device></line>
-                </stanza>
-            </prechorus>
             <stanza>
                 <line>And they'd find us in a week</line>
                 <line>When the cattle show fear</line>
@@ -81,7 +81,7 @@
                 <line>When the cattle show fear (So long we become the flowers)</line>
             </stanza>
         </bridge>
-        <verse number="4" singer="Karen Crowley, Hozier">
+        <verse singer="Karen Crowley, Hozier">
             <stanza>
                 <line>And they'd find us in a week</line>
                 <line>When the buzzards get loud</line>
@@ -91,7 +91,7 @@
         </verse>
         <outro singer="Karen Crowley, Hozier">
             <stanza>
-                <line><lit_device personification="And the raven has had his say"></lit_device></line>
+                <line><litDevice device = "personification">And the raven has had his say</litDevice></line>
                 <line>I'd be home with you, I'd be home with you</line>
                 <line>I'd be home with you, I'd be home with you</line>
                 <line>I'd be home with you, I'd be home with you</line>

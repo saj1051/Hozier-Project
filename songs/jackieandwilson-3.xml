@@ -4,11 +4,11 @@
 <song>
     <information>
         <producers>Hozier and Rob Kirwan</producers>
-        <track_number>3</track_number>
+        <trackNumber>3</trackNumber>
         <title>Jackie and Wilson</title>
     </information>
     <lyrics>
-        <verse number="1">
+        <verse>
             <stanza>
                 <line>So tired trying to see from behind the red in my eyes</line>
                 <line>No better version of me I could pretend to be tonight</line>
@@ -16,19 +16,21 @@
                 <line>For reasons wretched and divine</line>
             </stanza>
         </verse>
-        <verse number="2">
+        <verse>
             <stanza>
-                <line>She blows out of nowhere, <myth reference="a roman candle of the wild"></myth></line>
+                <line>She blows out of nowhere, <mythReference reference="Roman">a roman candle of the wild</mythReference></line>
                 <line>Laughing her way through my feeble disguise</line>
                 <line>No other version of me I would rather be tonight</line>
-                <line>And <religious_figure christianity="Lord"></religious_figure>, <person>she</person> found me just in time</line>
+                <line>And <religiousFigure figure = "Lord">Lord</religiousFigure>, <person>she</person> found me just in time</line>
             </stanza>
         </verse>
+        <preChorus>
+            <stanza>
+            <line>'Cause with my mid-youth crisis all said and done</line>
+            <line>I need to be youthfully felt 'cause, <religiousFigure figure = "God">God</religiousFigure>, I never felt young</line>
+            </stanza>
+        </preChorus>
         <chorus>
-            <prechorus>
-                <line>'Cause with my mid-youth crisis all said and done</line>
-                <line>I need to be youthfully felt 'cause, <religious_figure christianity="God"></religious_figure>, I never felt young</line>
-            </prechorus>
             <stanza>
                 <line>She's gonna save me, call me baby</line>
                 <line>Run her hands through my hair</line>
@@ -42,19 +44,21 @@
                 <line>Raise 'em on rhythm and blues</line>
             </stanza>
         </chorus>
-        <verse number="3">
+        <verse>
             <stanza>
-                <line><religious_figure christianity="Lord"></religious_figure>, it'd be great to find a place we could escape sometime</line>
-                <line>Me and my <myth reference="Isis"></myth> growing black irises in the sunshine</line>
+                <line><religiousFigure figure = "Lord">Lord</religiousFigure>, it'd be great to find a place we could escape sometime</line>
+                <line>Me and my <mythReference reference = "Egytpian">Isis</mythReference> growing black irises in the sunshine</line>
                 <line>Every version of me dead and buried in the yard outside</line>
                 <line>We'd sit back and watch the world go by</line>
             </stanza>
         </verse>
+        <preChorus>
+            <stanza>
+            <line>Happy to lie back, watch it burn and rust</line>
+            <line>We tried the world; good <religiousFigure figure = "God">God</religiousFigure> it wasn't for us</line>
+            </stanza>
+        </preChorus>
         <chorus>
-            <prechorus>
-                <line>Happy to lie back, watch it burn and rust</line>
-                <line>We tried the world; good <religious_figure christianity="God"></religious_figure> it wasn't for us</line>
-            </prechorus>
             <stanza>
                 <line>She's gonna save me, call me baby</line>
                 <line>Run her hands through my hair</line>
@@ -64,12 +68,12 @@
             <stanza>
                 <line>We'll steal a Lexus, be detectives</line>
                 <line>Ride 'round picking up clues</line>
-                <line>We'll name our children <lit_device allusion="Jackie and Wilson"></lit_device></line>
+                <line>We'll name our children <litDevice device = "allusion">Jackie and Wilson</litDevice></line>
                 <line>Raise 'em on rhythm and blues</line>
             </stanza>
         </chorus>
-        <element empty="intrumental"/>
-        <verse number="4">
+        </instrumental>
+        <verse>
             <stanza>
                 <line>Cut clean from the dream that night, let my mind reset</line>
                 <line>Looking up from a cigarette, she's already left</line>

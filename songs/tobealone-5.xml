@@ -4,11 +4,11 @@
 <song>
     <information>
         <producers>Rob Kirwan and Hozier</producers>
-        <track_number>5</track_number>
+        <trackNumber>5</trackNumber>
         <title>To Be Alone</title>
     </information>
     <lyrics>
-        <verse number="1">
+        <verse>
             <stanza>
                 <line>Never feel too good in crowds</line>
                 <line>With folks around, when they're playing</line>
@@ -22,15 +22,16 @@
                 <line>I feel like a person for a moment of my life</line>
             </stanza>
         </verse>
+        <preChorus>
+            <stanza>
+                <line>But you don't know what hell you put me through</line>
+                <line>To have someone kiss the skin that crawls from you</line>
+                <line>To feel your weight in arms I'd never use</line>
+                <line>It's the <religiousFigure figure="God">God</religiousFigure> that heroin prays
+                    to</line>
+            </stanza>
+        </preChorus>
         <chorus>
-            <prechorus>
-                <stanza>
-                    <line>But you don't know what hell you put me through</line>
-                    <line>To have someone kiss the skin that crawls from you</line>
-                    <line>To feel your weight in arms I'd never use</line>
-                    <line>It's the <religious_figure christianity="God"></religious_figure> that heroin prays to</line>
-                </stanza>
-            </prechorus>
             <stanza>
                 <line>It feels good, girl, it feels good</line>
                 <line>It feels good, girl, it feels good</line>
@@ -38,7 +39,7 @@
                 <line>Oh, to be alone with you</line>
             </stanza>
         </chorus>
-        <refrain number="1">
+        <refrain>
             <stanza>
                 <line>Whoa-oh, oh-oh, oh-oh, oh</line>
                 <line>Oh-oh, oh, oh-oh-oh, oh-oh, oh</line>
@@ -46,7 +47,7 @@
                 <line>Oh-oh, oh, oh-oh-oh, oh-oh, oh-oh, oh-oh, oh-oh, oh-oh, oh-oh</line>
             </stanza>
         </refrain>
-        <verse number="2">
+        <verse>
             <stanza>
                 <line>There are questions I can't ask</line>
                 <line>Now at last, the worst is over</line>
@@ -60,13 +61,15 @@
                 <line>Our baby and her momma, and the damaged love she made</line>
             </stanza>
         </verse>
-        <chorus>
-            <prechorus>
+        <preChorus>
+            <stanza>
                 <line>But I don't know what else that I would do</line>
                 <line>Than to try to kiss the skin that crawls from you</line>
                 <line>Than feel your weight in arms I'd never use</line>
-                <line>It's the god that heroin <religous action="prays"></religous> to</line>
-            </prechorus>
+                <line>It's the god that heroin <religousAction action="worship">prays</religousAction>to</line>
+            </stanza>
+        </preChorus>
+        <chorus>
             <stanza>
                 <line>It feels good, girl, it feels good</line>
                 <line>It feels good, girl, it feels good</line>
@@ -74,7 +77,7 @@
                 <line>Oh, to be alone with you</line>
             </stanza>
         </chorus>
-        <refrain number="2">
+        <refrain>
             <stanza>
                 <line>Whoa-oh, oh-oh, oh-oh, oh</line>
                 <line>Oh-oh oh, oh-oh-oh, oh-oh, oh-oh</line>
