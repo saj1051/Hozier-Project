@@ -1,24 +1,30 @@
 start = song
-song = element information { information, lyrics }
+song = element song { information, lyrics }
 
-information = element information { track_number, producers, title, guest_vocals}
+information = element information { trackNumber, producers, title, guestVocals}
 producers = element producers { text }
-track_number = element trackNumber { text }
+trackNumber = element trackNumber { text }
 title = element title { text }
-guest_vocals = element guest_vocals { text}
+guestVocals = element guestVocals { text}
 
-lyrics = element lyrics { mixed {(verse, chorus, stanza, verse, bridge, outro, hook, preChorus, refrain, humming, instrumental)*} }
-#here I need to account for the open tags for instrumental items but I'm not sure how
+lyrics = element lyrics { ( verse | chorus | stanza | bridge | outro | hook | preChorus | litDevice | refrain | humming | instrumental )+ }
 
 verse = element verse { stanza+ }
 chorus = element chorus{ stanza+ }
 bridge = element bridge { stanza+ }
 outro = element outro { stanza+ }
 hook = element hook { stanza+ }
-preChorus = element preChorus { stanza+ }
+preChorus = element prechorus { stanza+ }
+litDevice = element litDevice { stanza+ }
 refrain = element refrain { stanza+ }
 humming = element humming { empty }
 instrumental = element instrumental { empty }
 
 stanza = element stanza { line+ }
-line = element line { text }
+line = element line { litDevice, religiousFigure, religiousPlace, religiousAction, mythReference, bibReference, text }
+litDevice = attribute litDevice { text }
+religiousFigure = attribute religiousFigure { text }
+religiousPlace = attribute religiousPlace { text }
+religiousAction = attribute religiousAction { text }
+mythReference = attribute mythReference { text }
+bibReference = attribute bibReference { text }
