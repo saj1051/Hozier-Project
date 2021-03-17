@@ -35,7 +35,7 @@
                 <line>Honey, you're familiar, like my mirror years ago</line>
                 <line><litDevice device = "metaphor">Idealism sits in prison, chivalry fell on his sword</litDevice></line>
                 <line><litDevice device = "personification">Innocence died screaming</litDevice>; honey, ask me, I should know</line>
-                <line> I <religiousFigure religious = "christianity">slithered</religiousFigure> here from <religiousPlace religion = "christianity">Eden</religiousPlace> just to sit outside your door</line>
+                <line> I slithered here from <religiousPlace religion = "christianity">Eden</religiousPlace> just to sit outside your door</line>
             </stanza>
         </chorus>
         <verse>
@@ -63,18 +63,18 @@
         <chorus>
             <stanza>
                 <line>Honey, you're familiar, like my mirror years ago</line>
-                <line>Idealism sits in prison, chivalry fell on his sword</line>
-                <line>Innocence died screaming; honey, ask me, I should know</line>
-                <line> I slithered here from Eden just to sit outside your door</line>
+                <line><litDevice device = "metaphor">Idealism sits in prison, chivalry fell on his sword</litDevice></line>
+                <line><litDevice device = "personification">Innocence died screaming</litDevice>; honey, ask me, I should know</line>
+                <line> I slithered here from <religiousPlace religion = "christianity">Eden</religiousPlace> just to sit outside your door</line>
             </stanza>
         </chorus>
         <instrumental/>
         <chorus>
             <stanza>
                 <line>Honey, you're familiar, like my mirror years ago</line>
-                <line>Idealism sits in prison, chivalry fell on his sword</line>
-                <line>Innocence died screaming; honey, ask me, I should know</line>
-                <line> I slithered here from Eden just to sit outside your door</line>
+                <line><litDevice device = "metaphor">Idealism sits in prison, chivalry fell on his sword</litDevice></line>
+                <line><litDevice device = "personification">Innocence died screaming</litDevice>; honey, ask me, I should know</line>
+                <line> I slithered here from <religiousPlace religion = "christianity">Eden</religiousPlace> just to sit outside your door</line>
             </stanza>
         </chorus>
     </lyrics>

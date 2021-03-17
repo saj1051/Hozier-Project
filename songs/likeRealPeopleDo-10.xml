@@ -34,17 +34,17 @@
         <chorus>
             <stanza>
                 <line>So I will not ask you where you came from</line>
-                <line>I would not ask and neither would you</line>
+                <line><litDevice device = "allusion">I would not ask and neither would you</litDevice></line>
                 <line>Honey, just put your sweet lips on my lips</line>
-                <line>We should just kiss like real people do</line>
+                <line>We should just kiss <litDevice device = "simile">like real people do</litDevice></line>
             </stanza>
         </chorus>
         <chorus>
             <stanza>
                 <line>I could not ask you where you came from</line>
-                <line>I could not ask and neither could you</line>
+                <line><litDevice device = "allusion">I could not ask and neither could you</litDevice></line>
                 <line>Honey, just put your sweet lips on my lips</line>
-                <line>We could just kiss like real people do</line>
+                <line>We could just kiss <litDevice device = "simile">like real people do</litDevice></line>
             </stanza>
         </chorus>
     </lyrics>

@@ -2,7 +2,7 @@
 
 <?xml-model href="../hozier_basic_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
-    <information>\
+    <information>
         <producers>Hozier and Rob Kirwan</producers>
         <trackNumber> 8 </trackNumber>
         <title>Sedated</title>
@@ -57,7 +57,7 @@
         <chorus>
             <stanza>
                 <line>Sedated, we're nursing on a</line>
-                <line>Poison that never stung</line>
+                <line><litDevice device = "metaphor">Poison that never stung</litDevice></line>
                 <line>Our teeth and lungs are lined</line>
                 <line>With the scum of it</line>
             </stanza>
@@ -85,13 +85,13 @@
                 <line>Any way</line>
                 <line>To distract and sedate</line>
                 <line>Adding shadows</line>
-                <line>To the walls of the cave</line>
+                <line><mythReference mythology = "Greek">To the walls of the cave</mythReference></line>
             </stanza>
         </preChorus>
         <chorus>
             <stanza>
                 <line>You and I, nursing on a</line>
-                <line>Poison that never stung</line>
+                <line><litDevice device = "metaphor">Poison that never stung</litDevice></line>
                 <line>Our teeth and lungs are lined</line>
                 <line>With the scum of it</line>
             </stanza>
@@ -105,7 +105,7 @@
         <chorus>
             <stanza>
                 <line>Sedated, we're nursing on a</line>
-                <line>Poison that never stung</line>
+                <line><litDevice device = "metaphor">Poison that never stung</litDevice></line>
                 <line>Our teeth and lungs are lined</line>
                 <line>With the scum of it</line>
             </stanza>
