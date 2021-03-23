@@ -27,7 +27,7 @@
                 <line>With her sweetened breath, and her tongue so mean</line>
                 <line>She's the <religiousFigure religion = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
                 <line>With her straw-blonde hair, her arms hard and lean</line>
-                <line>She's the angel of small death and the codeine scene</line>
+                <line>She's the <religiousFigure religion = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
             </stanza>
         </chorus>
         <verse>
@@ -41,9 +41,9 @@
         <chorus>
             <stanza>
                 <line>With her sweetened breath, and her tongue so mean</line>
-                <line>She's the angel of small death and the codeine scene</line>
+                <line>She's the <religiousFigure religion = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
                 <line>With her straw-blonde hair, her arms hard and lean</line>
-                <line>She's the angel of small death and the codeine scene</line>
+                <line>She's the <religiousFigure religion = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
             </stanza>
         </chorus>
         <bridge>
@@ -57,15 +57,15 @@
         <chorus>
             <stanza>
                 <line>With her sweetened breath, and her tongue so mean</line>
-                <line>She's the angel of small death and the codeine scene</line>
+                <line>She's the <religiousFigure religion = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
                 <line>With her straw-blonde hair, her arms hard and lean</line>
-                <line>She's the angel of small death and the codeine scene</line>
+                <line>She's the <religiousFigure religion = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
             </stanza>
             <stanza>
                 <line>With her sweetened breath, and her tongue so mean</line>
-                <line>She's the angel of small death and the codeine scene</line>
+                <line>She's the <religiousFigure religion = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
                 <line>With her straw-blonde hair, her arms hard and lean</line>
-                <line>She's the angel of small death and the codeine scene</line>
+                <line>She's the <religiousFigure religion = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
             </stanza>
         </chorus>
     </lyrics>

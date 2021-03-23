@@ -39,10 +39,10 @@
         </verse>
         <hook>
             <stanza>
-                <line>All you have is your fire</line>
+                <line>All you have is <litDevice device = "symbolism">your fire</litDevice></line>
                 <line>And the place you need to reach</line>
-                <line>Don't you ever tame your demons</line>
-                <line>Always keep them on a leash</line>
+                <line>Don't you ever tame your <religiousConcept religion = "chrisianity">demons</religiousConcept></line>
+                <line><litDevice device = "metaphor">Always keep them on a leash</litDevice></line>
             </stanza>
         </hook>
         <bridge>
@@ -55,10 +55,10 @@
         </bridge>
         <outro>
             <stanza>
-                <line>All you have is your fire</line>
+                <line>All you have is <litDevice device = "symbolism">your fire</litDevice></line>
                 <line>And the place you need to reach</line>
-                <line>Don't you ever tame your demons</line>
-                <line>But always keep them on a leash</line>
+                <line>Don't you ever tame your <religiousConcept religion = "chrisianity">demons</religiousConcept></line>
+                <line>But <litDevice device = "metaphor">always keep them on a leash</litDevice></line>
             </stanza>
         </outro>
     </lyrics>
