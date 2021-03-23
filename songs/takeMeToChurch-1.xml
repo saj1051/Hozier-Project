@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <?xml-model href="../hozierSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <information>
@@ -43,7 +44,7 @@
             <line>I'll <religiousAction action = "worship">worship</religiousAction> like a dog at the <bibReference reference="worship">shrine of your lies</bibReference></line>
             <line>I'll tell you my <bibReference reference = "sin">sins</bibReference> and you can sharpen your knife</line>
             <line>Offer me that deathless death</line>
-            <line>Good <religiousFigure figure="God">God</religiousFigure>, <bibReference reference = "devotion">let me give you my life</bib></line>
+            <line>Good <religiousFigure figure="God">God</religiousFigure>, <bibReference reference = "devotion">let me give you my life</bibReference></line>
         </stanza>
     </chorus>
     <verse>
@@ -79,7 +80,7 @@
             <line>I'll <religiousAction action = "worship">worship</religiousAction> like a dog at the <bibReference reference="worship">shrine of your lies</bibReference></line>
             <line>I'll tell you my <bibReference reference = "sin">sins</bibReference> and you can sharpen your knife</line>
             <line>Offer me that deathless death</line>
-            <line>Good <religiousFigure figure = "God">God</religiousFigure>, <bibReference reference = "devotion">let me give you my life</bib></line>
+            <line>Good <religiousFigure figure = "God">God</religiousFigure>, <bibReference reference = "devotion">let me give you my life</bibReference></line>
         </stanza>
     </chorus>
     <bridge>
@@ -93,7 +94,7 @@
     </bridge>
     <chorus>
         <stanza>
-            <line>Take me to <religious_place christianity="church"></religious_place></line>
+            <line>Take me to <religiousPlace place="church"></religiousPlace></line>
             <line>I'll <religiousAction action = "worship">worship</religiousAction> like a dog at the <bibReference reference = "worship">shrine of your lies</bibReference></line>
             <line>I'll tell you my <bibReference reference = "sin">sins</bibReference> and you can sharpen your knife</line>
             <line>Offer me that deathless death</line>
@@ -102,7 +103,7 @@
             <line>I'll <religiousAction action = "worship">worship</religiousAction> like a dog at the <bibReference reference="worship">shrine of your lies</bibReference></line>
             <line>I'll tell you my <bibReference reference = "sin">sins</bibReference> and you can sharpen your knife</line>
             <line>Offer me that deathless death</line>
-            <line>Good <religiousFigure figure = "God">God</religiousFigure>, <bibReference reference = "devotion">let me give you my life</bib></line>
+            <line>Good <religiousFigure figure = "God">God</religiousFigure>, <bibReference reference = "devotion">let me give you my life</bibReference></line>
         </stanza>
     </chorus>
 </lyrics>
