@@ -44,7 +44,7 @@
             <line>I'll <religiousAction action = "worship">worship</religiousAction> like a dog at the <bibReference reference="worship">shrine of your lies</bibReference></line>
             <line>I'll tell you my <bibReference reference = "sin">sins</bibReference> and you can sharpen your knife</line>
             <line>Offer me that deathless death</line>
-            <line>Good <religiousFigure figure = "God">God</religiousFigure>, <bibReference reference = "devotion">let me give you my life</bib></line>
+            <line>Good <religiousFigure figure="God">God</religiousFigure>, <bibReference reference = "devotion">let me give you my life</bib></line>
         </stanza>
     </chorus>
     <verse>

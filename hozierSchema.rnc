@@ -7,25 +7,25 @@ trackNumber = element trackNumber { text }
 title = element title { text }
 guestVocals = element guestVocals { text}
 
-lyrics = element lyrics { ( verse | chorus | stanza | bridge | outro | hook | preChorus | litDevice | refrain | humming | instrumental )+ }
+lyrics = element lyrics { ( verse | chorus | stanza | bridge | outro | hook | preChorus | litDevice | refrain | humming | instrumental )* }
 
 verse = element verse { stanza+ }
 chorus = element chorus{ stanza+ }
 bridge = element bridge { stanza+ }
 outro = element outro { stanza+ }
 hook = element hook { stanza+ }
-preChorus = element prechorus { stanza+ }
+preChorus = element prechorus { stanza? }
 refrain = element refrain { stanza+ }
 humming = element humming { empty }
 instrumental = element instrumental { empty }
 
 stanza = element stanza { line+ }
-line = element line { (litDevice | religiousFigure | religiousPlace | religiousAction | mythReference | bibReference | religiousConcept | religiousReference | text)+ }
-litDevice = attribute litDevice { text }
-religiousFigure = attribute religiousFigure { text }
-religiousPlace = attribute religiousPlace { text }
-religiousAction = attribute religiousAction { text }
-mythReference = attribute mythReference { text }
-bibReference = attribute bibReference { text }
-religiousConcept = attribute religiousConcept { text }
-religiousReference = attribute religiousReference { text }
+line = element line { (litDevice | religiousFigure | religiousPlace | religiousAction | mythReference | bibReference | religiousConcept | religiousReference | text)* }
+litDevice = attribute litDevice { text* }
+religiousFigure = attribute religiousFigure { text* }
+religiousPlace = attribute religiousPlace { text* }
+religiousAction = attribute religiousAction { text* }
+mythReference = attribute mythReference { text* }
+bibReference = attribute bibReference { text* }
+religiousConcept = attribute religiousConcept { text* }
+religiousReference = attribute religiousReference { text* }
