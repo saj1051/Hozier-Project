@@ -9,7 +9,8 @@
     <lyrics>
         <verse>
             <stanza>
-                <line>Just a little rush, babe, <litDevice device="sensory imagery">to feel dizzy</litDevice></line>
+                <line>Just a little rush, babe, <litDevice device="sensory imagery">to feel
+                        dizzy</litDevice></line>
                 <line>To derail the mind of me</line>
                 <line>Just a little hush, babe; my veins are busy</line>
                 <line>But my heart's in atrophy</line>
@@ -20,7 +21,8 @@
                 <line>Any way</line>
                 <line>To distract and sedate</line>
                 <line>Adding shadows</line>
-                <line><mythReference reference="Greek">To the walls of the cave</mythReference></line>
+                <line><religiousReference reference="Greek">To the walls of the
+                    cave</religiousReference></line>
             </stanza>
         </preChorus>
         <chorus>
@@ -84,7 +86,8 @@
                 <line>Any way</line>
                 <line>To distract and sedate</line>
                 <line>Adding shadows</line>
-                <line><mythReference reference = "Greek">To the walls of the cave</mythReference></line>
+                <line><mythReference reference="Greek">To the walls of the
+                    cave</mythReference></line>
             </stanza>
         </preChorus>
         <chorus>

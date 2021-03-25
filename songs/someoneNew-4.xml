@@ -40,7 +40,7 @@
                 <line>There's an art to life's distraction</line>
                 <line>To somehow escape the burning wait, the art of scraping through</line>
                 <line>Some like to imagine</line>
-                <line> The <bibReference reference="sin">dark caress</bibReference> of someone else;
+                <line> The <religiousReference reference="sin">dark caress</religiousReference> of someone else;
                     I guess any thrill will do</line>
             </stanza>
         </verse>
@@ -67,8 +67,8 @@
         <bridge>
             <stanza>
                 <line>I wake at the first cringe of morning</line>
-                <line>And my heart's already <bibReference reference="sin"
-                    >sinned</bibReference></line>
+                <line>And my heart's already <religiousReference reference="sin"
+                    >sinned</religiousReference></line>
                 <line>How pure, how sweet a love, Aretha</line>
                 <line>That you would <religiousAction action="worship">pray</religiousAction> for
                     him</line>

@@ -92,16 +92,16 @@
             <stanza>
                 <line>Take me to <religiousPlace place="church">church</religiousPlace></line>
                 <line>I'll <religiousAction action="worship">worship</religiousAction> like a dog at
-                    the <bibReference reference="worship">shrine of your lies</bibReference></line>
-                <line>I'll tell you my <bibReference reference="sin">sins</bibReference> and you can
+                    the <religiousReference reference="worship">shrine of your lies</religiousReference></line>
+                <line>I'll tell you my <religiousReference reference="sin">sins</religiousReference> and you can
                     sharpen your knife</line>
                 <line>Offer me that deathless death</line>
                 <line>Good <religiousFigure figure="God">God</religiousFigure>, <bibReference
                         reference="devotion">let me give you my life</bibReference></line>
                 <line>Take me to <religiousPlace place="church">church</religiousPlace></line>
                 <line>I'll <religiousAction action="worship">worship</religiousAction> like a dog at
-                    the <bibReference reference="worship">shrine of your lies</bibReference></line>
-                <line>I'll tell you my <bibReference reference="sin">sins</bibReference> and you can
+                    the <religiousReference reference="worship">shrine of your lies</religiousReference></line>
+                <line>I'll tell you my <religiousReference reference="sin">sins</religiousReference> and you can
                     sharpen your knife</line>
                 <line>Offer me that deathless death</line>
                 <line>Good <religiousFigure figure="God">God</religiousFigure>, <bibReference
@@ -112,8 +112,8 @@
             <stanza>
                 <line>No masters of kings when the <religiousAction action="ritual"
                         >ritual</religiousAction> begins</line>
-                <line><bibReference reference="sin">There is no sweeter innocence than our gentle
-                        sin</bibReference></line>
+                <line><religiousReference reference="sin">There is no sweeter innocence than our gentle
+                        sin</religiousReference></line>
                 <line>In the madness and soil of that sad earthly scene</line>
                 <line>Only then I am human</line>
                 <line>Only then I am clean</line>
@@ -123,20 +123,20 @@
             <stanza>
                 <line>Take me to <religiousPlace place="church"/></line>
                 <line>I'll <religiousAction action="worship">worship</religiousAction> like a dog at
-                    the <bibReference reference="worship">shrine of your lies</bibReference></line>
-                <line>I'll tell you my <bibReference reference="sin">sins</bibReference> and you can
+                    the <religiousReference reference="worship">shrine of your lies</religiousReference></line>
+                <line>I'll tell you my <religiousReference reference="sin">sins</religiousReference> and you can
                     sharpen your knife</line>
                 <line>Offer me that deathless death</line>
                 <line>Good <religiousFigure figure="God">God</religiousFigure>, <bibReference
                         reference="devotion">let me give you my life</bibReference></line>
                 <line>Take me to <religiousPlace place="church">church</religiousPlace></line>
                 <line>I'll <religiousAction action="worship">worship</religiousAction> like a dog at
-                    the <bibReference reference="worship">shrine of your lies</bibReference></line>
-                <line>I'll tell you my <bibReference reference="sin">sins</bibReference> and you can
+                    the <religiousReference reference="worship">shrine of your lies</religiousReference></line>
+                <line>I'll tell you my <religiousReference reference="sin">sins</religiousReference> and you can
                     sharpen your knife</line>
                 <line>Offer me that deathless death</line>
-                <line>Good <religiousFigure figure="God">God</religiousFigure>, <bibReference
-                        reference="devotion">let me give you my life</bibReference></line>
+                <line>Good <religiousFigure figure="God">God</religiousFigure>, <religiousReference
+                        reference="devotion">let me give you my life</religiousReference></line>
             </stanza>
         </chorus>
     </lyrics>

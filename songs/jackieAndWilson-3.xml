@@ -17,8 +17,8 @@
         </verse>
         <verse>
             <stanza>
-                <line>She blows out of nowhere, <mythReference reference="Roman">a roman candle of
-                        the wild</mythReference></line>
+                <line>She blows out of nowhere, <religiousReference reference="Roman">a roman candle of
+                        the wild</religiousReference></line>
                 <line>Laughing her way through my feeble disguise</line>
                 <line>No other version of me I would rather be tonight</line>
                 <line>And <religiousFigure figure="Lord">Lord</religiousFigure>, she found me just
@@ -50,7 +50,7 @@
             <stanza>
                 <line><religiousFigure figure="Lord">Lord</religiousFigure>, it'd be great to find a
                     place we could escape sometime</line>
-                <line>Me and my <mythReference reference="Egytpian">Isis</mythReference> growing
+                <line>Me and my <religiousReference reference="Egytpian">Isis</religiousReference> growing
                     black irises in the sunshine</line>
                 <line>Every version of me dead and buried in the yard outside</line>
                 <line>We'd sit back and watch the world go by</line>

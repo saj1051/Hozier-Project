@@ -43,7 +43,7 @@
         <verse>
             <stanza>
                 <line>Babe</line>
-                <line>There's something <bibReference reference="sin">wretched</bibReference>about
+                <line>There's something <religiousReference reference="sin">wretched</religiousReference>about
                     this</line>
                 <line>Something so precious about this</line>
                 <line>Where to begin?</line>
@@ -52,7 +52,7 @@
                 <line>Babe</line>
                 <line>There's something broken about this</line>
                 <line>But I might be hoping about this</line>
-                <line>Oh, what a <bibReference reference="sin">sin</bibReference></line>
+                <line>Oh, what a <religiousReference reference="sin">sin</religiousReference></line>
             </stanza>
         </verse>
         <preChorus>
