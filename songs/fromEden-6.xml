@@ -32,15 +32,19 @@
         <chorus>
             <stanza>
                 <line>Honey, you're familiar, like my mirror years ago</line>
-                <line><litDevice device = "metaphor">Idealism sits in prison, chivalry fell on his sword</litDevice></line>
-                <line><litDevice device = "personification">Innocence died screaming</litDevice>; honey, ask me, I should know</line>
-                <line> I slithered here from <religiousPlace religion = "christianity">Eden</religiousPlace> just to sit outside your door</line>
+                <line><litDevice device="metaphor">Idealism sits in prison, chivalry fell on his
+                        sword</litDevice></line>
+                <line><litDevice device="personification">Innocence died screaming</litDevice>;
+                    honey, ask me, I should know</line>
+                <line> I slithered here from <religiousPlace place="christianity"
+                        >Eden</religiousPlace> just to sit outside your door</line>
             </stanza>
         </chorus>
         <verse>
             <stanza>
                 <line>Babe</line>
-                <line>There's something <bibReference reference = "sin">wretched</bibReference>about this</line>
+                <line>There's something <bibReference reference="sin">wretched</bibReference>about
+                    this</line>
                 <line>Something so precious about this</line>
                 <line>Where to begin?</line>
             </stanza>
@@ -48,32 +52,39 @@
                 <line>Babe</line>
                 <line>There's something broken about this</line>
                 <line>But I might be hoping about this</line>
-                <line>Oh, what a <bibReference reference = "sin">sin</bibReference></line>
+                <line>Oh, what a <bibReference reference="sin">sin</bibReference></line>
             </stanza>
         </verse>
         <preChorus>
             <stanza>
                 <line>To the strand, a picnic planned</line>
                 <line>For you and me</line>
-                <line><litDevice device = "symbolism">A rope in hand for your other man</litDevice></line>
+                <line><litDevice device="symbolism">A rope in hand for your other
+                    man</litDevice></line>
                 <line>To hang from a tree</line>
             </stanza>
         </preChorus>
         <chorus>
             <stanza>
                 <line>Honey, you're familiar, like my mirror years ago</line>
-                <line><litDevice device = "metaphor">Idealism sits in prison, chivalry fell on his sword</litDevice></line>
-                <line><litDevice device = "personification">Innocence died screaming</litDevice>; honey, ask me, I should know</line>
-                <line> I slithered here from <religiousPlace religion = "christianity">Eden</religiousPlace> just to sit outside your door</line>
+                <line><litDevice device="metaphor">Idealism sits in prison, chivalry fell on his
+                        sword</litDevice></line>
+                <line><litDevice device="personification">Innocence died screaming</litDevice>;
+                    honey, ask me, I should know</line>
+                <line> I slithered here from <religiousPlace place="christianity"
+                        >Eden</religiousPlace> just to sit outside your door</line>
             </stanza>
         </chorus>
         <instrumental/>
         <chorus>
             <stanza>
                 <line>Honey, you're familiar, like my mirror years ago</line>
-                <line><litDevice device = "metaphor">Idealism sits in prison, chivalry fell on his sword</litDevice></line>
-                <line><litDevice device = "personification">Innocence died screaming</litDevice>; honey, ask me, I should know</line>
-                <line> I slithered here from <religiousPlace religion = "christianity">Eden</religiousPlace> just to sit outside your door</line>
+                <line><litDevice device="metaphor">Idealism sits in prison, chivalry fell on his
+                        sword</litDevice></line>
+                <line><litDevice device="personification">Innocence died screaming</litDevice>;
+                    honey, ask me, I should know</line>
+                <line> I slithered here from <religiousPlace place="christianity"
+                        >Eden</religiousPlace> just to sit outside your door</line>
             </stanza>
         </chorus>
     </lyrics>

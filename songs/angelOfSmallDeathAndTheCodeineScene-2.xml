@@ -3,16 +3,18 @@
 <song>
     <information>
         <producers>Hozier and Rob Kirwan</producers>
-        <trackNumber> 2 </trackNumber>
+        <trackNumber>2</trackNumber>
         <title>Angle of Small Death and the Codeine Scene</title>
     </information>
     <lyrics>
         <verse>
             <stanza>
-                <line>I watch the work of my kin, <litDevice device = "alliteration">bold and boyful</litDevice></line>
+                <line>I watch the work of my kin, <litDevice device="alliteration">bold and
+                        boyful</litDevice></line>
                 <line>Toying somewhere between love and abuse</line>
                 <line>Calling to join them the wretched and joyful</line>
-                <line><litDevice device = "metaphor">Shaking the wings of their terrible youths</litDevice></line>
+                <line><litDevice device="metaphor">Shaking the wings of their terrible
+                        youths</litDevice></line>
             </stanza>
             <stanza>
                 <line>Freshly disowned in some frozen devotion</line>
@@ -24,25 +26,31 @@
         <chorus>
             <stanza>
                 <line>With her sweetened breath, and her tongue so mean</line>
-                <line>She's the <religiousFigure religion = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
+                <line>She's the <religiousFigure figure="christianity">angel</religiousFigure> of
+                    small death and the codeine scene</line>
                 <line>With her straw-blonde hair, her arms hard and lean</line>
-                <line>She's the <religiousFigure religion = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
+                <line>She's the <religiousFigure figure="christianity">angel</religiousFigure> of
+                    small death and the codeine scene</line>
             </stanza>
         </chorus>
         <verse>
             <stanza>
                 <line>Feeling more human and hooked on her flesh, I</line>
-                <line><litDevice device = "metaphor">Lay my heart down with the rest at her feet</litDevice></line>
-                <line>Fresh from the fields, all <litDevice device = "alliteration">fetor and fertile</litDevice></line>
+                <line><litDevice device="metaphor">Lay my heart down with the rest at her
+                        feet</litDevice></line>
+                <line>Fresh from the fields, all <litDevice device="alliteration">fetor and
+                        fertile</litDevice></line>
                 <line>It's bloody and raw, but I swear it is sweet</line>
             </stanza>
         </verse>
         <chorus>
             <stanza>
                 <line>With her sweetened breath, and her tongue so mean</line>
-                <line>She's the <religiousFigure religion = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
+                <line>She's the <religiousFigure figure="christianity">angel</religiousFigure> of
+                    small death and the codeine scene</line>
                 <line>With her straw-blonde hair, her arms hard and lean</line>
-                <line>She's the <religiousFigure religion = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
+                <line>She's the <religiousFigure figure="christianity">angel</religiousFigure> of
+                    small death and the codeine scene</line>
             </stanza>
         </chorus>
         <bridge>
@@ -56,15 +64,19 @@
         <chorus>
             <stanza>
                 <line>With her sweetened breath, and her tongue so mean</line>
-                <line>She's the <religiousFigure religion = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
+                <line>She's the <religiousFigure figure="christianity">angel</religiousFigure> of
+                    small death and the codeine scene</line>
                 <line>With her straw-blonde hair, her arms hard and lean</line>
-                <line>She's the <religiousFigure religion = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
+                <line>She's the <religiousFigure figure="christianity">angel</religiousFigure> of
+                    small death and the codeine scene</line>
             </stanza>
             <stanza>
                 <line>With her sweetened breath, and her tongue so mean</line>
-                <line>She's the <religiousFigure religion = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
+                <line>She's the <religiousFigure figure="christianity">angel</religiousFigure> of
+                    small death and the codeine scene</line>
                 <line>With her straw-blonde hair, her arms hard and lean</line>
-                <line>She's the <religiousFigure religion = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
+                <line>She's the <religiousFigure figure="christianity">angel</religiousFigure> of
+                    small death and the codeine scene</line>
             </stanza>
         </chorus>
     </lyrics>

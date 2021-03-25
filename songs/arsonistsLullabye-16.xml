@@ -3,7 +3,7 @@
 <song>
     <information>
         <producers>Hozier and Rob Kirwan</producers>
-        <trackNumber> 16 </trackNumber>
+        <trackNumber>16</trackNumber>
         <title>Arsonist's Lullabye</title>
     </information>
     <lyrics>
@@ -11,7 +11,8 @@
         <verse>
             <stanza>
                 <line>When I was a child, I heard voices</line>
-                <line><religiousConcept religion = "chrisianity">Some would sing and some would scream</religiousConcept></line>
+                <line><religiousConcept concept="chrisianity">Some would sing and some would
+                        scream</religiousConcept></line>
                 <line>You soon find you have few choices</line>
                 <line>I learned the voices died with me</line>
                 <line>When I was a child, I'd sit for hours</line>
@@ -22,10 +23,12 @@
         </verse>
         <hook>
             <stanza>
-                <line>All you have is <litDevice device = "symbolism">your fire</litDevice></line>
+                <line>All you have is <litDevice device="symbolism">your fire</litDevice></line>
                 <line>And the place you need to reach</line>
-                <line>Don't you ever tame your <religiousConcept religion = "chrisianity">demons</religiousConcept></line>
-                <line>But <litDevice device = "metaphor">always keep them on a leash</litDevice></line>
+                <line>Don't you ever tame your <religiousConcept concept="chrisianity"
+                        >demons</religiousConcept></line>
+                <line>But <litDevice device="metaphor">always keep them on a
+                    leash</litDevice></line>
             </stanza>
         </hook>
         <humming/>
@@ -33,32 +36,37 @@
             <stanza>
                 <line>When I was sixteen, my senses fooled me</line>
                 <line>Thought gasoline was on my clothes</line>
-                <line>I knew that <litDevice device = "symbolism">something would always rule me</litDevice></line>
+                <line>I knew that <litDevice device="symbolism">something would always rule
+                        me</litDevice></line>
                 <line>I knew this scent was mine alone </line>
             </stanza>
         </verse>
         <hook>
             <stanza>
-                <line>All you have is <litDevice device = "symbolism">your fire</litDevice></line>
+                <line>All you have is <litDevice device="symbolism">your fire</litDevice></line>
                 <line>And the place you need to reach</line>
-                <line>Don't you ever tame your <religiousConcept religion = "chrisianity">demons</religiousConcept></line>
-                <line><litDevice device = "metaphor">Always keep them on a leash</litDevice></line>
+                <line>Don't you ever tame your <religiousConcept concept="chrisianity"
+                        >demons</religiousConcept></line>
+                <line><litDevice device="metaphor">Always keep them on a leash</litDevice></line>
             </stanza>
         </hook>
         <bridge>
             <stanza>
                 <line>When I was a man, I thought it ended</line>
-                <line>When I knew <litDevice device = "metaphor">love's perfect ache</litDevice></line>
+                <line>When I knew <litDevice device="metaphor">love's perfect
+                    ache</litDevice></line>
                 <line>But my peace has always depended</line>
                 <line>On all the ashes in my wake</line>
             </stanza>
         </bridge>
         <outro>
             <stanza>
-                <line>All you have is <litDevice device = "symbolism">your fire</litDevice></line>
+                <line>All you have is <litDevice device="symbolism">your fire</litDevice></line>
                 <line>And the place you need to reach</line>
-                <line>Don't you ever tame your <religiousConcept religion = "chrisianity">demons</religiousConcept></line>
-                <line>But <litDevice device = "metaphor">always keep them on a leash</litDevice></line>
+                <line>Don't you ever tame your <religiousConcept concept="chrisianity"
+                        >demons</religiousConcept></line>
+                <line>But <litDevice device="metaphor">always keep them on a
+                    leash</litDevice></line>
             </stanza>
         </outro>
     </lyrics>
