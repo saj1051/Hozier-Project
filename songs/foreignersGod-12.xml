@@ -42,21 +42,17 @@
                 <line><litDevice device = "motif">The purest expression of grief</litDevice></line>
                 <line>Of a <religiousReference reference="pagan">foreigner's God</religiousReference></line>
                 <line>Screaming the name</line>
-                <line>Of a <religiousReference reference="pagan">foreigner's
-                        God</religiousReference></line>
+                <line>Of a <religiousReference reference="pagan">foreigner's God</religiousReference></line>
                 <line>Screaming the name</line>
-                <line>Of a <religiousReference reference="pagan">foreigner's
-                        God</religiousReference></line>
+                <line>Of a <religiousReference reference="pagan">foreigner's God</religiousReference></line>
                 <line><litDevice device="motif">The purest expression of grief</litDevice></line>
->>>>>>> 68817ae24b8083b485430871eb208e6de07f22d4
             </stanza>
         </chorus>
         <verse>
             <stanza>
                 <line>Wondering who I copy</line>
                 <line>Mustering some tender charm</line>
-                <line><litDevice device="allusion">She feels no control of her
-                    body</litDevice></line>
+                <line><litDevice device="allusion">She feels no control of her body</litDevice></line>
                 <line>She feels no safety in my arms</line>
             </stanza>
             <stanza>
@@ -76,7 +72,6 @@
         <chorus>
             <stanza>
                 <line>Screaming the name</line>
-<<<<<<< HEAD
                 <line>Of a <religiousReference reference = "pagan">foreigner's God</religiousReference></line>
                 <line>Screaming the name</line>
                 <line>Of a <religiousReference reference = "pagan">foreigner's God</religiousReference></line>
@@ -84,14 +79,11 @@
                 <line>Of a <religiousReference reference = "pagan">foreigner's God</religiousReference></line>
                 <line><litDevice device = "motif">The purest expression of grief</litDevice></line>
 =======
-                <line>Of a <religiousReference reference="pagan">foreigner's
-                        God</religiousReference></line>
+                <line>Of a <religiousReference reference="pagan">foreigner's God</religiousReference></line>
                 <line>Screaming the name</line>
-                <line>Of a <religiousReference reference="pagan">foreigner's
-                        God</religiousReference></line>
+                <line>Of a <religiousReference reference="pagan">foreigner's God</religiousReference></line>
                 <line>Screaming the name</line>
-                <line>Of a <religiousReference reference="pagan">foreigner's
-                        God</religiousReference></line>
+                <line>Of a <religiousReference reference="pagan">foreigner's God</religiousReference></line>
                 <line><litDevice device="motif">The purest expression of grief</litDevice></line>
 >>>>>>> 68817ae24b8083b485430871eb208e6de07f22d4
             </stanza>
