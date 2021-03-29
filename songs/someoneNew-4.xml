@@ -71,7 +71,7 @@
                 <line>That you would <religiousAction action = "worship">pray</religiousAction> for him</line>
             </stanza>
             <stanza>
-                <line>'Cause <religiousFigure religion = "christianity">God</religiousFigure>knows I fall in love just a little, oh, a little bit</line>
+                <line>'Cause <religiousFigure figure = "christianity">God</religiousFigure>knows I fall in love just a little, oh, a little bit</line>
                 <line>Every day with someone new</line>
                 <line>I fall in love just a little, oh, a little bit</line>
                 <line>Every day with someone new</line>

@@ -22,6 +22,7 @@ instrumental = element instrumental { empty }
 stanza = element stanza { line+ }
 line = element line { mixed { (litDevice | religiousFigure | religiousPlace | religiousAction | mythReference | bibReference | religiousConcept | religiousReference )* } }
 litDevice = element litDevice { text }
+device = attribute device { text }
 religiousFigure = element religiousFigure { figure, text }
 figure = attribute figure { text }
 religiousPlace = element religiousPlace { place, text }

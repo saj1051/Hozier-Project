@@ -28,7 +28,9 @@
             </stanza>
         </verse>
         <chorus>
+            <stanza>
             <line>Ooh, oo-ooh, oo-ooh</line>
+            </stanza>
         </chorus>
         <verse>
             <stanza>
@@ -51,7 +53,9 @@
             </stanza>
         </verse>
         <chorus>
+            <stanza>
             <line>Ooh, oo-ooh, oo-ooh</line>
+            </stanza>
         </chorus>
         <verse>
             <stanza>
@@ -60,7 +64,7 @@
                 <line>To save a life I didn't have</line>
                 <line>Dear, in the chase</line>
                 <line>There as I flew</line>
-                <line>Forgot all <religiousConcept religion = "unknown">prayers</religiousConcept> of joining you</line>
+                <line>Forgot all <religiousConcept concept = "unknown">prayers</religiousConcept> of joining you</line>
             </stanza>
         </verse>
         <verse>
@@ -74,7 +78,9 @@
             </stanza>
         </verse>
         <chorus>
+            <stanza>
             <line>Ooh, oo-ooh, oo-ooh</line>
+            </stanza>
         </chorus>
     </lyrics>
 </song>
