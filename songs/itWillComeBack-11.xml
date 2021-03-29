@@ -21,44 +21,57 @@
         </stanza>
         <stanza>
             <line>Don't let it in with no intention to keep it</line>
-            <line><religiousFigure figure = "Jesus">Jesus Christ</religiousFigure>, don't be kind to it</line>
+            <line><religiousFigure figure="Jesus">Jesus Christ</religiousFigure>, don't be kind to
+                it</line>
             <line>Honey, don't feed it, it will come back</line>
         </stanza>
         <stanza>
-            <line><litDevice device = "motif">You know better babe, you know better, babe</litDevice></line>
-            <line><litDevice device = "motif">Than to smile at me, smile at me like that</litDevice></line>
-            <line><litDevice device = "motif">You know better babe, you know better babe</litDevice></line>
-            <line><lit_device device = "motif">Than to hold me just, hold me just like that</lit_device></line>
+            <line><litDevice device="motif">You know better babe, you know better,
+                babe</litDevice></line>
+            <line><litDevice device="motif">Than to smile at me, smile at me like
+                that</litDevice></line>
+            <line><litDevice device="motif">You know better babe, you know better
+                babe</litDevice></line>
+            <line><litDevice device="motif">Than to hold me just, hold me just like
+                that</litDevice></line>
         </stanza>
         <stanza>
             <line>I know who I am when I'm alone</line>
-            <line><litDevice device = "motif">I'm something else when I see you</litDevice></line>
-            <line><litDevice device = "motif">You don't understand, you should never know</litDevice></line>
-            <line><litDevice device = "motif">How easy you are to need</litDevice></line>
+            <line><litDevice device="motif">I'm something else when I see you</litDevice></line>
+            <line><litDevice device="motif">You don't understand, you should never
+                know</litDevice></line>
+            <line><litDevice device="motif">How easy you are to need</litDevice></line>
         </stanza>
         <stanza>
-            <line><litDevice device = "motif">Don't let me in with no intention to keep me</litDevice></line>
-            <line><religiousFigure figure = "Jesus">Jesus Christ</religiousFigure>, don't be kind to me</line>
-            <line><litDevice device = "motif">Honey, don't feed me, I will come back</litDevice></line>
+            <line><litDevice device="motif">Don't let me in with no intention to keep
+                me</litDevice></line>
+            <line><religiousFigure figure="Jesus">Jesus Christ</religiousFigure>, don't be kind to
+                me</line>
+            <line><litDevice device="motif">Honey, don't feed me, I will come
+                back</litDevice></line>
         </stanza>
         <stanza>
             <line>It can't be unlearned</line>
-            <line><litDevice device = "motif">I've known the warmth of your doorways</litDevice></line>
-            <line><litDevice device = "motif">Through the cold, I'll find my way back to you</litDevice></line>
+            <line><litDevice device="motif">I've known the warmth of your
+                doorways</litDevice></line>
+            <line><litDevice device="motif">Through the cold, I'll find my way back to
+                    you</litDevice></line>
         </stanza>
         <stanza>
-            <line><litDevice device = "motif">Oh, please, give me mercy no more</litDevice></line>
-            <line><litDevice device = "motif">That's a kindness you can't afford</litDevice></line>
-            <line><litDevice device = "motif">I warn you, baby, each night, as sure as you're born</litDevice></line>
-            <line><litDevice device = "motif">You'll hear me howling outside your door</litDevice></line>
+            <line><litDevice device="motif">Oh, please, give me mercy no more</litDevice></line>
+            <line><litDevice device="motif">That's a kindness you can't afford</litDevice></line>
+            <line><litDevice device="motif">I warn you, baby, each night, as sure as you're
+                    born</litDevice></line>
+            <line><litDevice device="motif">You'll hear me howling outside your
+                door</litDevice></line>
         </stanza>
         <stanza>
-            <line><litDevice device = "analogy">Don't you hear me howling, babe?</litDevice></line>
-            <line><litDevice device = "analogy">Don't you hear me howling, babe?</litDevice></line>
-            <line><litDevice device = "analogy">Don't you hear me howling, babe?</litDevice></line>
-            <line><litDevice device = "analogy">Don't you hear me howling?</litDevice></line>
-            <line><litDevice device = "analogy">Don't you hear me howling?</litDevice></line>
-            <line><litDevice device = "analogy">Don't you hear me howling, babe?</litDevice></line>
+            <line><litDevice device="analogy">Don't you hear me howling, babe?</litDevice></line>
+            <line><litDevice device="analogy">Don't you hear me howling, babe?</litDevice></line>
+            <line><litDevice device="analogy">Don't you hear me howling, babe?</litDevice></line>
+            <line><litDevice device="analogy">Don't you hear me howling?</litDevice></line>
+            <line><litDevice device="analogy">Don't you hear me howling?</litDevice></line>
+            <line><litDevice device="analogy">Don't you hear me howling, babe?</litDevice></line>
         </stanza>
     </lyrics>
 </song>

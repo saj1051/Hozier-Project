@@ -3,7 +3,7 @@
 <song>
     <information>
         <producers>Hozier and Rob Kirwan</producers>
-        <trackNumber> 14 </trackNumber>
+        <trackNumber>14</trackNumber>
         <title>In the Woods Somewhere</title>
     </information>
     <lyrics>
@@ -11,17 +11,20 @@
             <stanza>
                 <line>My head was warm</line>
                 <line>My skin was soaked</line>
-                <line>I called your name <litDevice device = "metaphor">'til the fever broke</litDevice></line>
+                <line>I called your name <litDevice device="metaphor">'til the fever
+                        broke</litDevice></line>
                 <line>When I awoke</line>
                 <line>The moon still hung</line>
-                <line>The night so black that <litDevice device = "personification">the darkness hums</litDevice></line>
+                <line>The night so black that <litDevice device="personification">the darkness
+                        hums</litDevice></line>
             </stanza>
         </verse>
         <verse>
             <stanza>
                 <line>I raised myself</line>
                 <line>My legs were weak</line>
-                <line>I <religiousAction action = "worship">prayed</religiousAction> my mind be good to me</line>
+                <line>I <religiousAction action="worship">prayed</religiousAction> my mind be good
+                    to me</line>
                 <line>An awful noise</line>
                 <line>Filled the air</line>
                 <line>I heard a scream in the woods somewhere</line>
@@ -29,7 +32,11 @@
         </verse>
         <chorus>
             <stanza>
+<<<<<<< HEAD
             <line>Ooh, oo-ooh, oo-ooh</line>
+=======
+                <line>Ooh, oo-ooh, oo-ooh</line>
+>>>>>>> 68817ae24b8083b485430871eb208e6de07f22d4
             </stanza>
         </chorus>
         <verse>
@@ -54,7 +61,11 @@
         </verse>
         <chorus>
             <stanza>
+<<<<<<< HEAD
             <line>Ooh, oo-ooh, oo-ooh</line>
+=======
+                <line>Ooh, oo-ooh, oo-ooh</line>
+>>>>>>> 68817ae24b8083b485430871eb208e6de07f22d4
             </stanza>
         </chorus>
         <verse>
@@ -64,14 +75,19 @@
                 <line>To save a life I didn't have</line>
                 <line>Dear, in the chase</line>
                 <line>There as I flew</line>
+<<<<<<< HEAD
                 <line>Forgot all <religiousConcept concept = "unknown">prayers</religiousConcept> of joining you</line>
+=======
+                <line>Forgot all <religiousConcept concept="unknown">prayers</religiousConcept> of
+                    joining you</line>
+>>>>>>> 68817ae24b8083b485430871eb208e6de07f22d4
             </stanza>
         </verse>
         <verse>
             <stanza>
                 <line>I clutched my life</line>
                 <line>And wished it kept</line>
-                <line><litDevice device = "motif">My dearest love, I'm not done yet</litDevice></line>
+                <line><litDevice device="motif">My dearest love, I'm not done yet</litDevice></line>
                 <line>How many years</line>
                 <line>I know I'll bear</line>
                 <line>I found something in the woods somewhere</line>
@@ -79,7 +95,11 @@
         </verse>
         <chorus>
             <stanza>
+<<<<<<< HEAD
             <line>Ooh, oo-ooh, oo-ooh</line>
+=======
+                <line>Ooh, oo-ooh, oo-ooh</line>
+>>>>>>> 68817ae24b8083b485430871eb208e6de07f22d4
             </stanza>
         </chorus>
     </lyrics>

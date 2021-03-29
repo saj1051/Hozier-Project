@@ -3,22 +3,31 @@
 <song>
     <information>
         <producers>Hozier and Rob Kirwan</producers>
-        <trackNumber> 12 </trackNumber>
+        <trackNumber>12</trackNumber>
         <title>Foreigner's God</title>
     </information>
     <lyrics>
         <verse>
             <stanza>
                 <line>She moved with shameless wonder</line>
+<<<<<<< HEAD
                 <line>The <mythReference reference = "ambiguous">perfect creature</mythReference> rarely seen</line>
                 <line>Since some liar brought the thunder</line>
                 <line>When the land was <religiousReference reference = "pagan">godless and free</religiousReference></line>
+=======
+                <line>The <religiousReference reference="ambiguous">perfect creature</religiousReference>
+                    rarely seen</line>
+                <line>Since some liar brought the thunder</line>
+                <line>When the land was <religiousReference reference="pagan">godless and
+                        free</religiousReference></line>
+>>>>>>> 68817ae24b8083b485430871eb208e6de07f22d4
             </stanza>
             <stanza>
                 <line>Her eyes look sharp and steady</line>
                 <line>Into the empty parts of me</line>
                 <line>But still my heart is heavy</line>
-                <line>With the <litDevice device = "symbolism">hate of some other man's beliefs</litDevice></line>
+                <line>With the <litDevice device="symbolism">hate of some other man's
+                        beliefs</litDevice></line>
             </stanza>
         </verse>
         <preChorus>
@@ -31,26 +40,39 @@
         <chorus>
             <stanza>
                 <line>Screaming the name</line>
+<<<<<<< HEAD
                 <line>Of a <religiousReference reference = "pagan">foreigner's God</religiousReference></line>
                 <line>Screaming the name</line>
                 <line>Of a <religiousReference reference = "pagan">foreigner's God</religiousReference></line>
                 <line>Screaming the name</line>
                 <line>Of a <religiousReference reference = "pagan">foreigner's God</religiousReference></line>
                 <line><litDevice device = "motif">The purest expression of grief</litDevice></line>
+=======
+                <line>Of a <religiousReference reference="pagan">foreigner's
+                        God</religiousReference></line>
+                <line>Screaming the name</line>
+                <line>Of a <religiousReference reference="pagan">foreigner's
+                        God</religiousReference></line>
+                <line>Screaming the name</line>
+                <line>Of a <religiousReference reference="pagan">foreigner's
+                        God</religiousReference></line>
+                <line><litDevice device="motif">The purest expression of grief</litDevice></line>
+>>>>>>> 68817ae24b8083b485430871eb208e6de07f22d4
             </stanza>
         </chorus>
         <verse>
             <stanza>
                 <line>Wondering who I copy</line>
                 <line>Mustering some tender charm</line>
-                <line><litDevice device = "allusion">She feels no control of her body</litDevice></line>
+                <line><litDevice device="allusion">She feels no control of her
+                    body</litDevice></line>
                 <line>She feels no safety in my arms</line>
             </stanza>
             <stanza>
                 <line>I've no language left to say it</line>
                 <line>But all I do is quake to her</line>
                 <line>Breaking if I try convey it</line>
-                <line><litDevice device = "allusion">The broken love I make to her</litDevice></line>
+                <line><litDevice device="allusion">The broken love I make to her</litDevice></line>
             </stanza>
         </verse>
         <preChorus>
@@ -63,18 +85,31 @@
         <chorus>
             <stanza>
                 <line>Screaming the name</line>
+<<<<<<< HEAD
                 <line>Of a <religiousReference reference = "pagan">foreigner's God</religiousReference></line>
                 <line>Screaming the name</line>
                 <line>Of a <religiousReference reference = "pagan">foreigner's God</religiousReference></line>
                 <line>Screaming the name</line>
                 <line>Of a <religiousReference reference = "pagan">foreigner's God</religiousReference></line>
                 <line><litDevice device = "motif">The purest expression of grief</litDevice></line>
+=======
+                <line>Of a <religiousReference reference="pagan">foreigner's
+                        God</religiousReference></line>
+                <line>Screaming the name</line>
+                <line>Of a <religiousReference reference="pagan">foreigner's
+                        God</religiousReference></line>
+                <line>Screaming the name</line>
+                <line>Of a <religiousReference reference="pagan">foreigner's
+                        God</religiousReference></line>
+                <line><litDevice device="motif">The purest expression of grief</litDevice></line>
+>>>>>>> 68817ae24b8083b485430871eb208e6de07f22d4
             </stanza>
         </chorus>
         <instrumental/>
         <chorus>
             <stanza>
                 <line>Screaming the name</line>
+<<<<<<< HEAD
                 <line>Of a <religiousReference reference = "pagan">foreigner's God</religiousReference></line>
                 <line>Screaming the name</line>
                 <line>Of a <religiousReference reference = "pagan">foreigner's God</religiousReference></line>
@@ -90,6 +125,29 @@
                 <line>Screaming the name</line>
                 <line>Of a <religiousReference reference = "pagan">foreigner's God</religiousReference></line>
                 <line><litDevice device = "motif">The purest expression of grief</litDevice></line>
+=======
+                <line>Of a <religiousReference reference="pagan">foreigner's
+                        God</religiousReference></line>
+                <line>Screaming the name</line>
+                <line>Of a <religiousReference reference="pagan">foreigner's
+                        God</religiousReference></line>
+                <line>Screaming the name</line>
+                <line>Of a <religiousReference reference="pagan">foreigner's
+                        God</religiousReference></line>
+                <line><litDevice device="motif">The purest expression of grief</litDevice></line>
+            </stanza>
+            <stanza>
+                <line>Screaming the name</line>
+                <line>Of a <religiousReference reference="pagan">foreigner's
+                        God</religiousReference></line>
+                <line>Screaming the name</line>
+                <line>Of a <religiousReference reference="pagan">foreigner's
+                        God</religiousReference></line>
+                <line>Screaming the name</line>
+                <line>Of a <religiousReference reference="pagan">foreigner's
+                        God</religiousReference></line>
+                <line><litDevice device="motif">The purest expression of grief</litDevice></line>
+>>>>>>> 68817ae24b8083b485430871eb208e6de07f22d4
             </stanza>
         </chorus>
     </lyrics>
