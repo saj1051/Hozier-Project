@@ -20,13 +20,8 @@ humming = element humming { empty }
 instrumental = element instrumental { empty }
 
 stanza = element stanza { line+ }
-<<<<<<< HEAD
-line = element line { mixed { (litDevice | religiousFigure | religiousPlace | religiousAction | mythReference | bibReference | religiousConcept | religiousReference )* } }
-litDevice = element litDevice { text }
-=======
 line = element line { mixed { (litDevice | religiousFigure | religiousPlace | religiousAction | religiousConcept | religiousReference )* } }
 litDevice = element litDevice { device, text }
->>>>>>> 68817ae24b8083b485430871eb208e6de07f22d4
 device = attribute device { text }
 religiousFigure = element religiousFigure { figure, text }
 figure = attribute figure { text }
