@@ -9,12 +9,10 @@
     <lyrics>
         <verse>
             <stanza>
-                <line>I watch the work of my kin, <litDevice device="alliteration">bold and
-                        boyful</litDevice></line>
+                <line>I watch the work of my kin, <litDevice device="alliteration">bold and boyful</litDevice></line>
                 <line>Toying somewhere between love and abuse</line>
                 <line>Calling to join them the wretched and joyful</line>
-                <line><litDevice device="metaphor">Shaking the wings of their terrible
-                        youths</litDevice></line>
+                <line><litDevice device="metaphor">Shaking the wings of their terrible youths</litDevice></line>
             </stanza>
             <stanza>
                 <line>Freshly disowned in some frozen devotion</line>
@@ -55,10 +53,17 @@
                 <line>Oh, oh, oh</line>
             </stanza>
         </bridge>
+        <verse>
+            <stanza>
+                <line>In leash-less confusion, I'll wander the concrete</line>
+                <line>Wonder if better now having survived</line>
+                <line><religiousConcept concept = "Christianity">The jarring of judgement </religiousConcept>and reason's defeat the sweet</line>
+                <line>Heat of her breath in my mouth; I'm alive</line>
+            </stanza>
+        </verse>
         <chorus>
             <stanza>
                 <line>With her sweetened breath, and her tongue so mean</line>
-<<<<<<< HEAD
                 <line>She's the <religiousFigure figure = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
                 <line>With her straw-blonde hair, her arms hard and lean</line>
                 <line>She's the <religiousFigure figure = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
@@ -68,21 +73,6 @@
                 <line>She's the <religiousFigure figure = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
                 <line>With her straw-blonde hair, her arms hard and lean</line>
                 <line>She's the <religiousFigure figure = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
-=======
-                <line>She's the <religiousFigure figure="christianity">angel</religiousFigure> of
-                    small death and the codeine scene</line>
-                <line>With her straw-blonde hair, her arms hard and lean</line>
-                <line>She's the <religiousFigure figure="christianity">angel</religiousFigure> of
-                    small death and the codeine scene</line>
-            </stanza>
-            <stanza>
-                <line>With her sweetened breath, and her tongue so mean</line>
-                <line>She's the <religiousFigure figure="christianity">angel</religiousFigure> of
-                    small death and the codeine scene</line>
-                <line>With her straw-blonde hair, her arms hard and lean</line>
-                <line>She's the <religiousFigure figure="christianity">angel</religiousFigure> of
-                    small death and the codeine scene</line>
->>>>>>> 68817ae24b8083b485430871eb208e6de07f22d4
             </stanza>
         </chorus>
     </lyrics>

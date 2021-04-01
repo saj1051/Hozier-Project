@@ -40,8 +40,7 @@
                 <line>There's an art to life's distraction</line>
                 <line>To somehow escape the burning wait, the art of scraping through</line>
                 <line>Some like to imagine</line>
-                <line> The <religiousReference reference="sin">dark caress</religiousReference> of someone else;
-                    I guess any thrill will do</line>
+                <line> The <religiousReference reference="sin">dark caress</religiousReference> of someone else; I guess any thrill will do</line>
             </stanza>
         </verse>
         <preChorus>
@@ -67,19 +66,12 @@
         <bridge>
             <stanza>
                 <line>I wake at the first cringe of morning</line>
-                <line>And my heart's already <religiousReference reference="sin"
-                    >sinned</religiousReference></line>
+                <line>And my heart's already <religiousReference reference="sin">sinned</religiousReference></line>
                 <line>How pure, how sweet a love, Aretha</line>
-                <line>That you would <religiousAction action="worship">pray</religiousAction> for
-                    him</line>
+                <line>That you would <religiousAction action="worship">pray</religiousAction> for him</line>
             </stanza>
             <stanza>
-<<<<<<< HEAD
                 <line>'Cause <religiousFigure figure = "christianity">God</religiousFigure>knows I fall in love just a little, oh, a little bit</line>
-=======
-                <line>'Cause <religiousFigure figure="christianity">God</religiousFigure>knows I
-                    fall in love just a little, oh, a little bit</line>
->>>>>>> 68817ae24b8083b485430871eb208e6de07f22d4
                 <line>Every day with someone new</line>
                 <line>I fall in love just a little, oh, a little bit</line>
                 <line>Every day with someone new</line>
@@ -113,7 +105,7 @@
         </refrain>
         <chorus>
             <stanza>
-                <line>And so I fall in love just a little, oh, a little bit</line>
+                <line>I fall in love just a little, oh, a little bit</line>
                 <line>Every day with someone new</line>
                 <line>I fall in love just a little, oh, a little bit</line>
                 <line>Every day with someone new</line>

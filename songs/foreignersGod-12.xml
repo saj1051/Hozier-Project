@@ -10,7 +10,7 @@
         <verse>
             <stanza>
                 <line>She moved with shameless wonder</line>
-                <line>The <mythReference reference = "ambiguous">perfect creature</mythReference> rarely seen</line>
+                <line>The <religiousReference reference = "ambiguous">perfect creature</religiousReference> rarely seen</line>
                 <line>Since some liar brought the thunder</line>
                 <line>When the land was <religiousReference reference = "pagan">godless and free</religiousReference></line>
                 <line>The <religiousReference reference="ambiguous">perfect creature</religiousReference> rarely seen</line>
@@ -78,21 +78,12 @@
                 <line>Screaming the name</line>
                 <line>Of a <religiousReference reference = "pagan">foreigner's God</religiousReference></line>
                 <line><litDevice device = "motif">The purest expression of grief</litDevice></line>
-=======
-                <line>Of a <religiousReference reference="pagan">foreigner's God</religiousReference></line>
-                <line>Screaming the name</line>
-                <line>Of a <religiousReference reference="pagan">foreigner's God</religiousReference></line>
-                <line>Screaming the name</line>
-                <line>Of a <religiousReference reference="pagan">foreigner's God</religiousReference></line>
-                <line><litDevice device="motif">The purest expression of grief</litDevice></line>
->>>>>>> 68817ae24b8083b485430871eb208e6de07f22d4
             </stanza>
         </chorus>
         <instrumental/>
         <chorus>
             <stanza>
                 <line>Screaming the name</line>
-<<<<<<< HEAD
                 <line>Of a <religiousReference reference = "pagan">foreigner's God</religiousReference></line>
                 <line>Screaming the name</line>
                 <line>Of a <religiousReference reference = "pagan">foreigner's God</religiousReference></line>
@@ -108,29 +99,6 @@
                 <line>Screaming the name</line>
                 <line>Of a <religiousReference reference = "pagan">foreigner's God</religiousReference></line>
                 <line><litDevice device = "motif">The purest expression of grief</litDevice></line>
-=======
-                <line>Of a <religiousReference reference="pagan">foreigner's
-                        God</religiousReference></line>
-                <line>Screaming the name</line>
-                <line>Of a <religiousReference reference="pagan">foreigner's
-                        God</religiousReference></line>
-                <line>Screaming the name</line>
-                <line>Of a <religiousReference reference="pagan">foreigner's
-                        God</religiousReference></line>
-                <line><litDevice device="motif">The purest expression of grief</litDevice></line>
-            </stanza>
-            <stanza>
-                <line>Screaming the name</line>
-                <line>Of a <religiousReference reference="pagan">foreigner's
-                        God</religiousReference></line>
-                <line>Screaming the name</line>
-                <line>Of a <religiousReference reference="pagan">foreigner's
-                        God</religiousReference></line>
-                <line>Screaming the name</line>
-                <line>Of a <religiousReference reference="pagan">foreigner's
-                        God</religiousReference></line>
-                <line><litDevice device="motif">The purest expression of grief</litDevice></line>
->>>>>>> 68817ae24b8083b485430871eb208e6de07f22d4
             </stanza>
         </chorus>
     </lyrics>
