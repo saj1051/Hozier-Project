@@ -39,6 +39,7 @@
 .flex-container {
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
 }
 
 /* Create three unequal columns that floats next to each other */
