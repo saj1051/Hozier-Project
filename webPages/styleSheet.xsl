@@ -12,8 +12,11 @@
                 <xsl:apply-templates/>
             </head>
             <body>
-                <xsl:apply-templates select="//song/lyrics/verse/line"/>
+                <xsl:apply-templates select="//song/lyrics"/>
             </body>
         </html>
+    </xsl:template>
+    <xsl:template match="line">
+        <line><xsl:apply-templates/></line>
     </xsl:template>
 </xsl:stylesheet>
