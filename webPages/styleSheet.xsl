@@ -16,6 +16,11 @@
             </body>
         </html>
     </xsl:template>
+    <xsl:template match="verse | stanza | chorus | bridge | pre-chorus | outro">
+        <div class="lyric">
+            <xsl:apply-templates/>
+        </div>
+    </xsl:template>
     <xsl:template match="line">
         <line><xsl:apply-templates/></line>
     </xsl:template>
