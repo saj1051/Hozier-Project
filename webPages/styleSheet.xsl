@@ -9,9 +9,10 @@
         <html>
             <head>
                 <title>Hozier</title>
+                <xsl:apply-templates/>
             </head>
             <body>
-                <xsl:apply-templates select="//lyrics/verse/stanza"/>
+                <xsl:apply-templates select="//song/lyrics/verse/line"/>
             </body>
         </html>
     </xsl:template>
