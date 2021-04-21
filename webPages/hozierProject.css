@@ -1,52 +1,99 @@
+body {
+    background-color: #637f97;
+    background-image: linear-gradient(#637f97, #96c0d1);
+    background-size: cover;
+    margin: 50px;
+}
+
+h1, h2 {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: #c14424
+}
+
+h2 {
+    color: #d47636
+}
+
+h3, p {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h3 {
+    font-weight: bold;
+    color: #525739
+}
+
+p {
+    color: black;
+}
+
+
 /* Style the navigation menu */
+
 .navbar {
-  width: 100%;
-  background-color: #555;
-  overflow: auto;
+    text-align: center;
+    margin: 0px;
+    font-family: arial;
+    font-size: 18px;
+    font-weight: 350;
+    width: 100%;
+    background-color: #555;
+    overflow: auto;
 }
 
 .navbar a {
-  float: left;
-  padding: 12px;
-  color: white;
-  text-decoration: none;
-  font-size: 17px;
-  width: 25%;
-  text-align: center;
+    float: left;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    width: 25%;
+    text-align: center;
 }
 
-  /* change color on hover */
+a:link {
+    text-decoration: none;
+    color: white;
+}
+
+/* change color on hover */
 .navbar a:hover {
-  background-color: #ddd;
-  color: black;
+    background-color: #ddd;
+    color: black;
 }
 
 /* Style the current/active link */
 .navbar a.active {
-  background-color: #4CAF50;
+    background-color: #4CAF50;
 }
 
-@media screen and (max-width: 500px) {
-  .navbar a {
-    float: none;
-    display: block;
-    width: 100%;
-    text-align: left;
-  }
+@media screen and (max-width : 500px) {
+    .navbar a {
+        float: none;
+        display: block;
+        width: 100%;
+        text-align: left;
+    }
 }
 
 /* flex box */
 .flex-container {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column.side, .column.middle {
-    width: 100%;
-  }
+@media screen and (max-width : 600px) {
+    .column.side,
+    .column.middle {
+        width: 100%;
+    }
 }
 
 h1 {
@@ -64,16 +111,16 @@ p {
 }
 
 .grid-container {
-  display: grid;
-  grid-template-columns: auto auto auto auto;
-  background-color: #c1d9c3;
-  padding: 10px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    background-color: #c1d9c3;
+    padding: 10px;
 }
 
 .grid-item {
-  background-color: #709ab9;
-  border: 1px solid #303632;
-  padding: 20px;
-  font-size: 30px;
-  text-align: center;
+    background-color: #709ab9;
+    border: 1px solid #303632;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
 }
