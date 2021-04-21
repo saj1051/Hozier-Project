@@ -17,12 +17,12 @@ h1 {
 }
 
 h2 {
-    color: #d47636
+    color: #c98642
 }
 
 h3,
 p {
-    text-align: center;
+    text-align: left;
     font-family: sans-serif;
 }
 
@@ -61,7 +61,7 @@ li.toc {
 }
 a:link {
     text-decoration: none;
-    color: #7a8358;
+    color: #2d7330;
 }
 a:hover {
     text-decoration: none;
