@@ -9,19 +9,49 @@
         <html>
             <head>
                 <title>Hozier</title>
-                <xsl:apply-templates/>
             </head>
             <body>
-                <xsl:apply-templates select="//song/lyrics"/>
+                <h1>Hozier songs</h1>
+                <xsl:apply-templates/>
             </body>
         </html>
     </xsl:template>
-    <xsl:template match="verse | stanza | chorus | bridge | pre-chorus | outro">
+   <xsl:template match="song">
+      <h2>
+           <xsl:apply-templates select="information"/>
+       </h2>
+       <article>
+           <xsl:apply-templates select="lyrics"/>
+       </article>
+   </xsl:template>
+    <xsl:template match="information">
+        <xsl:apply-templates select='title'/>
+    </xsl:template>
+   <xsl:template match="lyrics">
+       <p>
+           <xsl:apply-templates select="verse"/>
+       </p>
+   </xsl:template>
+    <xsl:template match="verse">
+        
+        <p>
+            <xsl:apply-templates select="stanza"/>
+        </p>
+    </xsl:template>
+    <xsl:template match="stanza">
+        <p>
+            <xsl:apply-templates select="line"/>
+        </p>
+    </xsl:template>
+    <xsl:template match="line">
+        <xsl:apply-templates/>
+    </xsl:template>
+    <!--<xsl:template match="verse | stanza | chorus | bridge | pre-chorus | outro">
         <div class="lyric">
             <xsl:apply-templates/>
         </div>
     </xsl:template>
     <xsl:template match="line">
         <line><xsl:apply-templates/></line>
-    </xsl:template>
+    </xsl:template>-->
 </xsl:stylesheet>
