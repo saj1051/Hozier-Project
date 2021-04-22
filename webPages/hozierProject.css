@@ -1,6 +1,6 @@
 body {
-    background-color: #637f97;
-    background-image: linear-gradient(#d3d8ec, silver);
+    background-color: #d8801c;
+    background-image: linear-gradient(#d8801c, silver);
     background-attachment: fixed;
     background-size: cover;
     margin: 50px;
@@ -10,19 +10,14 @@ h1, h2 {
     text-align: center;
     font-size: 46px;
     font-family: Oswald;
+    color: #1b313e
 }
 
 h1 {
-    color: #c14424;
     font-size: 50px;
     height: 75px;
     vertical-align: middle;
 }
-
-h2 {
-    color: #c98642
-}
-
 
 p {
     font-size: 24px;
@@ -72,7 +67,7 @@ section {
     text-align: justify;
     display: flex;
     justify-content: space-evenly;
-    background-color: #7a8358;
+    background-color: #9ad2f1;
     position: sticky;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -108,12 +103,12 @@ img {
 .grid-container {
     display: grid;
     grid-template-columns: auto auto auto auto;
-    background-color: #c1d9c3;
+    background-color: #9ad2f1;
     padding: 10px;
 }
 
 .grid-item {
-    background-color: #709ab9;
+    background-color: #f6fdff;
     border: 1px solid #303632;
     padding: 20px;
     font-size: 30px;
