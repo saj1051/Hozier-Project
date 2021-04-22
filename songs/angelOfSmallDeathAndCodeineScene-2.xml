@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="../hozierSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <information>
+        <producers>Hozier and Rob Kirwan</producers>
+        <trackNumber>2</trackNumber>
+        <title>Angel of Small Death and the Codeine Scene</title>
+    </information>
+    <lyrics>
+        <verse>
+            <stanza>
+                <line>I watch the work of my kin, <litDevice device="alliteration">bold and boyful</litDevice></line>
+                <line>Toying somewhere between love and abuse</line>
+                <line>Calling to join them the wretched and joyful</line>
+                <line><litDevice device="metaphor">Shaking the wings of their terrible youths</litDevice></line>
+            </stanza>
+            <stanza>
+                <line>Freshly disowned in some frozen devotion</line>
+                <line>No more alone or myself could I be</line>
+                <line>Lurched like a stray to the arms that were open</line>
+                <line>No shortage of sordid, no protest from me</line>
+            </stanza>
+        </verse>
+        <chorus>
+            <stanza>
+                <line>With her sweetened breath, and her tongue so mean</line>
+                <line>She's the <religiousFigure figure = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
+                <line>With her straw-blonde hair, her arms hard and lean</line>
+                <line>She's the <religiousFigure figure = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
+            </stanza>
+        </chorus>
+        <verse>
+            <stanza>
+                <line>Feeling more human and hooked on her flesh, I</line>
+                <line><litDevice device="metaphor">Lay my heart down with the rest at herfeet</litDevice></line>
+                <line>Fresh from the fields, all <litDevice device="alliteration">fetor and fertile</litDevice></line>
+                <line>It's bloody and raw, but I swear it is sweet</line>
+            </stanza>
+        </verse>
+        <chorus>
+            <stanza>
+                <line>With her sweetened breath, and her tongue so mean</line>
+                <line>She's the <religiousFigure figure = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
+                <line>With her straw-blonde hair, her arms hard and lean</line>
+                <line>She's the <religiousFigure figure = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
+            </stanza>
+        </chorus>
+        <bridge>
+            <stanza>
+                <line>Oh, oh, oh, oh</line>
+                <line>Oh, oh, oh-oh</line>
+                <line>Oh, oh, oh, oh-oh</line>
+                <line>Oh, oh, oh</line>
+            </stanza>
+        </bridge>
+        <verse>
+            <stanza>
+                <line>In leash-less confusion, I'll wander the concrete</line>
+                <line>Wonder if better now having survived</line>
+                <line><religiousConcept concept = "Christianity">The jarring of judgement </religiousConcept>and reason's defeat the sweet</line>
+                <line>Heat of her breath in my mouth; I'm alive</line>
+            </stanza>
+        </verse>
+        <chorus>
+            <stanza>
+                <line>With her sweetened breath, and her tongue so mean</line>
+                <line>She's the <religiousFigure figure = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
+                <line>With her straw-blonde hair, her arms hard and lean</line>
+                <line>She's the <religiousFigure figure = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
+            </stanza>
+            <stanza>
+                <line>With her sweetened breath, and her tongue so mean</line>
+                <line>She's the <religiousFigure figure = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
+                <line>With her straw-blonde hair, her arms hard and lean</line>
+                <line>She's the <religiousFigure figure = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
+            </stanza>
+        </chorus>
+    </lyrics>
+</song>
