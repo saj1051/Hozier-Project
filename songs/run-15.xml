@@ -71,15 +71,15 @@
             <stanza>
                 <line><litDevice device="motif">Rare is this love</litDevice></line>
                 <line><litDevice device="motif">I need you to run to me, run to me,
-                        lover></litDevice></line>
+                        lover</litDevice></line>
                 <line>Run until you feel your lungs bleeding</line>
-                <line><litDevice device="motif">Rare is this love"></litDevice></line>
+                <line><litDevice device="motif">Rare is this love"</litDevice></line>
                 <line><litDevice device="motif">I need you to run to me, run to me,
                         lover</litDevice></line>
                 <line>Run until you feel your lungs bleeding</line>
             </stanza>
             <stanza>
-                <line><litDevice device="motif">Rare is this love"></litDevice></line>
+                <line><litDevice device="motif">Rare is this love"</litDevice></line>
                 <line><litDevice device="motif">I need you to run to me, run to me,
                         lover</litDevice></line>
                 <line>Run until you feel your lungs bleeding</line>
