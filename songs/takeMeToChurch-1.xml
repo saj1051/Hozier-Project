@@ -18,7 +18,7 @@
                 <line>If the <religiousPlace place="heavens">heavens</religiousPlace>ever did
                     speak</line>
                 <line>She's the last true mouthpiece</line>
-                <line>Every <bibReference reference="worship">Sunday's</bibReference> getting more
+                <line>Every <religiousReference reference="worship">Sunday's</religiousReference> getting more
                     bleak</line>
                 <line>A fresh poison each week</line>
                 <line>"We were born sick"</line>
@@ -30,7 +30,7 @@
                 <line>The only <religiousPlace place="heaven">Heaven</religiousPlace> I'll be sent
                     to</line>
                 <line>Is when I'm alone with you</line>
-                <line><bibReference reference="sin">I was born sick</bibReference>, but I love
+                <line><religiousReference reference="sin">I was born sick</religiousReference>, but I love
                     it</line>
                 <line>Command me to be well</line>
             </stanza>
@@ -46,20 +46,20 @@
             <stanza>
                 <line>Take me to <religiousPlace place="church">church</religiousPlace></line>
                 <line>I'll <religiousAction action="worship">worship</religiousAction> like a dog at
-                    the <bibReference reference="worship">shrine of your lies</bibReference></line>
-                <line>I'll tell you my <bibReference reference="sin">sins</bibReference> and you can
+                    the <religiousReference reference="worship">shrine of your lies</religiousReference></line>
+                <line>I'll tell you my <religiousReference reference="sin">sins</religiousReference> and you can
                     sharpen your knife</line>
                 <line>Offer me that deathless death</line>
-                <line>Good <religiousFigure figure="God">God</religiousFigure>, <bibReference
-                        reference="devotion">let me give you my life</bibReference></line>
+                <line>Good <religiousFigure figure="God">God</religiousFigure>, <religiousReference
+                        reference="devotion">let me give you my life</religiousReference></line>
                 <line>Take me to <religiousPlace place="church">church</religiousPlace></line>
                 <line>I'll <religiousAction action="worship">worship</religiousAction> like a dog at
-                    the <bibReference reference="worship">shrine of your lies</bibReference></line>
-                <line>I'll tell you my <bibReference reference="sin">sins</bibReference> and you can
+                    the <religiousReference reference="worship">shrine of your lies</religiousReference></line>
+                <line>I'll tell you my <religiousReference reference="sin">sins</religiousReference> and you can
                     sharpen your knife</line>
                 <line>Offer me that deathless death</line>
-                <line>Good <religiousFigure figure="God">God</religiousFigure>, <bibReference
-                        reference="devotion">let me give you my life</bibReference></line>
+                <line>Good <religiousFigure figure="God">God</religiousFigure>, <religiousReference
+                        reference="devotion">let me give you my life</religiousReference></line>
             </stanza>
         </chorus>
         <verse>
@@ -96,16 +96,16 @@
                 <line>I'll tell you my <religiousReference reference="sin">sins</religiousReference> and you can
                     sharpen your knife</line>
                 <line>Offer me that deathless death</line>
-                <line>Good <religiousFigure figure="God">God</religiousFigure>, <bibReference
-                        reference="devotion">let me give you my life</bibReference></line>
+                <line>Good <religiousFigure figure="God">God</religiousFigure>, <religiousReference
+                        reference="devotion">let me give you my life</religiousReference></line>
                 <line>Take me to <religiousPlace place="church">church</religiousPlace></line>
                 <line>I'll <religiousAction action="worship">worship</religiousAction> like a dog at
                     the <religiousReference reference="worship">shrine of your lies</religiousReference></line>
                 <line>I'll tell you my <religiousReference reference="sin">sins</religiousReference> and you can
                     sharpen your knife</line>
                 <line>Offer me that deathless death</line>
-                <line>Good <religiousFigure figure="God">God</religiousFigure>, <bibReference
-                        reference="devotion">let me give you my life</bibReference></line>
+                <line>Good <religiousFigure figure="God">God</religiousFigure>, <religiousReference
+                        reference="devotion">let me give you my life</religiousReference></line>
             </stanza>
         </chorus>
         <bridge>
@@ -127,8 +127,8 @@
                 <line>I'll tell you my <religiousReference reference="sin">sins</religiousReference> and you can
                     sharpen your knife</line>
                 <line>Offer me that deathless death</line>
-                <line>Good <religiousFigure figure="God">God</religiousFigure>, <bibReference
-                        reference="devotion">let me give you my life</bibReference></line>
+                <line>Good <religiousFigure figure="God">God</religiousFigure>, <religiousReference
+                        reference="devotion">let me give you my life</religiousReference></line>
                 <line>Take me to <religiousPlace place="church">church</religiousPlace></line>
                 <line>I'll <religiousAction action="worship">worship</religiousAction> like a dog at
                     the <religiousReference reference="worship">shrine of your lies</religiousReference></line>
