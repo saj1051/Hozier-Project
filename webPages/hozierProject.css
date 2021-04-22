@@ -1,15 +1,15 @@
 body {
     background-color: #637f97;
-    background-image: linear-gradient(#637f97, #96c0d1);
+    background-image: linear-gradient(#d3d8ec, silver);
     background-attachment: fixed;
     background-size: cover;
     margin: 50px;
 }
 
-h1,
-h2 {
+h1, h2 {
     text-align: center;
-    font-family: sans-serif;
+    font-size: 46px;
+    font-family: Oswald;
 }
 
 h1 {
@@ -23,19 +23,10 @@ h2 {
     color: #c98642
 }
 
-h3,
-p {
-    text-align: left;
-    font-family: sans-serif;
-}
-
-h3 {
-    font-weight: bold;
-    color: #525739
-}
 
 p {
-    font-size: 12px;
+    font-size: 24px;
+    font-family: "Noto Sans";
     color: black;
 }
 
