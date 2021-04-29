@@ -1,4 +1,5 @@
-start = song
+start = hozierSongs
+hozierSongs = element hozierSongs { song+ }
 song = element song { information, lyrics }
 
 information = element information { producers, trackNumber, title }

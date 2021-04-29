@@ -1,1539 +1,1870 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="../hozierSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="hozierSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <hozierSongs>
-<song>
-    <information>
-        <producers>Hozier and Rob Kirwan</producers>
-        <trackNumber>1</trackNumber>
-        <title>Take Me To Church</title>
-    </information>
-    <lyrics>
-        <verse>
-            <stanza>
-                <line>My lover's got humor</line>
-                <line>She's the giggle at a funeral</line>
-                <line>Knows everybody's disapproval</line>
-                <line>I should've <religiousAction action="worship">worshipped</religiousAction> her
-                    sooner</line>
-                <line>If the <religiousPlace place="heavens">heavens</religiousPlace>ever did
-                    speak</line>
-                <line>She's the last true mouthpiece</line>
-                <line>Every <religiousReference reference="worship">Sunday's</religiousReference> getting more
-                    bleak</line>
-                <line>A fresh poison each week</line>
-                <line>"We were born sick"</line>
-                <line>You heard them say it</line>
-                <line>My <religiousPlace place="church">church</religiousPlace> offers no
-                    absolutes</line>
-                <line>She tells me "<religiousAction action="worship">worship</religiousAction> in
-                    the bedroom"</line>
-                <line>The only <religiousPlace place="heaven">Heaven</religiousPlace> I'll be sent
-                    to</line>
-                <line>Is when I'm alone with you</line>
-                <line><religiousReference reference="sin">I was born sick</religiousReference>, but I love
-                    it</line>
-                <line>Command me to be well</line>
-            </stanza>
-        </verse>
-        <preChorus>
-            <stanza>
-                <line>Aaa, <religiousAction action="worship">Amen</religiousAction>,
-                    <religiousAction action="worship">Amen</religiousAction>, <religiousAction
-                        action="worship">Amen</religiousAction></line>
-            </stanza>
-        </preChorus>
-        <chorus>
-            <stanza>
-                <line>Take me to <religiousPlace place="church">church</religiousPlace></line>
-                <line>I'll <religiousAction action="worship">worship</religiousAction> like a dog at
-                    the <religiousReference reference="worship">shrine of your lies</religiousReference></line>
-                <line>I'll tell you my <religiousReference reference="sin">sins</religiousReference> and you can
-                    sharpen your knife</line>
-                <line>Offer me that deathless death</line>
-                <line>Good <religiousFigure figure="God">God</religiousFigure>, <religiousReference
-                    reference="devotion">let me give you my life</religiousReference></line>
-                <line>Take me to <religiousPlace place="church">church</religiousPlace></line>
-                <line>I'll <religiousAction action="worship">worship</religiousAction> like a dog at
-                    the <religiousReference reference="worship">shrine of your lies</religiousReference></line>
-                <line>I'll tell you my <religiousReference reference="sin">sins</religiousReference> and you can
-                    sharpen your knife</line>
-                <line>Offer me that deathless death</line>
-                <line>Good <religiousFigure figure="God">God</religiousFigure>, <religiousReference
-                    reference="devotion">let me give you my life</religiousReference></line>
-            </stanza>
-        </chorus>
-        <verse>
-            <stanza>
-                <line>I'f I'm a <religiousFigure figure="pagan">pagan</religiousFigure> of the good
-                    times</line>
-                <line>My lover's the sunlight</line>
-                <line>To keep the goddess on my side</line>
-                <line>She demands a <religiousAction action="sacrifice"
-                    >sacrifice</religiousAction></line>
-                <line>Drain the whole sea</line>
-                <line>Get something shiny</line>
-                <line>Something meaty for the main course</line>
-                <line>That's a fine looking high horse</line>
-                <line>What you got in the stable?</line>
-                <line>We've a lot of starving faithful</line>
-                <line>That looks tasty</line>
-                <line>That looks plenty</line>
-                <line>This is hungry work</line>
-            </stanza>
-        </verse>
-        <preChorus>
-            <stanza>
-                <line>Aaa, <religiousAction action="worship">Amen</religiousAction>,
-                    <religiousAction action="worship">Amen</religiousAction>, <religiousAction
-                        action="worship">Amen</religiousAction></line>
-            </stanza>
-        </preChorus>
-        <chorus>
-            <stanza>
-                <line>Take me to <religiousPlace place="church">church</religiousPlace></line>
-                <line>I'll <religiousAction action="worship">worship</religiousAction> like a dog at
-                    the <religiousReference reference="worship">shrine of your lies</religiousReference></line>
-                <line>I'll tell you my <religiousReference reference="sin">sins</religiousReference> and you can
-                    sharpen your knife</line>
-                <line>Offer me that deathless death</line>
-                <line>Good <religiousFigure figure="God">God</religiousFigure>, <religiousReference
-                    reference="devotion">let me give you my life</religiousReference></line>
-                <line>Take me to <religiousPlace place="church">church</religiousPlace></line>
-                <line>I'll <religiousAction action="worship">worship</religiousAction> like a dog at
-                    the <religiousReference reference="worship">shrine of your lies</religiousReference></line>
-                <line>I'll tell you my <religiousReference reference="sin">sins</religiousReference> and you can
-                    sharpen your knife</line>
-                <line>Offer me that deathless death</line>
-                <line>Good <religiousFigure figure="God">God</religiousFigure>, <religiousReference
-                    reference="devotion">let me give you my life</religiousReference></line>
-            </stanza>
-        </chorus>
-        <bridge>
-            <stanza>
-                <line>No masters of kings when the <religiousAction action="ritual"
-                    >ritual</religiousAction> begins</line>
-                <line><religiousReference reference="sin">There is no sweeter innocence than our gentle
-                    sin</religiousReference></line>
-                <line>In the madness and soil of that sad earthly scene</line>
-                <line>Only then I am human</line>
-                <line>Only then I am clean</line>
-            </stanza>
-        </bridge>
-        <chorus>
-            <stanza>
-                <line>Take me to <religiousPlace place="church"/></line>
-                <line>I'll <religiousAction action="worship">worship</religiousAction> like a dog at
-                    the <religiousReference reference="worship">shrine of your lies</religiousReference></line>
-                <line>I'll tell you my <religiousReference reference="sin">sins</religiousReference> and you can
-                    sharpen your knife</line>
-                <line>Offer me that deathless death</line>
-                <line>Good <religiousFigure figure="God">God</religiousFigure>, <religiousReference
-                    reference="devotion">let me give you my life</religiousReference></line>
-                <line>Take me to <religiousPlace place="church">church</religiousPlace></line>
-                <line>I'll <religiousAction action="worship">worship</religiousAction> like a dog at
-                    the <religiousReference reference="worship">shrine of your lies</religiousReference></line>
-                <line>I'll tell you my <religiousReference reference="sin">sins</religiousReference> and you can
-                    sharpen your knife</line>
-                <line>Offer me that deathless death</line>
-                <line>Good <religiousFigure figure="God">God</religiousFigure>, <religiousReference
-                    reference="devotion">let me give you my life</religiousReference></line>
-            </stanza>
-        </chorus>
-    </lyrics>
-</song>
-<song>
-    <information>
-        <producers>Hozier and Rob Kirwan</producers>
-        <trackNumber>2</trackNumber>
-        <title>Angel of Small Death and the Codeine Scene</title>
-    </information>
-    <lyrics>
-        <verse>
-            <stanza>
-                <line>I watch the work of my kin, <litDevice device="alliteration">bold and boyful</litDevice></line>
-                <line>Toying somewhere between love and abuse</line>
-                <line>Calling to join them the wretched and joyful</line>
-                <line><litDevice device="metaphor">Shaking the wings of their terrible youths</litDevice></line>
-            </stanza>
-            <stanza>
-                <line>Freshly disowned in some frozen devotion</line>
-                <line>No more alone or myself could I be</line>
-                <line>Lurched like a stray to the arms that were open</line>
-                <line>No shortage of sordid, no protest from me</line>
-            </stanza>
-        </verse>
-        <chorus>
-            <stanza>
-                <line>With her sweetened breath, and her tongue so mean</line>
-                <line>She's the <religiousFigure figure = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
-                <line>With her straw-blonde hair, her arms hard and lean</line>
-                <line>She's the <religiousFigure figure = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
-            </stanza>
-        </chorus>
-        <verse>
-            <stanza>
-                <line>Feeling more human and hooked on her flesh, I</line>
-                <line><litDevice device="metaphor">Lay my heart down with the rest at herfeet</litDevice></line>
-                <line>Fresh from the fields, all <litDevice device="alliteration">fetor and fertile</litDevice></line>
-                <line>It's bloody and raw, but I swear it is sweet</line>
-            </stanza>
-        </verse>
-        <chorus>
-            <stanza>
-                <line>With her sweetened breath, and her tongue so mean</line>
-                <line>She's the <religiousFigure figure = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
-                <line>With her straw-blonde hair, her arms hard and lean</line>
-                <line>She's the <religiousFigure figure = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
-            </stanza>
-        </chorus>
-        <bridge>
-            <stanza>
-                <line>Oh, oh, oh, oh</line>
-                <line>Oh, oh, oh-oh</line>
-                <line>Oh, oh, oh, oh-oh</line>
-                <line>Oh, oh, oh</line>
-            </stanza>
-        </bridge>
-        <verse>
-            <stanza>
-                <line>In leash-less confusion, I'll wander the concrete</line>
-                <line>Wonder if better now having survived</line>
-                <line><religiousConcept concept = "Christianity">The jarring of judgement </religiousConcept>and reason's defeat the sweet</line>
-                <line>Heat of her breath in my mouth; I'm alive</line>
-            </stanza>
-        </verse>
-        <chorus>
-            <stanza>
-                <line>With her sweetened breath, and her tongue so mean</line>
-                <line>She's the <religiousFigure figure = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
-                <line>With her straw-blonde hair, her arms hard and lean</line>
-                <line>She's the <religiousFigure figure = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
-            </stanza>
-            <stanza>
-                <line>With her sweetened breath, and her tongue so mean</line>
-                <line>She's the <religiousFigure figure = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
-                <line>With her straw-blonde hair, her arms hard and lean</line>
-                <line>She's the <religiousFigure figure = "christianity">angel</religiousFigure> of small death and the codeine scene</line>
-            </stanza>
-        </chorus>
-    </lyrics>
-</song>
-<song>
-    <information>
-        <producers>Hozier and Rob Kirwan</producers>
-        <trackNumber>3</trackNumber>
-        <title>Jackie and Wilson</title>
-    </information>
-    <lyrics>
-        <verse>
-            <stanza>
-                <line>So tired trying to see from behind the red in my eyes</line>
-                <line>No better version of me I could pretend to be tonight</line>
-                <line>Soul deep in this swill with the most familiar of swine</line>
-                <line>For reasons wretched and divine</line>
-            </stanza>
-        </verse>
-        <verse>
-            <stanza>
-                <line>She blows out of nowhere, <religiousReference reference="Roman">a roman candle of
-                    the wild</religiousReference></line>
-                <line>Laughing her way through my feeble disguise</line>
-                <line>No other version of me I would rather be tonight</line>
-                <line>And <religiousFigure figure="Lord">Lord</religiousFigure>, she found me just
-                    in time</line>
-            </stanza>
-        </verse>
-        <preChorus>
-            <stanza>
-                <line>'Cause with my mid-youth crisis all said and done</line>
-                <line>I need to be youthfully felt 'cause, <religiousFigure figure="God"
-                    >God</religiousFigure>, I never felt young</line>
-            </stanza>
-        </preChorus>
-        <chorus>
-            <stanza>
-                <line>She's gonna save me, call me baby</line>
-                <line>Run her hands through my hair</line>
-                <line>She'll know me crazy, soothe me daily</line>
-                <line>Better yet, she wouldn't care</line>
-            </stanza>
-            <stanza>
-                <line>We'll steal a Lexus, be detectives</line>
-                <line>Ride 'round picking up clues</line>
-                <line>We'll name our children Jackie and Wilson</line>
-                <line>Raise 'em on rhythm and blues</line>
-            </stanza>
-        </chorus>
-        <verse>
-            <stanza>
-                <line><religiousFigure figure="Lord">Lord</religiousFigure>, it'd be great to find a
-                    place we could escape sometime</line>
-                <line>Me and my <religiousReference reference="Egytpian">Isis</religiousReference> growing
-                    black irises in the sunshine</line>
-                <line>Every version of me dead and buried in the yard outside</line>
-                <line>We'd sit back and watch the world go by</line>
-            </stanza>
-        </verse>
-        <preChorus>
-            <stanza>
-                <line>Happy to lie back, watch it burn and rust</line>
-                <line>We tried the world; good <religiousFigure figure="God">God</religiousFigure>
-                    it wasn't for us</line>
-            </stanza>
-        </preChorus>
-        <chorus>
-            <stanza>
-                <line>She's gonna save me, call me baby</line>
-                <line>Run her hands through my hair</line>
-                <line>She'll know me crazy, soothe me daily</line>
-                <line>Better yet, she wouldn't care</line>
-            </stanza>
-            <stanza>
-                <line>We'll steal a Lexus, be detectives</line>
-                <line>Ride 'round picking up clues</line>
-                <line>We'll name our children <litDevice device="allusion">Jackie and
-                    Wilson</litDevice></line>
-                <line>Raise 'em on rhythm and blues</line>
-            </stanza>
-        </chorus>
-        <verse>
-            <stanza>
-                <line>Cut clean from the dream that night, let my mind reset</line>
-                <line>Looking up from a cigarette, she's already left</line>
-                <line>I start digging up the yard for what's left of me in our little
-                    vignette</line>
-                <line>For whatever poor soul is coming next</line>
-            </stanza>
-        </verse>
-        <chorus>
-            <stanza>
-                <line>She's gonna save me, call me baby</line>
-                <line>Run her hands through my hair</line>
-                <line>She'll know me crazy, soothe me daily</line>
-                <line>Better yet, she wouldn't care</line>
-            </stanza>
-            <stanza>
-                <line>We'll steal a Lexus, be detectives</line>
-                <line>Ride 'round picking up clues</line>
-                <line>We'll name our children Jackie and Wilson</line>
-                <line>Raise 'em on rhythm and blues</line>
-            </stanza>
-        </chorus>
-    </lyrics>
-</song>
-<song>
-    <information>
-        <producers>Hozier and Rob Kirwan</producers>
-        <trackNumber>4</trackNumber>
-        <title>Someone New</title>
-    </information>
-    <lyrics>
-        <verse>
-            <stanza>
-                <line>Don't take this the wrong way</line>
-                <line>You knew who I was with every step that I ran to you</line>
-                <line><litDevice device="symbolism">Only blue or black days</litDevice></line>
-                <line>Electing strange perfections in any stranger I choose</line>
-            </stanza>
-        </verse>
-        <preChorus>
-            <stanza>
-                <line>Would things be easier if there was a right way?</line>
-                <line>Honey, there is no right way</line>
-            </stanza>
-        </preChorus>
-        <chorus>
-            <stanza>
-                <line>And so I fall in love just a little, oh, a little bit</line>
-                <line>Every day with someone new</line>
-                <line>I fall in love just a little, oh, a little bit</line>
-                <line>Every day with someone new</line>
-            </stanza>
-            <stanza>
-                <line>I fall in love just a little, oh, a little bit</line>
-                <line>Every day with someone new</line>
-                <line>I fall in love just a little, oh, a little bit</line>
-                <line>Every day with someone new</line>
-            </stanza>
-        </chorus>
-        <verse>
-            <stanza>
-                <line>There's an art to life's distraction</line>
-                <line>To somehow escape the burning wait, the art of scraping through</line>
-                <line>Some like to imagine</line>
-                <line> The <religiousReference reference="sin">dark caress</religiousReference> of someone else; I guess any thrill will do</line>
-            </stanza>
-        </verse>
-        <preChorus>
-            <stanza>
-                <line>Would things be easier if there was a right way?</line>
-                <line>Honey, there is no right way</line>
-            </stanza>
-        </preChorus>
-        <chorus>
-            <stanza>
-                <line>And so I fall in love just a little, oh, a little bit</line>
-                <line>Every day with someone new</line>
-                <line>I fall in love just a little, oh, a little bit</line>
-                <line>Every day with someone new</line>
-            </stanza>
-            <stanza>
-                <line>I fall in love just a little, oh, a little bit</line>
-                <line>Every day with someone new</line>
-                <line>I fall in love just a little, oh, a little bit</line>
-                <line>Every day with someone new</line>
-            </stanza>
-        </chorus>
-        <bridge>
-            <stanza>
-                <line>I wake at the first cringe of morning</line>
-                <line>And my heart's already <religiousReference reference="sin">sinned</religiousReference></line>
-                <line>How pure, how sweet a love, Aretha</line>
-                <line>That you would <religiousAction action="worship">pray</religiousAction> for him</line>
-            </stanza>
-            <stanza>
-                <line>'Cause <religiousFigure figure = "christianity">God</religiousFigure>knows I fall in love just a little, oh, a little bit</line>
-                <line>Every day with someone new</line>
-                <line>I fall in love just a little, oh, a little bit</line>
-                <line>Every day with someone new</line>
-            </stanza>
-            <stanza>
-                <line>I fall in love just a little, oh, a little bit</line>
-                <line>Every day with someone new</line>
-                <line>I fall in love just a little, oh, a little bit</line>
-                <line>Every day with someone new</line>
-            </stanza>
-            <stanza>
-                <line>I fall in love just a little, oh, a little bit</line>
-                <line>Every day with someone new</line>
-                <line>I fall in love just a little, oh, a little bit</line>
-                <line>Every day…</line>
-            </stanza>
-        </bridge>
-        <refrain>
-            <stanza>
-                <line>Love with every stranger</line>
-                <line>The stranger the better</line>
-                <line>Love with every stranger</line>
-                <line>The stranger the better</line>
-            </stanza>
-            <stanza>
-                <line>Love with every stranger</line>
-                <line>The stranger the better</line>
-                <line>Love with every stranger</line>
-                <line>The stranger the better</line>
-            </stanza>
-        </refrain>
-        <chorus>
-            <stanza>
-                <line>I fall in love just a little, oh, a little bit</line>
-                <line>Every day with someone new</line>
-                <line>I fall in love just a little, oh, a little bit</line>
-                <line>Every day with someone new</line>
-            </stanza>
-            <stanza>
-                <line>I fall in love just a little, oh, a little bit</line>
-                <line>Every day with someone new</line>
-                <line>I fall in love just a little, oh, a little bit</line>
-                <line>Every day with someone new</line>
-            </stanza>
-        </chorus>
-    </lyrics>
-</song>
-<song>
-    <information>
-        <producers>Rob Kirwan and Hozier</producers>
-        <trackNumber>5</trackNumber>
-        <title>To Be Alone</title>
-    </information>
-    <lyrics>
-        <verse>
-            <stanza>
-                <line>Never feel too good in crowds</line>
-                <line>With folks around, when they're playing</line>
-                <line>The anthems of rape culture loud</line>
-                <line>Crude and proud, creatures baying</line>
-            </stanza>
-            <stanza>
-                <line>All I've ever done is hide</line>
-                <line>From our times, when you're near me</line>
-                <line>Honey, when you kill the lights and kiss my eyes</line>
-                <line>I feel like a person for a moment of my life</line>
-            </stanza>
-        </verse>
-        <preChorus>
-            <stanza>
-                <line>But you don't know what hell you put me through</line>
-                <line>To have someone kiss the skin that crawls from you</line>
-                <line>To feel your weight in arms I'd never use</line>
-                <line>It's the <religiousFigure figure="God">God</religiousFigure> that heroin prays
-                    to</line>
-            </stanza>
-        </preChorus>
-        <chorus>
-            <stanza>
-                <line>It feels good, girl, it feels good</line>
-                <line>It feels good, girl, it feels good</line>
-                <line>It feels good, girl, it feels good</line>
-                <line>Oh, to be alone with you</line>
-            </stanza>
-        </chorus>
-        <refrain>
-            <stanza>
-                <line>Whoa-oh, oh-oh, oh-oh, oh</line>
-                <line>Oh-oh, oh, oh-oh-oh, oh-oh, oh</line>
-                <line>Whoa-oh, oh-oh, oh-oh, oh</line>
-                <line>Oh-oh, oh, oh-oh-oh, oh-oh, oh-oh, oh-oh, oh-oh, oh-oh, oh-oh</line>
-            </stanza>
-        </refrain>
-        <verse>
-            <stanza>
-                <line>There are questions I can't ask</line>
-                <line>Now at last, the worst is over</line>
-                <line>See the way you hold yourself</line>
-                <line>Reel against, your body's borders</line>
-            </stanza>
-            <stanza>
-                <line>I know that you hate this place</line>
-                <line>Not a trace of me would argue</line>
-                <line>Honey, we should run away, oh someday</line>
-                <line>Our baby and her momma, and the damaged love she made</line>
-            </stanza>
-        </verse>
-        <preChorus>
-            <stanza>
-                <line>But I don't know what else that I would do</line>
-                <line>Than to try to kiss the skin that crawls from you</line>
-                <line>Than feel your weight in arms I'd never use</line>
-                <line>It's the god that heroin <religiousAction action="worship"
-                    >prays</religiousAction>to</line>
-            </stanza>
-        </preChorus>
-        <chorus>
-            <stanza>
-                <line>It feels good, girl, it feels good</line>
-                <line>It feels good, girl, it feels good</line>
-                <line>It feels good, girl, it feels good</line>
-                <line>Oh, to be alone with you</line>
-            </stanza>
-        </chorus>
-        <refrain>
-            <stanza>
-                <line>Whoa-oh, oh-oh, oh-oh, oh</line>
-                <line>Oh-oh oh, oh-oh-oh, oh-oh, oh-oh</line>
-                <line>Whoa-oh, oh-oh, oh-oh, oh</line>
-                <line>Oh-oh oh, oh-oh-oh, oh-oh, oh-oh</line>
-            </stanza>
-            <stanza>
-                <line>Whoa-oh, oh-oh, oh-oh, oh</line>
-                <line>Oh-oh, oh, oh-oh-oh, oh-oh, oh</line>
-                <line>Whoa-oh, oh-oh, oh-oh, oh</line>
-                <line>Oh-oh, oh, oh-oh-oh, oh-oh, oh-oh, oh-oh, oh-oh, oh-oh, oh-oh</line>
-            </stanza>
-        </refrain>
-        <chorus>
-            <stanza>
-                <line>It feels good, girl, it feels good</line>
-                <line>It feels good, girl, it feels good</line>
-                <line>It feels good, girl, it feels good</line>
-                <line>Oh, to be alone with you</line>
-            </stanza>
-        </chorus>
-    </lyrics>
-</song>
-<song>
-    <information>
-        <producers>Hozier and Rob Kirwan</producers>
-        <trackNumber> 6 </trackNumber>
-        <title>From Eden</title>
-    </information>
-    <lyrics>
-        <verse>
-            <stanza>
-                <line>Babe</line>
-                <line>There's something tragic about you</line>
-                <line>Something so magic about you</line>
-                <line>Don't you agree?</line>
-            </stanza>
-            <stanza>
-                <line>Babe</line>
-                <line>There's something lonesome about you</line>
-                <line>Something so wholesome about you</line>
-                <line>Get closer to me</line>
-            </stanza>
-        </verse>
-        <preChorus>
-            <stanza>
-                <line>No tired sigh, no rolling eyes</line>
-                <line>No irony</line>
-                <line>No "Who cares?", no vacant stare</line>
-                <line>No time for me</line>
-            </stanza>
-        </preChorus>
-        <chorus>
-            <stanza>
-                <line>Honey, you're familiar, like my mirror years ago</line>
-                <line><litDevice device = "metaphor">Idealism sits in prison, chivalry fell on his sword</litDevice></line>
-                <line><litDevice device = "personification">Innocence died screaming</litDevice>; honey, ask me, I should know</line>
-                <line> I slithered here from <religiousPlace place = "christianity">Eden</religiousPlace> just to sit outside your door</line>
-            </stanza>
-        </chorus>
-        <verse>
-            <stanza>
-                <line>Babe</line>
-                <line>There's something <religiousReference reference="sin">wretched</religiousReference>about this</line>
-                <line>Something so precious about this</line>
-                <line>Where to begin?</line>
-            </stanza>
-            <stanza>
-                <line>Babe</line>
-                <line>There's something broken about this</line>
-                <line>But I might be hoping about this</line>
-                <line>Oh, what a <religiousReference reference="sin">sin</religiousReference></line>
-            </stanza>
-        </verse>
-        <preChorus>
-            <stanza>
-                <line>To the strand, a picnic planned</line>
-                <line>For you and me</line>
-                <line><litDevice device="symbolism">A rope in hand for your other man</litDevice></line>
-                <line>To hang from a tree</line>
-            </stanza>
-        </preChorus>
-        <chorus>
-            <stanza>
-                <line>Honey, you're familiar, like my mirror years ago</line>
-                <line><litDevice device = "metaphor">Idealism sits in prison, chivalry fell on his sword</litDevice></line>
-                <line><litDevice device = "personification">Innocence died screaming</litDevice>; honey, ask me, I should know</line>
-                <line> I slithered here from <religiousPlace place = "christianity">Eden</religiousPlace> just to sit outside your door</line>
-            </stanza>
-        </chorus>
-        <instrumental/>
-        <chorus>
-            <stanza>
-                <line>Honey, you're familiar, like my mirror years ago</line>
-                <line><litDevice device = "metaphor">Idealism sits in prison, chivalry fell on his sword</litDevice></line>
-                <line><litDevice device = "personification">Innocence died screaming</litDevice>; honey, ask me, I should know</line>
-                <line> I slithered here from <religiousPlace place = "christianity">Eden</religiousPlace> just to sit outside your door</line>
-            </stanza>
-        </chorus>
-    </lyrics>
-</song>
-<song>
-    <information>
-        <producers>Rob Kirwan and Hozier</producers>
-        <trackNumber>7</trackNumber>
-        <title>In a Week</title>
-    </information>
-    <lyrics>
-        <intro>
-            <stanza>
-                <line>I have never known peace</line>
-                <line><litDevice device="simile">Like the damp grass that yields to me</litDevice></line>
-                <line>I have never known hunger</line>
-                <line><litDevice device="simile">Like these insects that feast on me</litDevice></line>
-            </stanza>
-        </intro>
-        <verse>
-            <stanza>
-                <line>A thousand teeth</line>
-                <line>And yours among them, I know</line>
-                <line>Our hungers appeased</line>
-                <line>Our heartbeats becoming slow</line>
-            </stanza>
-        </verse>
-        <preChorus>
-            <stanza>
-                <line>We'll lay here for years or for hours</line>
-                <line>Thrown here of found, to freeze or to thaw</line>
-                <line><litDevice device="metaphor">So long, we'd become the flowers</litDevice></line>
-                <line><litDevice device="metaphor">Two corpses we were, two corpses I saw</litDevice></line>
-            </stanza>
-        </preChorus>
-        <chorus>
-            <stanza>
-                <line>And they'd find us in a week</line>
-                <line>When the weather gets hot</line>
-                <line>After the insects have made their claim</line>
-                <line>I'd be home with you, I'd be home with you</line>
-            </stanza>
-        </chorus>
-        <verse>
-            <stanza>
-                <line>I have never known sleep</line>
-                <line><litDevice device="simile">Like this slumber that creeps to me</litDevice></line>
-                <line>I have never known colour</line>
-                <line><litDevice device="simile">Like this morning reveals to me</litDevice></line>
-            </stanza>
-        </verse>
-        <verse>
-            <stanza>
-                <line>And you haven't moved an inch</line>
-                <line>Such that I would not know</line>
-                <line>If you sleep alwyas like this</line>
-                <line>The flesh calmly going cold</line>
-            </stanza>
-        </verse>
-        <preChorus>
-            <stanza>
-                <line>We'll lay here for years or for hours</line>
-                <line>Your hand in my hand, so still and discreet</line>
-                <line><litDevice device="metaphor">So long, we'd become the flowers</litDevice></line>
-                <line><litDevice device="metaphor">We'd feed well the land and worry the sheep</litDevice></line>
-            </stanza>
-        </preChorus>
-        <chorus>
-            <stanza>
-                <line>And they'd find us in a week</line>
-                <line>When the cattle show fear</line>
-                <line>After the insects have made their claim</line>
-                <line>After the foxes have known our taste</line>
-                <line>I'd be home with you, I'd be home with you...</line>
-            </stanza>
-        </chorus>
-        <bridge>
-            <stanza>
-                <line>They'd find us in a week (We lay here for years or for hours)</line>
-                <line>When the weather gets hot (So long we become the flowers)</line>
-                <line>And they'd find us in a week (We lay here for years of for hours)</line>
-                <line>When the cattle show fear (So long we become the flowers)</line>
-            </stanza>
-        </bridge>
-        <verse>
-            <stanza>
-                <line>And they'd find us in a week</line>
-                <line>When the buzzards get loud</line>
-                <line>After the insects have made their claim</line>
-                <line>After the foxes have known our taste</line>
-            </stanza>
-        </verse>
-        <outro>
-            <stanza>
-                <line><litDevice device="personification">And the raven has had his say</litDevice></line>
-                <line>I'd be home with you, I'd be home with you</line>
-                <line>I'd be home with you, I'd be home with you</line>
-                <line>I'd be home with you, I'd be home with you</line>
-            </stanza>
-        </outro>
-    </lyrics>
-</song>
-<song>
-    <information>
-        <producers>Hozier and Rob Kirwan</producers>
-        <trackNumber>8</trackNumber>
-        <title>Sedated</title>
-    </information>
-    <lyrics>
-        <verse>
-            <stanza>
-                <line>Just a little rush, babe, <litDevice device="sensory imagery">to feel dizzy</litDevice></line>
-                <line>To derail the mind of me</line>
-                <line>Just a little hush, babe; my veins are busy</line>
-                <line>But my heart's in atrophy</line>
-            </stanza>
-        </verse>
-        <preChorus>
-            <stanza>
-                <line>Any way</line>
-                <line>To distract and sedate</line>
-                <line>Adding shadows</line>
-                <line><religiousReference reference = "Greek">To the walls of the cave</religiousReference></line>
-            </stanza>
-        </preChorus>
-        <chorus>
-            <stanza>
-                <line>You and I, nursing on a</line>
-                <line><litDevice device="metaphor">Poison that never stung</litDevice></line>
-                <line>Our teeth and lungs are lined</line>
-                <line>With the scum of it</line>
-            </stanza>
-            <stanza>
-                <line>Somewhere for this, death and guns</line>
-                <line>We are deaf, we are numb</line>
-                <line>Free and young and we</line>
-                <line>Can feel none of it</line>
-            </stanza>
-        </chorus>
-        <verse>
-            <stanza>
-                <line>Something isn't right, babe; I keep catching</line>
-                <line>Little words, but the meaning's thin</line>
-                <line>I'm somewhere outside my life, babe; I keep scratching</line>
-                <line>But somehow I can't get in</line>
-            </stanza>
-        </verse>
-        <preChorus>
-            <stanza>
-                <line>So we're slaves</line>
-                <line>To any semblance of touch</line>
-                <line><litDevice device="motif">Lord, we should quit</litDevice></line>
-                <line><litDevice device="motif">But we love it too much</litDevice></line>
-            </stanza>
-        </preChorus>
-        <chorus>
-            <stanza>
-                <line>Sedated, we're nursing on a</line>
-                <line><litDevice device="metaphor">Poison that never stung</litDevice></line>
-                <line>Our teeth and lungs are lined</line>
-                <line>With the scum of it</line>
-            </stanza>
-            <stanza>
-                <line>Somewhere for this, death and guns</line>
-                <line>We are deaf, we are numb</line>
-                <line>Free and young and we</line>
-                <line>Can feel none of it</line>
-            </stanza>
-        </chorus>
-        <bridge>
-            <stanza>
-                <line>Darlin', don't you</line>
-                <line>Stand there watching, won't you</line>
-                <line>Come and save me from it?</line>
-            </stanza>
-            <stanza>
-                <line>Darlin', don't you</line>
-                <line>Join in, you're supposed to</line>
-                <line>Drag me away from it...</line>
-            </stanza>
-        </bridge>
-        <preChorus>
-            <stanza>
-                <line>Any way</line>
-                <line>To distract and sedate</line>
-                <line>Adding shadows</line>
-                <line><religiousReference reference = "Greek">To the walls of the cave</religiousReference></line>
-            </stanza>
-        </preChorus>
-        <chorus>
-            <stanza>
-                <line>You and I, nursing on a</line>
-                <line><litDevice device="metaphor">Poison that never stung</litDevice></line>
-                <line>Our teeth and lungs are lined</line>
-                <line>With the scum of it</line>
-            </stanza>
-            <stanza>
-                <line>Somewhere for this, death and guns</line>
-                <line>We are deaf, we are numb</line>
-                <line>Free and young and we</line>
-                <line>Can feel none of it</line>
-            </stanza>
-        </chorus>
-        <chorus>
-            <stanza>
-                <line>Sedated, we're nursing on a</line>
-                <line><litDevice device="metaphor">Poison that never stung</litDevice></line>
-                <line>Our teeth and lungs are lined</line>
-                <line>With the scum of it</line>
-            </stanza>
-            <stanza>
-                <line>Somewhere for this, death and guns</line>
-                <line>We are deaf, we are numb</line>
-                <line>Free and young and we</line>
-                <line>Can feel none of it</line>
-            </stanza>
-        </chorus>
-    </lyrics>
-</song>
-<song>
-    <information>
-        <producers>Hozier and Rob Kirwan</producers>
-        <trackNumber>9</trackNumber>
-        <title>Work Song</title>
-    </information>
-    <lyrics>
-        <verse>
-            <stanza>
-                <line>Boys, workin' on that empty</line>
-                <line>Is that the kinda way to face the burning heat?</line>
-                <line><litDevice device="motif">I just think about my baby</litDevice></line>
-                <line><litDevice device="dramatic irony">I'm just so full of love I could barely eat</litDevice></line>
-            </stanza>
-            <stanza>
-                <line>There's nothing sweeter than my baby</line>
-                <line>I'd never want once from the cherry tree</line>
-                <line><litDevice device="motif">'Cause my baby's as sweet as can be</litDevice></line>
-                <line><litDevice device="motif">She gives me toothaches just from kissin' me</litDevice></line>
-            </stanza>
-        </verse>
-        <chorus>
-            <stanza>
-                <line>When, my, time comes around</line>
-                <line><litDevice device="imagery">Lay me gently in the cold dark earth</litDevice></line>
-                <line>No grave can hold my body down</line>
-                <line>I'll crawl home to her</line>
-            </stanza>
-        </chorus>
-        <verse>
-            <stanza>
-                <line>Boys, when my baby found me</line>
-                <line>I was <litDevice device="symbolism">three</litDevice> days on a drunken sin</line>
-                <line><litDevice device="euphemism">I woke with her walls around me</litDevice></line>
-                <line><litDevice device="imagery">Nothin' in her room but an empty crib</litDevice></line>
-            </stanza>
-            <stanza>
-                <line>And I was burning up a fever</line>
-                <line>I didn't care much how long I lived</line>
-                <line><litDevice device="motif">But I swear, I thought I dreamed her</litDevice></line>
-                <line>She never asked me once about the wrong I did</line>
-            </stanza>
-        </verse>
-        <chorus>
-            <stanza>
-                <line>When, my, time comes around</line>
-                <line><litDevice device="imagery">Lay me gently in the cold dark earth</litDevice></line>
-                <line><litDevice device="paradox">No grave can hold my body down</litDevice></line>
-                <line>I'll crawl home to her</line>
-            </stanza>
-        </chorus>
-        <chorus>
-            <stanza>
-                <line>When, my, time comes around</line>
-                <line><litDevice device="imagery">Lay me gently in the cold dark earth</litDevice></line>
-                <line><litDevice device="paradox">No grave can hold my body down</litDevice></line>
-                <line>I'll crawl home to her</line>
-            </stanza>
-        </chorus>
-        <bridge>
-            <stanza>
-                <line>My babe would never fret none</line>
-                <line>About what my hands and my body have done</line>
-                <line>If the <religiousFigure figure="Lord">Lord</religiousFigure> don't forgive me</line>
-                <line><litDevice device="motif">I'd still have my baby and my babe would have me</litDevice></line>
-            </stanza>
-            <stanza>
-                <line><litDevice device="motif">When I was kissin' on my baby</litDevice></line>
-                <line><litDevice device="euphemism">And she'd put her love down, soft and sweet</litDevice></line>
-                <line>In the low lamp light, I was free</line>
-                <line><religiousPlace place="Heaven">Heaven</religiousPlace> and <religiousPlace place="hell">hell</religiousPlace> were words to me</line>
-            </stanza>
-        </bridge>
-        <chorus>
-            <stanza>
-                <line>When, my, time comes around</line>
-                <line><litDevice device="imagery">Lay me gently in the cold dark earth</litDevice></line>
-                <line><litDevice device="paradox">No grave can hold my body down</litDevice></line>
-                <line>I'll crawl home to her</line>
-            </stanza>
-        </chorus>
-        <chorus>
-            <stanza>
-                <line>When, my, time comes around</line>
-                <line><litDevice device="imagery">Lay me gently in the cold dark earth</litDevice></line>
-                <line><litDevice device="paradox">No grave can hold my body down</litDevice></line>
-                <line>I'll crawl home to her</line>
-            </stanza>
-        </chorus>
-    </lyrics>
-</song>
-<song>
-    <information>
-        <producers>Hozier and Rob Kirwan</producers>
-        <trackNumber>10</trackNumber>
-        <title>Like Real People Do</title>
-    </information>
-    <lyrics>
-        <verse>
-            <stanza>
-                <line>I had a thought, dear, however scary</line>
-                <line>About that night, the bugs and the dirt</line>
-                <line><litDevice device="metaphor">Why were you digging? What did you bury</litDevice></line>
-                <line>Before those <litDevice device="metaphor">hands pulled me from the earth?</litDevice></line>
-            </stanza>
-        </verse>
-        <chorus>
-            <stanza>
-                <line>I will not ask you where you came from</line>
-                <line><litDevice device="allusion">I will not ask and neither should you</litDevice></line>
-                <line>Honey, just put your sweet lips on my lips</line>
-                <line>We should just kiss <litDevice device="simile">like real people do</litDevice></line>
-            </stanza>
-        </chorus>
-        <verse>
-            <stanza>
-                <line>I knew that look, dear: eyes always seeking</line>
-                <line><litDevice device="metaphor">Was there in someone that dug long ago</litDevice></line>
-                <line>So I will not ask you why you were creeping</line>
-                <line>In some sad way, I already know</line>
-            </stanza>
-        </verse>
-        <chorus>
-            <stanza>
-                <line>So I will not ask you where you came from</line>
-                <line><litDevice device="allusion">I would not ask and neither would you</litDevice></line>
-                <line>Honey, just put your sweet lips on my lips</line>
-                <line>We should just kiss <litDevice device="simile">like real people do</litDevice></line>
-            </stanza>
-        </chorus>
-        <chorus>
-            <stanza>
-                <line>I could not ask you where you came from</line>
-                <line><litDevice device="allusion">I could not ask and neither could you</litDevice></line>
-                <line>Honey, just put your sweet lips on my lips</line>
-                <line>We could just kiss <litDevice device="simile">like real people do</litDevice></line>
-            </stanza>
-        </chorus>
-    </lyrics>
-</song>
-<song>
-    <information>
-        <producers>Hozier and Rob Kirwan</producers>
-        <trackNumber>11</trackNumber>
-        <title>It Will Come Back</title>
-    </information>
-    <lyrics>
-        <stanza>
-            <line>You know better, babe, you know better, babe</line>
-            <line>Than to look at it, look at it like that</line>
-            <line>You know better, babe, you know better, babe</line>
-            <line>Than to talk to it, talk to it like that</line>
-        </stanza>
-        <stanza>
-            <line>Don't give it a hand, offer it a soul</line>
-            <line>Honey, make this easy</line>
-            <line>Leave it to the land, this is what it knows</line>
-            <line>Honey, that's how it sleeps</line>
-        </stanza>
-        <stanza>
-            <line>Don't let it in with no intention to keep it</line>
-            <line><religiousFigure figure="Jesus">Jesus Christ</religiousFigure>, don't be kind to
-                it</line>
-            <line>Honey, don't feed it, it will come back</line>
-        </stanza>
-        <stanza>
-            <line><litDevice device="motif">You know better babe, you know better,
-                babe</litDevice></line>
-            <line><litDevice device="motif">Than to smile at me, smile at me like
-                that</litDevice></line>
-            <line><litDevice device="motif">You know better babe, you know better
-                babe</litDevice></line>
-            <line><litDevice device="motif">Than to hold me just, hold me just like
-                that</litDevice></line>
-        </stanza>
-        <stanza>
-            <line>I know who I am when I'm alone</line>
-            <line><litDevice device="motif">I'm something else when I see you</litDevice></line>
-            <line><litDevice device="motif">You don't understand, you should never
-                know</litDevice></line>
-            <line><litDevice device="motif">How easy you are to need</litDevice></line>
-        </stanza>
-        <stanza>
-            <line><litDevice device="motif">Don't let me in with no intention to keep
-                me</litDevice></line>
-            <line><religiousFigure figure="Jesus">Jesus Christ</religiousFigure>, don't be kind to
-                me</line>
-            <line><litDevice device="motif">Honey, don't feed me, I will come
-                back</litDevice></line>
-        </stanza>
-        <stanza>
-            <line>It can't be unlearned</line>
-            <line><litDevice device="motif">I've known the warmth of your
-                doorways</litDevice></line>
-            <line><litDevice device="motif">Through the cold, I'll find my way back to
-                you</litDevice></line>
-        </stanza>
-        <stanza>
-            <line><litDevice device="motif">Oh, please, give me mercy no more</litDevice></line>
-            <line><litDevice device="motif">That's a kindness you can't afford</litDevice></line>
-            <line><litDevice device="motif">I warn you, baby, each night, as sure as you're
-                born</litDevice></line>
-            <line><litDevice device="motif">You'll hear me howling outside your
-                door</litDevice></line>
-        </stanza>
-        <stanza>
-            <line><litDevice device="analogy">Don't you hear me howling, babe?</litDevice></line>
-            <line><litDevice device="analogy">Don't you hear me howling, babe?</litDevice></line>
-            <line><litDevice device="analogy">Don't you hear me howling, babe?</litDevice></line>
-            <line><litDevice device="analogy">Don't you hear me howling?</litDevice></line>
-            <line><litDevice device="analogy">Don't you hear me howling?</litDevice></line>
-            <line><litDevice device="analogy">Don't you hear me howling, babe?</litDevice></line>
-        </stanza>
-    </lyrics>
-</song>
-<song>
-    <information>
-        <producers>Hozier and Rob Kirwan</producers>
-        <trackNumber>12</trackNumber>
-        <title>Foreigner's God</title>
-    </information>
-    <lyrics>
-        <verse>
-            <stanza>
-                <line>She moved with shameless wonder</line>
-                <line>The <religiousReference reference = "ambiguous">perfect creature</religiousReference> rarely seen</line>
-                <line>Since some liar brought the thunder</line>
-                <line>When the land was <religiousReference reference = "pagan">godless and free</religiousReference></line>
-                <line>The <religiousReference reference="ambiguous">perfect creature</religiousReference> rarely seen</line>
-                <line>Since some liar brought the thunder</line>
-                <line>When the land was <religiousReference reference="pagan">godless and free</religiousReference></line>
-            </stanza>
-            <stanza>
-                <line>Her eyes look sharp and steady</line>
-                <line>Into the empty parts of me</line>
-                <line>But still my heart is heavy</line>
-                <line>With the <litDevice device="symbolism">hate of some other man's beliefs</litDevice></line>
-            </stanza>
-        </verse>
-        <preChorus>
-            <stanza>
-                <line>Always a well dressed fraud</line>
-                <line>Who wouldn't spare the rod</line>
-                <line>Never for me</line>
-            </stanza>
-        </preChorus>
-        <chorus>
-            <stanza>
-                <line>Screaming the name</line>
-                <line>Of a <religiousReference reference = "pagan">foreigner's God</religiousReference></line>
-                <line>Screaming the name</line>
-                <line>Of a <religiousReference reference = "pagan">foreigner's God</religiousReference></line>
-                <line>Screaming the name</line>
-                <line>Of a <religiousReference reference = "pagan">foreigner's God</religiousReference></line>
-                <line><litDevice device = "motif">The purest expression of grief</litDevice></line>
-                <line>Of a <religiousReference reference="pagan">foreigner's God</religiousReference></line>
-                <line>Screaming the name</line>
-                <line>Of a <religiousReference reference="pagan">foreigner's God</religiousReference></line>
-                <line>Screaming the name</line>
-                <line>Of a <religiousReference reference="pagan">foreigner's God</religiousReference></line>
-                <line><litDevice device="motif">The purest expression of grief</litDevice></line>
-            </stanza>
-        </chorus>
-        <verse>
-            <stanza>
-                <line>Wondering who I copy</line>
-                <line>Mustering some tender charm</line>
-                <line><litDevice device="allusion">She feels no control of her body</litDevice></line>
-                <line>She feels no safety in my arms</line>
-            </stanza>
-            <stanza>
-                <line>I've no language left to say it</line>
-                <line>But all I do is quake to her</line>
-                <line>Breaking if I try convey it</line>
-                <line><litDevice device="allusion">The broken love I make to her</litDevice></line>
-            </stanza>
-        </verse>
-        <preChorus>
-            <stanza>
-                <line>All that I've been taught</line>
-                <line>And every word I've got</line>
-                <line>Is foreign to me</line>
-            </stanza>
-        </preChorus>
-        <chorus>
-            <stanza>
-                <line>Screaming the name</line>
-                <line>Of a <religiousReference reference = "pagan">foreigner's God</religiousReference></line>
-                <line>Screaming the name</line>
-                <line>Of a <religiousReference reference = "pagan">foreigner's God</religiousReference></line>
-                <line>Screaming the name</line>
-                <line>Of a <religiousReference reference = "pagan">foreigner's God</religiousReference></line>
-                <line><litDevice device = "motif">The purest expression of grief</litDevice></line>
-            </stanza>
-        </chorus>
-        <instrumental/>
-        <chorus>
-            <stanza>
-                <line>Screaming the name</line>
-                <line>Of a <religiousReference reference = "pagan">foreigner's God</religiousReference></line>
-                <line>Screaming the name</line>
-                <line>Of a <religiousReference reference = "pagan">foreigner's God</religiousReference></line>
-                <line>Screaming the name</line>
-                <line>Of a <religiousReference reference = "pagan">foreigner's God</religiousReference></line>
-                <line><litDevice device = "motif">The purest expression of grief</litDevice></line>
-            </stanza>
-            <stanza>
-                <line>Screaming the name</line>
-                <line>Of a <religiousReference reference = "pagan">foreigner's God</religiousReference></line>
-                <line>Screaming the name</line>
-                <line>Of a <religiousReference reference = "pagan">foreigner's God</religiousReference></line>
-                <line>Screaming the name</line>
-                <line>Of a <religiousReference reference = "pagan">foreigner's God</religiousReference></line>
-                <line><litDevice device = "motif">The purest expression of grief</litDevice></line>
-            </stanza>
-        </chorus>
-    </lyrics>
-</song>
-<song>
-    <information>
-        <producers>Hozier</producers>
-        <trackNumber>13</trackNumber>
-        <title>Cherry Wine (Live)</title>
-    </information>
-    <lyrics>
-        <verse>
-            <stanza>
-                <line>Her eyes and words are so icy</line>
-                <line>Oh, but she burns</line>
-                <line><litDevice device="simile">Like rum on a fire</litDevice></line>
-                <line>Hot and fast and angry as she can be</line>
-                <line><litDevice device="foreshadowing">I walk my days on a wire</litDevice></line>
-            </stanza>
-        </verse>
-        <preChorus>
-            <stanza>
-                <line><litDevice device="extended_metaphor">It looks ugly, but it's
-                    clean</litDevice></line>
-                <line><litDevice device="motif">Oh mama, don't fuss over me</litDevice></line>
-            </stanza>
-        </preChorus>
-        <chorus>
-            <stanza>
-                <line><litDevice device="motif">The way she tells me I'm hers and she is
-                    mine</litDevice></line>
-                <line><litDevice device="foreshadowing">Open hand or closed fist would be
-                    fine</litDevice></line>
-                <line><litDevice device="metaphor">The blood is rare and sweet as cherry
-                    wine</litDevice></line>
-            </stanza>
-        </chorus>
-        <verse>
-            <stanza>
-                <line><litDevice device="motif">Calls of guilty thrown at me, all while she
-                    strains</litDevice></line>
-                <line><litDevice device="dramatic irony">The sheets of some other</litDevice></line>
-                <line>Thrown at me so powerfully, just like she throws</line>
-                <line>With the arm of her brother</line>
-            </stanza>
-        </verse>
-        <preChorus>
-            <stanza>
-                <line><litDevice device="motif">But I want it, it's a crime</litDevice></line>
-                <line>That she's not around most of the time</line>
-            </stanza>
-        </preChorus>
-        <chorus>
-            <stanza>
-                <line><litDevice device="motif">The way she tells me I'm hers and she is
-                    mine</litDevice></line>
-                <line><litDevice device="foreshadowing">Open hand or closed fist would be
-                    fine</litDevice></line>
-                <line><litDevice device="metaphor">The blood is rare and sweet as cherry
-                    wine</litDevice></line>
-            </stanza>
-        </chorus>
-        <verse>
-            <stanza>
-                <line>Her fight and fury's fiery</line>
-                <line>Oh, but she looks</line>
-                <line><litDevice device="simile">Like sleep to the freezing</litDevice></line>
-                <line><litDevice device="allusion">Sweet and right and merciful, I'm all but
-                    washed</litDevice></line>
-                <line>In the tide of her breathing</line>
-            </stanza>
-        </verse>
-        <preChorus>
-            <stanza>
-                <line>And it's worth it, it's divine</line>
-                <line>I have this some of the time</line>
-            </stanza>
-        </preChorus>
-        <chorus>
-            <stanza>
-                <line><litDevice device="motif">The way she tells me I'm hers and she is
-                    mine</litDevice></line>
-                <line><litDevice device="foreshadowing">Open hand or closed fist would be
-                    fine</litDevice></line>
-                <line><litDevice device="metaphor">The blood is rare and sweet as cherry
-                    wine</litDevice></line>
-            </stanza>
-        </chorus>
-    </lyrics>
-</song>
-<song>
-    <information>
-        <producers>Hozier and Rob Kirwan</producers>
-        <trackNumber>14</trackNumber>
-        <title>In the Woods Somewhere</title>
-    </information>
-    <lyrics>
-        <verse>
-            <stanza>
-                <line>My head was warm</line>
-                <line>My skin was soaked</line>
-                <line>I called your name <litDevice device="metaphor">'til the fever broke</litDevice></line>
-                <line>When I awoke</line>
-                <line>The moon still hung</line>
-                <line>The night so black that <litDevice device="personification">the darkness hums</litDevice></line>
-            </stanza>
-        </verse>
-        <verse>
-            <stanza>
-                <line>I raised myself</line>
-                <line>My legs were weak</line>
-                <line>I <religiousAction action="worship">prayed</religiousAction> my mind be good to me</line>
-                <line>An awful noise</line>
-                <line>Filled the air</line>
-                <line>I heard a scream in the woods somewhere</line>
-            </stanza>
-        </verse>
-        <chorus>
-            <stanza>
-                <line>Ooh, oo-ooh, oo-ooh</line>
-            </stanza>
-        </chorus>
-        <verse>
-            <stanza>
-                <line>A woman's voice</line>
-                <line>I quickly ran</line>
-                <line>Into the trees with empty hands</line>
-                <line>A fox it was</line>
-                <line>He shook afraid</line>
-                <line>I spoke no words, no sound he made</line>
-            </stanza>
-        </verse>
-        <verse>
-            <stanza>
-                <line>His bone exposed</line>
-                <line>His hind was lame</line>
-                <line>I raised a stone to end his pain</line>
-                <line>What caused the wound?</line>
-                <line>How large the teeth?</line>
-                <line>I saw new eyes were watching me</line>
-            </stanza>
-        </verse>
-        <chorus>
-            <stanza>
-                <line>Ooh, oo-ooh, oo-ooh</line>
-            </stanza>
-        </chorus>
-        <verse>
-            <stanza>
-                <line>The creature lunged</line>
-                <line>I turned and ran</line>
-                <line>To save a life I didn't have</line>
-                <line>Dear, in the chase</line>
-                <line>There as I flew</line>
-                <line>Forgot all <religiousConcept concept = "unknown">prayers</religiousConcept> of joining you</line>
-            </stanza>
-        </verse>
-        <verse>
-            <stanza>
-                <line>I clutched my life</line>
-                <line>And wished it kept</line>
-                <line><litDevice device="motif">My dearest love, I'm not done yet</litDevice></line>
-                <line>How many years</line>
-                <line>I know I'll bear</line>
-                <line>I found something in the woods somewhere</line>
-            </stanza>
-        </verse>
-        <chorus>
-            <stanza>
-                <line>Ooh, oo-ooh, oo-ooh</line>
-            </stanza>
-        </chorus>
-    </lyrics>
-</song>
-<song>
-    <information>
-        <producers>Rob Kirwan and Hozier</producers>
-        <trackNumber>15</trackNumber>
-        <title>Run</title>
-    </information>
-    <lyrics>
-        <chorus>
-            <stanza>
-                <line><litDevice device="motif">Rare is this love</litDevice></line>
-                <line>Keep it covered</line>
-                <line><litDevice device="motif">I need you to run to me, run to me,
-                    lover</litDevice></line>
-                <line>Run until you feel your lungs bleeding</line>
-            </stanza>
-        </chorus>
-        <verse>
-            <stanza>
-                <line>Oh but the farrow know</line>
-                <line>Her hungry eyes, <litDevice device="hyperbole">her ancient
-                    soul</litDevice></line>
-                <line>It's carried by the sneering menagerie</line>
-            </stanza>
-            <stanza>
-                <line>Know what it is to grow</line>
-                <line><litDevice device="hyperbole">Beneath her sky, her punishing
-                    cold</litDevice></line>
-                <line><litDevice device="hyperbole">To slowly learn of her ancient
-                    misery</litDevice></line>
-            </stanza>
-            <stanza>
-                <line>To be twisted by something</line>
-                <line>A shame without a sin</line>
-                <line>Like how she twisted the bog man</line>
-                <line>After she married him</line>
-            </stanza>
-        </verse>
-        <chorus>
-            <stanza>
-                <line><litDevice device="motif">Rare is this love</litDevice></line>
-                <line>Keep it covered</line>
-                <line><litDevice device="motif">I need you to run to me, run to me,
-                    lover</litDevice></line>
-                <line>Run until you feel your lungs bleeding</line>
-            </stanza>
-        </chorus>
-        <verse>
-            <stanza>
-                <line>But in all the world</line>
-                <line>There is one lover worthy of her</line>
-                <line>With as many souls claimed as she</line>
-            </stanza>
-            <stanza>
-                <line>But for all he's worth</line>
-                <line><litDevice device="frame_story">He still shatters always on her
-                    earth</litDevice></line>
-                <line><litDevice device="frame_story">The cause of every tear she'd ever
-                    weep</litDevice></line>
-            </stanza>
-            <stanza>
-                <line>Rushing to shore to meet her</line>
-                <line><litDevice device="metaphor">Foaming with loneliness</litDevice></line>
-                <line><litDevice device="imagery">White hands to fondle and beat
-                    her</litDevice></line>
-                <line>Give her his onliness</line>
-            </stanza>
-        </verse>
-        <chorus>
-            <stanza>
-                <line><litDevice device="motif">Rare is this love</litDevice></line>
-                <line><litDevice device="motif">I need you to run to me, run to me,
-                    lover</litDevice></line>
-                <line>Run until you feel your lungs bleeding</line>
-                <line><litDevice device="motif">Rare is this love"</litDevice></line>
-                <line><litDevice device="motif">I need you to run to me, run to me,
-                    lover</litDevice></line>
-                <line>Run until you feel your lungs bleeding</line>
-            </stanza>
-            <stanza>
-                <line><litDevice device="motif">Rare is this love"</litDevice></line>
-                <line><litDevice device="motif">I need you to run to me, run to me,
-                    lover</litDevice></line>
-                <line>Run until you feel your lungs bleeding</line>
-                <line><litDevice device="motif">Rare is this love</litDevice></line>
-                <line><litDevice device="motif">I need you to run to me, run to me,
-                    lover</litDevice></line>
-                <line>Run until you feel your lungs bleeding</line>
-            </stanza>
-        </chorus>
-    </lyrics>
-</song>
-<song>
-    <information>
-        <producers>Hozier and Rob Kirwan</producers>
-        <trackNumber>16</trackNumber>
-        <title>Arsonist's Lullabye</title>
-    </information>
-    <lyrics>
-        <humming/>
-        <verse>
-            <stanza>
-                <line>When I was a child, I heard voices</line>
-                <line><religiousConcept concept = "chrisianity">Some would sing and some would scream</religiousConcept></line>
-                <line><religiousConcept concept="chrisianity">Some would sing and some would scream</religiousConcept></line>
-                <line>You soon find you have few choices</line>
-                <line>I learned the voices died with me</line>
-                <line>When I was a child, I'd sit for hours</line>
-                <line>Staring into open flame</line>
-                <line>Something in it had a power</line>
-                <line>Could barely tear my eyes away</line>
-            </stanza>
-        </verse>
-        <hook>
-            <stanza>
-                <line>All you have is <litDevice device="symbolism">your fire</litDevice></line>
-                <line>And the place you need to reach</line>
-                <line>Don't you ever tame your <religiousConcept concept = "chrisianity">demons</religiousConcept></line>
-                <line>But <litDevice device = "metaphor">always keep them on a leash</litDevice></line>
-                <line>Don't you ever tame your <religiousConcept concept="chrisianity">demons</religiousConcept></line>
-                <line>But <litDevice device="metaphor">always keep them on a leash</litDevice></line>
-            </stanza>
-        </hook>
-        <humming/>
-        <verse>
-            <stanza>
-                <line>When I was sixteen, my senses fooled me</line>
-                <line>Thought gasoline was on my clothes</line>
-                <line>I knew that <litDevice device="symbolism">something would always ruleme</litDevice></line>
-                <line>I knew this scent was mine alone </line>
-            </stanza>
-        </verse>
-        <hook>
-            <stanza>
-                <line>All you have is <litDevice device="symbolism">your fire</litDevice></line>
-                <line>And the place you need to reach</line>
-                <line>Don't you ever tame your <religiousConcept concept = "chrisianity">demons</religiousConcept></line>
-                <line><litDevice device = "metaphor">Always keep them on a leash</litDevice></line>
-                <line>Don't you ever tame your <religiousConcept concept="chrisianity">demons</religiousConcept></line>
-                <line><litDevice device="metaphor">Always keep them on a leash</litDevice></line>
-            </stanza>
-        </hook>
-        <bridge>
-            <stanza>
-                <line>When I was a man, I thought it ended</line>
-                <line>When I knew <litDevice device="metaphor">love's perfect ache</litDevice></line>
-                <line>But my peace has always depended</line>
-                <line>On all the ashes in my wake</line>
-            </stanza>
-        </bridge>
-        <outro>
-            <stanza>
-                <line>All you have is <litDevice device="symbolism">your fire</litDevice></line>
-                <line>And the place you need to reach</line>
-                <line>Don't you ever tame your <religiousConcept concept = "chrisianity">demons</religiousConcept></line>
-                <line>But <litDevice device = "metaphor">always keep them on a leash</litDevice></line>
-                <line>Don't you ever tame your <religiousConcept concept="chrisianity">demons</religiousConcept></line>
-                <line>But <litDevice device="metaphor">always keep them on a leash</litDevice></line>
-            </stanza>
-        </outro>
-    </lyrics>
-</song>
-<song>
-    <information>
-        <producers>Hozier</producers>
-        <trackNumber>17</trackNumber>
-        <title>My Love Will Never Die</title>
-    </information>
-    <lyrics>
-        <stanza>
-            <line>You've done</line>
-            <line>Me wrong</line>
-            <line>For a long</line>
-            <line>Long time</line>
-        </stanza>
-        <stanza>
-            <line>But after all</line>
-            <line>You've done</line>
-            <line>I never changed</line>
-            <line>My mind</line>
-        </stanza>
-        <stanza>
-            <line>Honey please</line>
-            <line>Try to love me</line>
-            <line>Honey please</line>
-            <line>Honey try</line>
-            <line>My love will never die</line>
-        </stanza>
-        <stanza>
-            <line>Flowers</line>
-            <line>Flowers grow</line>
-            <line>Where I'm laid</line>
-            <line>To rest</line>
-        </stanza>
-        <stanza>
-            <line>Honey pick</line>
-            <line>A blossom</line>
-            <line>And hold it</line>
-            <line>Hold it</line>
-            <line>To your breast</line>
-        </stanza>
-        <stanza>
-            <line>Honey you know</line>
-            <line>That's my love</line>
-            <line>Bursting loud</line>
-            <line>From inside</line>
-        </stanza>
-        <stanza>
-            <line>My love</line>
-            <line>Oh my love my love</line>
-            <line>Will never die</line>
-        </stanza>
-    </lyrics>
-</song>
+    <song>
+        <information>
+            <producers>Hozier and Rob Kirwan</producers>
+            <trackNumber>1</trackNumber>
+            <title>Take Me To Church</title>
+        </information>
+        <lyrics>
+            <verse>
+                <stanza>
+                    <line>My lover's got humor</line>
+                    <line>She's the giggle at a funeral</line>
+                    <line>Knows everybody's disapproval</line>
+                    <line>I should've <religiousAction action="worship">worshipped</religiousAction>
+                        her sooner</line>
+                    <line>If the <religiousPlace place="heavens">heavens</religiousPlace>ever did
+                        speak</line>
+                    <line>She's the last true mouthpiece</line>
+                    <line>Every <religiousReference reference="worship"
+                            >Sunday's</religiousReference> getting more bleak</line>
+                    <line>A fresh poison each week</line>
+                    <line>"We were born sick"</line>
+                    <line>You heard them say it</line>
+                    <line>My <religiousPlace place="church">church</religiousPlace> offers no
+                        absolutes</line>
+                    <line>She tells me "<religiousAction action="worship">worship</religiousAction>
+                        in the bedroom"</line>
+                    <line>The only <religiousPlace place="heaven">Heaven</religiousPlace> I'll be
+                        sent to</line>
+                    <line>Is when I'm alone with you</line>
+                    <line><religiousReference reference="sin">I was born sick</religiousReference>,
+                        but I love it</line>
+                    <line>Command me to be well</line>
+                </stanza>
+            </verse>
+            <preChorus>
+                <stanza>
+                    <line>Aaa, <religiousAction action="worship">Amen</religiousAction>,
+                            <religiousAction action="worship">Amen</religiousAction>,
+                            <religiousAction action="worship">Amen</religiousAction></line>
+                </stanza>
+            </preChorus>
+            <chorus>
+                <stanza>
+                    <line>Take me to <religiousPlace place="church">church</religiousPlace></line>
+                    <line>I'll <religiousAction action="worship">worship</religiousAction> like a
+                        dog at the <religiousReference reference="worship">shrine of your
+                            lies</religiousReference></line>
+                    <line>I'll tell you my <religiousReference reference="sin"
+                            >sins</religiousReference> and you can sharpen your knife</line>
+                    <line>Offer me that deathless death</line>
+                    <line>Good <religiousFigure figure="God">God</religiousFigure>,
+                            <religiousReference reference="devotion">let me give you my
+                            life</religiousReference></line>
+                    <line>Take me to <religiousPlace place="church">church</religiousPlace></line>
+                    <line>I'll <religiousAction action="worship">worship</religiousAction> like a
+                        dog at the <religiousReference reference="worship">shrine of your
+                            lies</religiousReference></line>
+                    <line>I'll tell you my <religiousReference reference="sin"
+                            >sins</religiousReference> and you can sharpen your knife</line>
+                    <line>Offer me that deathless death</line>
+                    <line>Good <religiousFigure figure="God">God</religiousFigure>,
+                            <religiousReference reference="devotion">let me give you my
+                            life</religiousReference></line>
+                </stanza>
+            </chorus>
+            <verse>
+                <stanza>
+                    <line>I'f I'm a <religiousFigure figure="pagan">pagan</religiousFigure> of the
+                        good times</line>
+                    <line>My lover's the sunlight</line>
+                    <line>To keep the goddess on my side</line>
+                    <line>She demands a <religiousAction action="sacrifice"
+                            >sacrifice</religiousAction></line>
+                    <line>Drain the whole sea</line>
+                    <line>Get something shiny</line>
+                    <line>Something meaty for the main course</line>
+                    <line>That's a fine looking high horse</line>
+                    <line>What you got in the stable?</line>
+                    <line>We've a lot of starving faithful</line>
+                    <line>That looks tasty</line>
+                    <line>That looks plenty</line>
+                    <line>This is hungry work</line>
+                </stanza>
+            </verse>
+            <preChorus>
+                <stanza>
+                    <line>Aaa, <religiousAction action="worship">Amen</religiousAction>,
+                            <religiousAction action="worship">Amen</religiousAction>,
+                            <religiousAction action="worship">Amen</religiousAction></line>
+                </stanza>
+            </preChorus>
+            <chorus>
+                <stanza>
+                    <line>Take me to <religiousPlace place="church">church</religiousPlace></line>
+                    <line>I'll <religiousAction action="worship">worship</religiousAction> like a
+                        dog at the <religiousReference reference="worship">shrine of your
+                            lies</religiousReference></line>
+                    <line>I'll tell you my <religiousReference reference="sin"
+                            >sins</religiousReference> and you can sharpen your knife</line>
+                    <line>Offer me that deathless death</line>
+                    <line>Good <religiousFigure figure="God">God</religiousFigure>,
+                            <religiousReference reference="devotion">let me give you my
+                            life</religiousReference></line>
+                    <line>Take me to <religiousPlace place="church">church</religiousPlace></line>
+                    <line>I'll <religiousAction action="worship">worship</religiousAction> like a
+                        dog at the <religiousReference reference="worship">shrine of your
+                            lies</religiousReference></line>
+                    <line>I'll tell you my <religiousReference reference="sin"
+                            >sins</religiousReference> and you can sharpen your knife</line>
+                    <line>Offer me that deathless death</line>
+                    <line>Good <religiousFigure figure="God">God</religiousFigure>,
+                            <religiousReference reference="devotion">let me give you my
+                            life</religiousReference></line>
+                </stanza>
+            </chorus>
+            <bridge>
+                <stanza>
+                    <line>No masters of kings when the <religiousAction action="ritual"
+                            >ritual</religiousAction> begins</line>
+                    <line>
+                        <religiousReference reference="sin">There is no sweeter innocence than our
+                            gentle sin</religiousReference>
+                    </line>
+                    <line>In the madness and soil of that sad earthly scene</line>
+                    <line>Only then I am human</line>
+                    <line>Only then I am clean</line>
+                </stanza>
+            </bridge>
+            <chorus>
+                <stanza>
+                    <line>Take me to <religiousPlace place="church"/></line>
+                    <line>I'll <religiousAction action="worship">worship</religiousAction> like a
+                        dog at the <religiousReference reference="worship">shrine of your
+                            lies</religiousReference></line>
+                    <line>I'll tell you my <religiousReference reference="sin"
+                            >sins</religiousReference> and you can sharpen your knife</line>
+                    <line>Offer me that deathless death</line>
+                    <line>Good <religiousFigure figure="God">God</religiousFigure>,
+                            <religiousReference reference="devotion">let me give you my
+                            life</religiousReference></line>
+                    <line>Take me to <religiousPlace place="church">church</religiousPlace></line>
+                    <line>I'll <religiousAction action="worship">worship</religiousAction> like a
+                        dog at the <religiousReference reference="worship">shrine of your
+                            lies</religiousReference></line>
+                    <line>I'll tell you my <religiousReference reference="sin"
+                            >sins</religiousReference> and you can sharpen your knife</line>
+                    <line>Offer me that deathless death</line>
+                    <line>Good <religiousFigure figure="God">God</religiousFigure>,
+                            <religiousReference reference="devotion">let me give you my
+                            life</religiousReference></line>
+                </stanza>
+            </chorus>
+        </lyrics>
+    </song>
+    <song>
+        <information>
+            <producers>Hozier and Rob Kirwan</producers>
+            <trackNumber>2</trackNumber>
+            <title>Angel of Small Death and the Codeine Scene</title>
+        </information>
+        <lyrics>
+            <verse>
+                <stanza>
+                    <line>I watch the work of my kin, <litDevice device="alliteration">bold and
+                            boyful</litDevice></line>
+                    <line>Toying somewhere between love and abuse</line>
+                    <line>Calling to join them the wretched and joyful</line>
+                    <line>
+                        <litDevice device="metaphor">Shaking the wings of their terrible
+                            youths</litDevice>
+                    </line>
+                </stanza>
+                <stanza>
+                    <line>Freshly disowned in some frozen devotion</line>
+                    <line>No more alone or myself could I be</line>
+                    <line>Lurched like a stray to the arms that were open</line>
+                    <line>No shortage of sordid, no protest from me</line>
+                </stanza>
+            </verse>
+            <chorus>
+                <stanza>
+                    <line>With her sweetened breath, and her tongue so mean</line>
+                    <line>She's the <religiousFigure figure="christianity">angel</religiousFigure>
+                        of small death and the codeine scene</line>
+                    <line>With her straw-blonde hair, her arms hard and lean</line>
+                    <line>She's the <religiousFigure figure="christianity">angel</religiousFigure>
+                        of small death and the codeine scene</line>
+                </stanza>
+            </chorus>
+            <verse>
+                <stanza>
+                    <line>Feeling more human and hooked on her flesh, I</line>
+                    <line>
+                        <litDevice device="metaphor">Lay my heart down with the rest at
+                            herfeet</litDevice>
+                    </line>
+                    <line>Fresh from the fields, all <litDevice device="alliteration">fetor and
+                            fertile</litDevice></line>
+                    <line>It's bloody and raw, but I swear it is sweet</line>
+                </stanza>
+            </verse>
+            <chorus>
+                <stanza>
+                    <line>With her sweetened breath, and her tongue so mean</line>
+                    <line>She's the <religiousFigure figure="christianity">angel</religiousFigure>
+                        of small death and the codeine scene</line>
+                    <line>With her straw-blonde hair, her arms hard and lean</line>
+                    <line>She's the <religiousFigure figure="christianity">angel</religiousFigure>
+                        of small death and the codeine scene</line>
+                </stanza>
+            </chorus>
+            <bridge>
+                <stanza>
+                    <line>Oh, oh, oh, oh</line>
+                    <line>Oh, oh, oh-oh</line>
+                    <line>Oh, oh, oh, oh-oh</line>
+                    <line>Oh, oh, oh</line>
+                </stanza>
+            </bridge>
+            <verse>
+                <stanza>
+                    <line>In leash-less confusion, I'll wander the concrete</line>
+                    <line>Wonder if better now having survived</line>
+                    <line><religiousConcept concept="Christianity">The jarring of judgement
+                        </religiousConcept>and reason's defeat the sweet</line>
+                    <line>Heat of her breath in my mouth; I'm alive</line>
+                </stanza>
+            </verse>
+            <chorus>
+                <stanza>
+                    <line>With her sweetened breath, and her tongue so mean</line>
+                    <line>She's the <religiousFigure figure="christianity">angel</religiousFigure>
+                        of small death and the codeine scene</line>
+                    <line>With her straw-blonde hair, her arms hard and lean</line>
+                    <line>She's the <religiousFigure figure="christianity">angel</religiousFigure>
+                        of small death and the codeine scene</line>
+                </stanza>
+                <stanza>
+                    <line>With her sweetened breath, and her tongue so mean</line>
+                    <line>She's the <religiousFigure figure="christianity">angel</religiousFigure>
+                        of small death and the codeine scene</line>
+                    <line>With her straw-blonde hair, her arms hard and lean</line>
+                    <line>She's the <religiousFigure figure="christianity">angel</religiousFigure>
+                        of small death and the codeine scene</line>
+                </stanza>
+            </chorus>
+        </lyrics>
+    </song>
+    <song>
+        <information>
+            <producers>Hozier and Rob Kirwan</producers>
+            <trackNumber>3</trackNumber>
+            <title>Jackie and Wilson</title>
+        </information>
+        <lyrics>
+            <verse>
+                <stanza>
+                    <line>So tired trying to see from behind the red in my eyes</line>
+                    <line>No better version of me I could pretend to be tonight</line>
+                    <line>Soul deep in this swill with the most familiar of swine</line>
+                    <line>For reasons wretched and divine</line>
+                </stanza>
+            </verse>
+            <verse>
+                <stanza>
+                    <line>She blows out of nowhere, <religiousReference reference="Roman">a roman
+                            candle of the wild</religiousReference></line>
+                    <line>Laughing her way through my feeble disguise</line>
+                    <line>No other version of me I would rather be tonight</line>
+                    <line>And <religiousFigure figure="Lord">Lord</religiousFigure>, she found me
+                        just in time</line>
+                </stanza>
+            </verse>
+            <preChorus>
+                <stanza>
+                    <line>'Cause with my mid-youth crisis all said and done</line>
+                    <line>I need to be youthfully felt 'cause, <religiousFigure figure="God"
+                            >God</religiousFigure>, I never felt young</line>
+                </stanza>
+            </preChorus>
+            <chorus>
+                <stanza>
+                    <line>She's gonna save me, call me baby</line>
+                    <line>Run her hands through my hair</line>
+                    <line>She'll know me crazy, soothe me daily</line>
+                    <line>Better yet, she wouldn't care</line>
+                </stanza>
+                <stanza>
+                    <line>We'll steal a Lexus, be detectives</line>
+                    <line>Ride 'round picking up clues</line>
+                    <line>We'll name our children Jackie and Wilson</line>
+                    <line>Raise 'em on rhythm and blues</line>
+                </stanza>
+            </chorus>
+            <verse>
+                <stanza>
+                    <line><religiousFigure figure="Lord">Lord</religiousFigure>, it'd be great to
+                        find a place we could escape sometime</line>
+                    <line>Me and my <religiousReference reference="Egytpian"
+                            >Isis</religiousReference> growing black irises in the sunshine</line>
+                    <line>Every version of me dead and buried in the yard outside</line>
+                    <line>We'd sit back and watch the world go by</line>
+                </stanza>
+            </verse>
+            <preChorus>
+                <stanza>
+                    <line>Happy to lie back, watch it burn and rust</line>
+                    <line>We tried the world; good <religiousFigure figure="God"
+                            >God</religiousFigure> it wasn't for us</line>
+                </stanza>
+            </preChorus>
+            <chorus>
+                <stanza>
+                    <line>She's gonna save me, call me baby</line>
+                    <line>Run her hands through my hair</line>
+                    <line>She'll know me crazy, soothe me daily</line>
+                    <line>Better yet, she wouldn't care</line>
+                </stanza>
+                <stanza>
+                    <line>We'll steal a Lexus, be detectives</line>
+                    <line>Ride 'round picking up clues</line>
+                    <line>We'll name our children <litDevice device="allusion">Jackie and
+                            Wilson</litDevice></line>
+                    <line>Raise 'em on rhythm and blues</line>
+                </stanza>
+            </chorus>
+            <verse>
+                <stanza>
+                    <line>Cut clean from the dream that night, let my mind reset</line>
+                    <line>Looking up from a cigarette, she's already left</line>
+                    <line>I start digging up the yard for what's left of me in our little
+                        vignette</line>
+                    <line>For whatever poor soul is coming next</line>
+                </stanza>
+            </verse>
+            <chorus>
+                <stanza>
+                    <line>She's gonna save me, call me baby</line>
+                    <line>Run her hands through my hair</line>
+                    <line>She'll know me crazy, soothe me daily</line>
+                    <line>Better yet, she wouldn't care</line>
+                </stanza>
+                <stanza>
+                    <line>We'll steal a Lexus, be detectives</line>
+                    <line>Ride 'round picking up clues</line>
+                    <line>We'll name our children Jackie and Wilson</line>
+                    <line>Raise 'em on rhythm and blues</line>
+                </stanza>
+            </chorus>
+        </lyrics>
+    </song>
+    <song>
+        <information>
+            <producers>Hozier and Rob Kirwan</producers>
+            <trackNumber>4</trackNumber>
+            <title>Someone New</title>
+        </information>
+        <lyrics>
+            <verse>
+                <stanza>
+                    <line>Don't take this the wrong way</line>
+                    <line>You knew who I was with every step that I ran to you</line>
+                    <line>
+                        <litDevice device="symbolism">Only blue or black days</litDevice>
+                    </line>
+                    <line>Electing strange perfections in any stranger I choose</line>
+                </stanza>
+            </verse>
+            <preChorus>
+                <stanza>
+                    <line>Would things be easier if there was a right way?</line>
+                    <line>Honey, there is no right way</line>
+                </stanza>
+            </preChorus>
+            <chorus>
+                <stanza>
+                    <line>And so I fall in love just a little, oh, a little bit</line>
+                    <line>Every day with someone new</line>
+                    <line>I fall in love just a little, oh, a little bit</line>
+                    <line>Every day with someone new</line>
+                </stanza>
+                <stanza>
+                    <line>I fall in love just a little, oh, a little bit</line>
+                    <line>Every day with someone new</line>
+                    <line>I fall in love just a little, oh, a little bit</line>
+                    <line>Every day with someone new</line>
+                </stanza>
+            </chorus>
+            <verse>
+                <stanza>
+                    <line>There's an art to life's distraction</line>
+                    <line>To somehow escape the burning wait, the art of scraping through</line>
+                    <line>Some like to imagine</line>
+                    <line> The <religiousReference reference="sin">dark caress</religiousReference>
+                        of someone else; I guess any thrill will do</line>
+                </stanza>
+            </verse>
+            <preChorus>
+                <stanza>
+                    <line>Would things be easier if there was a right way?</line>
+                    <line>Honey, there is no right way</line>
+                </stanza>
+            </preChorus>
+            <chorus>
+                <stanza>
+                    <line>And so I fall in love just a little, oh, a little bit</line>
+                    <line>Every day with someone new</line>
+                    <line>I fall in love just a little, oh, a little bit</line>
+                    <line>Every day with someone new</line>
+                </stanza>
+                <stanza>
+                    <line>I fall in love just a little, oh, a little bit</line>
+                    <line>Every day with someone new</line>
+                    <line>I fall in love just a little, oh, a little bit</line>
+                    <line>Every day with someone new</line>
+                </stanza>
+            </chorus>
+            <bridge>
+                <stanza>
+                    <line>I wake at the first cringe of morning</line>
+                    <line>And my heart's already <religiousReference reference="sin"
+                            >sinned</religiousReference></line>
+                    <line>How pure, how sweet a love, Aretha</line>
+                    <line>That you would <religiousAction action="worship">pray</religiousAction>
+                        for him</line>
+                </stanza>
+                <stanza>
+                    <line>'Cause <religiousFigure figure="christianity">God</religiousFigure>knows I
+                        fall in love just a little, oh, a little bit</line>
+                    <line>Every day with someone new</line>
+                    <line>I fall in love just a little, oh, a little bit</line>
+                    <line>Every day with someone new</line>
+                </stanza>
+                <stanza>
+                    <line>I fall in love just a little, oh, a little bit</line>
+                    <line>Every day with someone new</line>
+                    <line>I fall in love just a little, oh, a little bit</line>
+                    <line>Every day with someone new</line>
+                </stanza>
+                <stanza>
+                    <line>I fall in love just a little, oh, a little bit</line>
+                    <line>Every day with someone new</line>
+                    <line>I fall in love just a little, oh, a little bit</line>
+                    <line>Every day…</line>
+                </stanza>
+            </bridge>
+            <refrain>
+                <stanza>
+                    <line>Love with every stranger</line>
+                    <line>The stranger the better</line>
+                    <line>Love with every stranger</line>
+                    <line>The stranger the better</line>
+                </stanza>
+                <stanza>
+                    <line>Love with every stranger</line>
+                    <line>The stranger the better</line>
+                    <line>Love with every stranger</line>
+                    <line>The stranger the better</line>
+                </stanza>
+            </refrain>
+            <chorus>
+                <stanza>
+                    <line>I fall in love just a little, oh, a little bit</line>
+                    <line>Every day with someone new</line>
+                    <line>I fall in love just a little, oh, a little bit</line>
+                    <line>Every day with someone new</line>
+                </stanza>
+                <stanza>
+                    <line>I fall in love just a little, oh, a little bit</line>
+                    <line>Every day with someone new</line>
+                    <line>I fall in love just a little, oh, a little bit</line>
+                    <line>Every day with someone new</line>
+                </stanza>
+            </chorus>
+        </lyrics>
+    </song>
+    <song>
+        <information>
+            <producers>Rob Kirwan and Hozier</producers>
+            <trackNumber>5</trackNumber>
+            <title>To Be Alone</title>
+        </information>
+        <lyrics>
+            <verse>
+                <stanza>
+                    <line>Never feel too good in crowds</line>
+                    <line>With folks around, when they're playing</line>
+                    <line>The anthems of rape culture loud</line>
+                    <line>Crude and proud, creatures baying</line>
+                </stanza>
+                <stanza>
+                    <line>All I've ever done is hide</line>
+                    <line>From our times, when you're near me</line>
+                    <line>Honey, when you kill the lights and kiss my eyes</line>
+                    <line>I feel like a person for a moment of my life</line>
+                </stanza>
+            </verse>
+            <preChorus>
+                <stanza>
+                    <line>But you don't know what hell you put me through</line>
+                    <line>To have someone kiss the skin that crawls from you</line>
+                    <line>To feel your weight in arms I'd never use</line>
+                    <line>It's the <religiousFigure figure="God">God</religiousFigure> that heroin
+                        prays to</line>
+                </stanza>
+            </preChorus>
+            <chorus>
+                <stanza>
+                    <line>It feels good, girl, it feels good</line>
+                    <line>It feels good, girl, it feels good</line>
+                    <line>It feels good, girl, it feels good</line>
+                    <line>Oh, to be alone with you</line>
+                </stanza>
+            </chorus>
+            <refrain>
+                <stanza>
+                    <line>Whoa-oh, oh-oh, oh-oh, oh</line>
+                    <line>Oh-oh, oh, oh-oh-oh, oh-oh, oh</line>
+                    <line>Whoa-oh, oh-oh, oh-oh, oh</line>
+                    <line>Oh-oh, oh, oh-oh-oh, oh-oh, oh-oh, oh-oh, oh-oh, oh-oh, oh-oh</line>
+                </stanza>
+            </refrain>
+            <verse>
+                <stanza>
+                    <line>There are questions I can't ask</line>
+                    <line>Now at last, the worst is over</line>
+                    <line>See the way you hold yourself</line>
+                    <line>Reel against, your body's borders</line>
+                </stanza>
+                <stanza>
+                    <line>I know that you hate this place</line>
+                    <line>Not a trace of me would argue</line>
+                    <line>Honey, we should run away, oh someday</line>
+                    <line>Our baby and her momma, and the damaged love she made</line>
+                </stanza>
+            </verse>
+            <preChorus>
+                <stanza>
+                    <line>But I don't know what else that I would do</line>
+                    <line>Than to try to kiss the skin that crawls from you</line>
+                    <line>Than feel your weight in arms I'd never use</line>
+                    <line>It's the god that heroin <religiousAction action="worship"
+                            >prays</religiousAction>to</line>
+                </stanza>
+            </preChorus>
+            <chorus>
+                <stanza>
+                    <line>It feels good, girl, it feels good</line>
+                    <line>It feels good, girl, it feels good</line>
+                    <line>It feels good, girl, it feels good</line>
+                    <line>Oh, to be alone with you</line>
+                </stanza>
+            </chorus>
+            <refrain>
+                <stanza>
+                    <line>Whoa-oh, oh-oh, oh-oh, oh</line>
+                    <line>Oh-oh oh, oh-oh-oh, oh-oh, oh-oh</line>
+                    <line>Whoa-oh, oh-oh, oh-oh, oh</line>
+                    <line>Oh-oh oh, oh-oh-oh, oh-oh, oh-oh</line>
+                </stanza>
+                <stanza>
+                    <line>Whoa-oh, oh-oh, oh-oh, oh</line>
+                    <line>Oh-oh, oh, oh-oh-oh, oh-oh, oh</line>
+                    <line>Whoa-oh, oh-oh, oh-oh, oh</line>
+                    <line>Oh-oh, oh, oh-oh-oh, oh-oh, oh-oh, oh-oh, oh-oh, oh-oh, oh-oh</line>
+                </stanza>
+            </refrain>
+            <chorus>
+                <stanza>
+                    <line>It feels good, girl, it feels good</line>
+                    <line>It feels good, girl, it feels good</line>
+                    <line>It feels good, girl, it feels good</line>
+                    <line>Oh, to be alone with you</line>
+                </stanza>
+            </chorus>
+        </lyrics>
+    </song>
+    <song>
+        <information>
+            <producers>Hozier and Rob Kirwan</producers>
+            <trackNumber> 6 </trackNumber>
+            <title>From Eden</title>
+        </information>
+        <lyrics>
+            <verse>
+                <stanza>
+                    <line>Babe</line>
+                    <line>There's something tragic about you</line>
+                    <line>Something so magic about you</line>
+                    <line>Don't you agree?</line>
+                </stanza>
+                <stanza>
+                    <line>Babe</line>
+                    <line>There's something lonesome about you</line>
+                    <line>Something so wholesome about you</line>
+                    <line>Get closer to me</line>
+                </stanza>
+            </verse>
+            <preChorus>
+                <stanza>
+                    <line>No tired sigh, no rolling eyes</line>
+                    <line>No irony</line>
+                    <line>No "Who cares?", no vacant stare</line>
+                    <line>No time for me</line>
+                </stanza>
+            </preChorus>
+            <chorus>
+                <stanza>
+                    <line>Honey, you're familiar, like my mirror years ago</line>
+                    <line>
+                        <litDevice device="metaphor">Idealism sits in prison, chivalry fell on his
+                            sword</litDevice>
+                    </line>
+                    <line><litDevice device="personification">Innocence died screaming</litDevice>;
+                        honey, ask me, I should know</line>
+                    <line> I slithered here from <religiousPlace place="christianity"
+                            >Eden</religiousPlace> just to sit outside your door</line>
+                </stanza>
+            </chorus>
+            <verse>
+                <stanza>
+                    <line>Babe</line>
+                    <line>There's something <religiousReference reference="sin"
+                            >wretched</religiousReference>about this</line>
+                    <line>Something so precious about this</line>
+                    <line>Where to begin?</line>
+                </stanza>
+                <stanza>
+                    <line>Babe</line>
+                    <line>There's something broken about this</line>
+                    <line>But I might be hoping about this</line>
+                    <line>Oh, what a <religiousReference reference="sin"
+                        >sin</religiousReference></line>
+                </stanza>
+            </verse>
+            <preChorus>
+                <stanza>
+                    <line>To the strand, a picnic planned</line>
+                    <line>For you and me</line>
+                    <line>
+                        <litDevice device="symbolism">A rope in hand for your other man</litDevice>
+                    </line>
+                    <line>To hang from a tree</line>
+                </stanza>
+            </preChorus>
+            <chorus>
+                <stanza>
+                    <line>Honey, you're familiar, like my mirror years ago</line>
+                    <line>
+                        <litDevice device="metaphor">Idealism sits in prison, chivalry fell on his
+                            sword</litDevice>
+                    </line>
+                    <line><litDevice device="personification">Innocence died screaming</litDevice>;
+                        honey, ask me, I should know</line>
+                    <line> I slithered here from <religiousPlace place="christianity"
+                            >Eden</religiousPlace> just to sit outside your door</line>
+                </stanza>
+            </chorus>
+            <instrumental/>
+            <chorus>
+                <stanza>
+                    <line>Honey, you're familiar, like my mirror years ago</line>
+                    <line>
+                        <litDevice device="metaphor">Idealism sits in prison, chivalry fell on his
+                            sword</litDevice>
+                    </line>
+                    <line><litDevice device="personification">Innocence died screaming</litDevice>;
+                        honey, ask me, I should know</line>
+                    <line> I slithered here from <religiousPlace place="christianity"
+                            >Eden</religiousPlace> just to sit outside your door</line>
+                </stanza>
+            </chorus>
+        </lyrics>
+    </song>
+    <song>
+        <information>
+            <producers>Rob Kirwan and Hozier</producers>
+            <trackNumber>7</trackNumber>
+            <title>In a Week</title>
+        </information>
+        <lyrics>
+            <intro>
+                <stanza>
+                    <line>I have never known peace</line>
+                    <line>
+                        <litDevice device="simile">Like the damp grass that yields to me</litDevice>
+                    </line>
+                    <line>I have never known hunger</line>
+                    <line>
+                        <litDevice device="simile">Like these insects that feast on me</litDevice>
+                    </line>
+                </stanza>
+            </intro>
+            <verse>
+                <stanza>
+                    <line>A thousand teeth</line>
+                    <line>And yours among them, I know</line>
+                    <line>Our hungers appeased</line>
+                    <line>Our heartbeats becoming slow</line>
+                </stanza>
+            </verse>
+            <preChorus>
+                <stanza>
+                    <line>We'll lay here for years or for hours</line>
+                    <line>Thrown here of found, to freeze or to thaw</line>
+                    <line>
+                        <litDevice device="metaphor">So long, we'd become the flowers</litDevice>
+                    </line>
+                    <line>
+                        <litDevice device="metaphor">Two corpses we were, two corpses I
+                            saw</litDevice>
+                    </line>
+                </stanza>
+            </preChorus>
+            <chorus>
+                <stanza>
+                    <line>And they'd find us in a week</line>
+                    <line>When the weather gets hot</line>
+                    <line>After the insects have made their claim</line>
+                    <line>I'd be home with you, I'd be home with you</line>
+                </stanza>
+            </chorus>
+            <verse>
+                <stanza>
+                    <line>I have never known sleep</line>
+                    <line>
+                        <litDevice device="simile">Like this slumber that creeps to me</litDevice>
+                    </line>
+                    <line>I have never known colour</line>
+                    <line>
+                        <litDevice device="simile">Like this morning reveals to me</litDevice>
+                    </line>
+                </stanza>
+            </verse>
+            <verse>
+                <stanza>
+                    <line>And you haven't moved an inch</line>
+                    <line>Such that I would not know</line>
+                    <line>If you sleep alwyas like this</line>
+                    <line>The flesh calmly going cold</line>
+                </stanza>
+            </verse>
+            <preChorus>
+                <stanza>
+                    <line>We'll lay here for years or for hours</line>
+                    <line>Your hand in my hand, so still and discreet</line>
+                    <line>
+                        <litDevice device="metaphor">So long, we'd become the flowers</litDevice>
+                    </line>
+                    <line>
+                        <litDevice device="metaphor">We'd feed well the land and worry the
+                            sheep</litDevice>
+                    </line>
+                </stanza>
+            </preChorus>
+            <chorus>
+                <stanza>
+                    <line>And they'd find us in a week</line>
+                    <line>When the cattle show fear</line>
+                    <line>After the insects have made their claim</line>
+                    <line>After the foxes have known our taste</line>
+                    <line>I'd be home with you, I'd be home with you...</line>
+                </stanza>
+            </chorus>
+            <bridge>
+                <stanza>
+                    <line>They'd find us in a week (We lay here for years or for hours)</line>
+                    <line>When the weather gets hot (So long we become the flowers)</line>
+                    <line>And they'd find us in a week (We lay here for years of for hours)</line>
+                    <line>When the cattle show fear (So long we become the flowers)</line>
+                </stanza>
+            </bridge>
+            <verse>
+                <stanza>
+                    <line>And they'd find us in a week</line>
+                    <line>When the buzzards get loud</line>
+                    <line>After the insects have made their claim</line>
+                    <line>After the foxes have known our taste</line>
+                </stanza>
+            </verse>
+            <outro>
+                <stanza>
+                    <line>
+                        <litDevice device="personification">And the raven has had his
+                            say</litDevice>
+                    </line>
+                    <line>I'd be home with you, I'd be home with you</line>
+                    <line>I'd be home with you, I'd be home with you</line>
+                    <line>I'd be home with you, I'd be home with you</line>
+                </stanza>
+            </outro>
+        </lyrics>
+    </song>
+    <song>
+        <information>
+            <producers>Hozier and Rob Kirwan</producers>
+            <trackNumber>8</trackNumber>
+            <title>Sedated</title>
+        </information>
+        <lyrics>
+            <verse>
+                <stanza>
+                    <line>Just a little rush, babe, <litDevice device="sensory imagery">to feel
+                            dizzy</litDevice></line>
+                    <line>To derail the mind of me</line>
+                    <line>Just a little hush, babe; my veins are busy</line>
+                    <line>But my heart's in atrophy</line>
+                </stanza>
+            </verse>
+            <preChorus>
+                <stanza>
+                    <line>Any way</line>
+                    <line>To distract and sedate</line>
+                    <line>Adding shadows</line>
+                    <line>
+                        <religiousReference reference="Greek">To the walls of the
+                            cave</religiousReference>
+                    </line>
+                </stanza>
+            </preChorus>
+            <chorus>
+                <stanza>
+                    <line>You and I, nursing on a</line>
+                    <line>
+                        <litDevice device="metaphor">Poison that never stung</litDevice>
+                    </line>
+                    <line>Our teeth and lungs are lined</line>
+                    <line>With the scum of it</line>
+                </stanza>
+                <stanza>
+                    <line>Somewhere for this, death and guns</line>
+                    <line>We are deaf, we are numb</line>
+                    <line>Free and young and we</line>
+                    <line>Can feel none of it</line>
+                </stanza>
+            </chorus>
+            <verse>
+                <stanza>
+                    <line>Something isn't right, babe; I keep catching</line>
+                    <line>Little words, but the meaning's thin</line>
+                    <line>I'm somewhere outside my life, babe; I keep scratching</line>
+                    <line>But somehow I can't get in</line>
+                </stanza>
+            </verse>
+            <preChorus>
+                <stanza>
+                    <line>So we're slaves</line>
+                    <line>To any semblance of touch</line>
+                    <line>
+                        <litDevice device="motif">Lord, we should quit</litDevice>
+                    </line>
+                    <line>
+                        <litDevice device="motif">But we love it too much</litDevice>
+                    </line>
+                </stanza>
+            </preChorus>
+            <chorus>
+                <stanza>
+                    <line>Sedated, we're nursing on a</line>
+                    <line>
+                        <litDevice device="metaphor">Poison that never stung</litDevice>
+                    </line>
+                    <line>Our teeth and lungs are lined</line>
+                    <line>With the scum of it</line>
+                </stanza>
+                <stanza>
+                    <line>Somewhere for this, death and guns</line>
+                    <line>We are deaf, we are numb</line>
+                    <line>Free and young and we</line>
+                    <line>Can feel none of it</line>
+                </stanza>
+            </chorus>
+            <bridge>
+                <stanza>
+                    <line>Darlin', don't you</line>
+                    <line>Stand there watching, won't you</line>
+                    <line>Come and save me from it?</line>
+                </stanza>
+                <stanza>
+                    <line>Darlin', don't you</line>
+                    <line>Join in, you're supposed to</line>
+                    <line>Drag me away from it...</line>
+                </stanza>
+            </bridge>
+            <preChorus>
+                <stanza>
+                    <line>Any way</line>
+                    <line>To distract and sedate</line>
+                    <line>Adding shadows</line>
+                    <line>
+                        <religiousReference reference="Greek">To the walls of the
+                            cave</religiousReference>
+                    </line>
+                </stanza>
+            </preChorus>
+            <chorus>
+                <stanza>
+                    <line>You and I, nursing on a</line>
+                    <line>
+                        <litDevice device="metaphor">Poison that never stung</litDevice>
+                    </line>
+                    <line>Our teeth and lungs are lined</line>
+                    <line>With the scum of it</line>
+                </stanza>
+                <stanza>
+                    <line>Somewhere for this, death and guns</line>
+                    <line>We are deaf, we are numb</line>
+                    <line>Free and young and we</line>
+                    <line>Can feel none of it</line>
+                </stanza>
+            </chorus>
+            <chorus>
+                <stanza>
+                    <line>Sedated, we're nursing on a</line>
+                    <line>
+                        <litDevice device="metaphor">Poison that never stung</litDevice>
+                    </line>
+                    <line>Our teeth and lungs are lined</line>
+                    <line>With the scum of it</line>
+                </stanza>
+                <stanza>
+                    <line>Somewhere for this, death and guns</line>
+                    <line>We are deaf, we are numb</line>
+                    <line>Free and young and we</line>
+                    <line>Can feel none of it</line>
+                </stanza>
+            </chorus>
+        </lyrics>
+    </song>
+    <song>
+        <information>
+            <producers>Hozier and Rob Kirwan</producers>
+            <trackNumber>9</trackNumber>
+            <title>Work Song</title>
+        </information>
+        <lyrics>
+            <verse>
+                <stanza>
+                    <line>Boys, workin' on that empty</line>
+                    <line>Is that the kinda way to face the burning heat?</line>
+                    <line>
+                        <litDevice device="motif">I just think about my baby</litDevice>
+                    </line>
+                    <line>
+                        <litDevice device="dramatic irony">I'm just so full of love I could barely
+                            eat</litDevice>
+                    </line>
+                </stanza>
+                <stanza>
+                    <line>There's nothing sweeter than my baby</line>
+                    <line>I'd never want once from the cherry tree</line>
+                    <line>
+                        <litDevice device="motif">'Cause my baby's as sweet as can be</litDevice>
+                    </line>
+                    <line>
+                        <litDevice device="motif">She gives me toothaches just from kissin'
+                            me</litDevice>
+                    </line>
+                </stanza>
+            </verse>
+            <chorus>
+                <stanza>
+                    <line>When, my, time comes around</line>
+                    <line>
+                        <litDevice device="imagery">Lay me gently in the cold dark earth</litDevice>
+                    </line>
+                    <line>No grave can hold my body down</line>
+                    <line>I'll crawl home to her</line>
+                </stanza>
+            </chorus>
+            <verse>
+                <stanza>
+                    <line>Boys, when my baby found me</line>
+                    <line>I was <litDevice device="symbolism">three</litDevice> days on a drunken
+                        sin</line>
+                    <line>
+                        <litDevice device="euphemism">I woke with her walls around me</litDevice>
+                    </line>
+                    <line>
+                        <litDevice device="imagery">Nothin' in her room but an empty
+                            crib</litDevice>
+                    </line>
+                </stanza>
+                <stanza>
+                    <line>And I was burning up a fever</line>
+                    <line>I didn't care much how long I lived</line>
+                    <line>
+                        <litDevice device="motif">But I swear, I thought I dreamed her</litDevice>
+                    </line>
+                    <line>She never asked me once about the wrong I did</line>
+                </stanza>
+            </verse>
+            <chorus>
+                <stanza>
+                    <line>When, my, time comes around</line>
+                    <line>
+                        <litDevice device="imagery">Lay me gently in the cold dark earth</litDevice>
+                    </line>
+                    <line>
+                        <litDevice device="paradox">No grave can hold my body down</litDevice>
+                    </line>
+                    <line>I'll crawl home to her</line>
+                </stanza>
+            </chorus>
+            <chorus>
+                <stanza>
+                    <line>When, my, time comes around</line>
+                    <line>
+                        <litDevice device="imagery">Lay me gently in the cold dark earth</litDevice>
+                    </line>
+                    <line>
+                        <litDevice device="paradox">No grave can hold my body down</litDevice>
+                    </line>
+                    <line>I'll crawl home to her</line>
+                </stanza>
+            </chorus>
+            <bridge>
+                <stanza>
+                    <line>My babe would never fret none</line>
+                    <line>About what my hands and my body have done</line>
+                    <line>If the <religiousFigure figure="Lord">Lord</religiousFigure> don't forgive
+                        me</line>
+                    <line>
+                        <litDevice device="motif">I'd still have my baby and my babe would have
+                            me</litDevice>
+                    </line>
+                </stanza>
+                <stanza>
+                    <line>
+                        <litDevice device="motif">When I was kissin' on my baby</litDevice>
+                    </line>
+                    <line>
+                        <litDevice device="euphemism">And she'd put her love down, soft and
+                            sweet</litDevice>
+                    </line>
+                    <line>In the low lamp light, I was free</line>
+                    <line><religiousPlace place="Heaven">Heaven</religiousPlace> and <religiousPlace
+                            place="hell">hell</religiousPlace> were words to me</line>
+                </stanza>
+            </bridge>
+            <chorus>
+                <stanza>
+                    <line>When, my, time comes around</line>
+                    <line>
+                        <litDevice device="imagery">Lay me gently in the cold dark earth</litDevice>
+                    </line>
+                    <line>
+                        <litDevice device="paradox">No grave can hold my body down</litDevice>
+                    </line>
+                    <line>I'll crawl home to her</line>
+                </stanza>
+            </chorus>
+            <chorus>
+                <stanza>
+                    <line>When, my, time comes around</line>
+                    <line>
+                        <litDevice device="imagery">Lay me gently in the cold dark earth</litDevice>
+                    </line>
+                    <line>
+                        <litDevice device="paradox">No grave can hold my body down</litDevice>
+                    </line>
+                    <line>I'll crawl home to her</line>
+                </stanza>
+            </chorus>
+        </lyrics>
+    </song>
+    <song>
+        <information>
+            <producers>Hozier and Rob Kirwan</producers>
+            <trackNumber>10</trackNumber>
+            <title>Like Real People Do</title>
+        </information>
+        <lyrics>
+            <verse>
+                <stanza>
+                    <line>I had a thought, dear, however scary</line>
+                    <line>About that night, the bugs and the dirt</line>
+                    <line>
+                        <litDevice device="metaphor">Why were you digging? What did you
+                            bury</litDevice>
+                    </line>
+                    <line>Before those <litDevice device="metaphor">hands pulled me from the
+                            earth?</litDevice></line>
+                </stanza>
+            </verse>
+            <chorus>
+                <stanza>
+                    <line>I will not ask you where you came from</line>
+                    <line>
+                        <litDevice device="allusion">I will not ask and neither should
+                            you</litDevice>
+                    </line>
+                    <line>Honey, just put your sweet lips on my lips</line>
+                    <line>We should just kiss <litDevice device="simile">like real people
+                            do</litDevice></line>
+                </stanza>
+            </chorus>
+            <verse>
+                <stanza>
+                    <line>I knew that look, dear: eyes always seeking</line>
+                    <line>
+                        <litDevice device="metaphor">Was there in someone that dug long
+                            ago</litDevice>
+                    </line>
+                    <line>So I will not ask you why you were creeping</line>
+                    <line>In some sad way, I already know</line>
+                </stanza>
+            </verse>
+            <chorus>
+                <stanza>
+                    <line>So I will not ask you where you came from</line>
+                    <line>
+                        <litDevice device="allusion">I would not ask and neither would
+                            you</litDevice>
+                    </line>
+                    <line>Honey, just put your sweet lips on my lips</line>
+                    <line>We should just kiss <litDevice device="simile">like real people
+                            do</litDevice></line>
+                </stanza>
+            </chorus>
+            <chorus>
+                <stanza>
+                    <line>I could not ask you where you came from</line>
+                    <line>
+                        <litDevice device="allusion">I could not ask and neither could
+                            you</litDevice>
+                    </line>
+                    <line>Honey, just put your sweet lips on my lips</line>
+                    <line>We could just kiss <litDevice device="simile">like real people
+                            do</litDevice></line>
+                </stanza>
+            </chorus>
+        </lyrics>
+    </song>
+    <song>
+        <information>
+            <producers>Hozier and Rob Kirwan</producers>
+            <trackNumber>11</trackNumber>
+            <title>It Will Come Back</title>
+        </information>
+        <lyrics>
+            <stanza>
+                <line>You know better, babe, you know better, babe</line>
+                <line>Than to look at it, look at it like that</line>
+                <line>You know better, babe, you know better, babe</line>
+                <line>Than to talk to it, talk to it like that</line>
+            </stanza>
+            <stanza>
+                <line>Don't give it a hand, offer it a soul</line>
+                <line>Honey, make this easy</line>
+                <line>Leave it to the land, this is what it knows</line>
+                <line>Honey, that's how it sleeps</line>
+            </stanza>
+            <stanza>
+                <line>Don't let it in with no intention to keep it</line>
+                <line><religiousFigure figure="Jesus">Jesus Christ</religiousFigure>, don't be kind
+                    to it</line>
+                <line>Honey, don't feed it, it will come back</line>
+            </stanza>
+            <stanza>
+                <line>
+                    <litDevice device="motif">You know better babe, you know better,
+                        babe</litDevice>
+                </line>
+                <line>
+                    <litDevice device="motif">Than to smile at me, smile at me like that</litDevice>
+                </line>
+                <line>
+                    <litDevice device="motif">You know better babe, you know better babe</litDevice>
+                </line>
+                <line>
+                    <litDevice device="motif">Than to hold me just, hold me just like
+                        that</litDevice>
+                </line>
+            </stanza>
+            <stanza>
+                <line>I know who I am when I'm alone</line>
+                <line>
+                    <litDevice device="motif">I'm something else when I see you</litDevice>
+                </line>
+                <line>
+                    <litDevice device="motif">You don't understand, you should never
+                        know</litDevice>
+                </line>
+                <line>
+                    <litDevice device="motif">How easy you are to need</litDevice>
+                </line>
+            </stanza>
+            <stanza>
+                <line>
+                    <litDevice device="motif">Don't let me in with no intention to keep
+                        me</litDevice>
+                </line>
+                <line><religiousFigure figure="Jesus">Jesus Christ</religiousFigure>, don't be kind
+                    to me</line>
+                <line>
+                    <litDevice device="motif">Honey, don't feed me, I will come back</litDevice>
+                </line>
+            </stanza>
+            <stanza>
+                <line>It can't be unlearned</line>
+                <line>
+                    <litDevice device="motif">I've known the warmth of your doorways</litDevice>
+                </line>
+                <line>
+                    <litDevice device="motif">Through the cold, I'll find my way back to
+                        you</litDevice>
+                </line>
+            </stanza>
+            <stanza>
+                <line>
+                    <litDevice device="motif">Oh, please, give me mercy no more</litDevice>
+                </line>
+                <line>
+                    <litDevice device="motif">That's a kindness you can't afford</litDevice>
+                </line>
+                <line>
+                    <litDevice device="motif">I warn you, baby, each night, as sure as you're
+                        born</litDevice>
+                </line>
+                <line>
+                    <litDevice device="motif">You'll hear me howling outside your door</litDevice>
+                </line>
+            </stanza>
+            <stanza>
+                <line>
+                    <litDevice device="analogy">Don't you hear me howling, babe?</litDevice>
+                </line>
+                <line>
+                    <litDevice device="analogy">Don't you hear me howling, babe?</litDevice>
+                </line>
+                <line>
+                    <litDevice device="analogy">Don't you hear me howling, babe?</litDevice>
+                </line>
+                <line>
+                    <litDevice device="analogy">Don't you hear me howling?</litDevice>
+                </line>
+                <line>
+                    <litDevice device="analogy">Don't you hear me howling?</litDevice>
+                </line>
+                <line>
+                    <litDevice device="analogy">Don't you hear me howling, babe?</litDevice>
+                </line>
+            </stanza>
+        </lyrics>
+    </song>
+    <song>
+        <information>
+            <producers>Hozier and Rob Kirwan</producers>
+            <trackNumber>12</trackNumber>
+            <title>Foreigner's God</title>
+        </information>
+        <lyrics>
+            <verse>
+                <stanza>
+                    <line>She moved with shameless wonder</line>
+                    <line>The <religiousReference reference="ambiguous">perfect
+                            creature</religiousReference> rarely seen</line>
+                    <line>Since some liar brought the thunder</line>
+                    <line>When the land was <religiousReference reference="pagan">godless and
+                            free</religiousReference></line>
+                    <line>The <religiousReference reference="ambiguous">perfect
+                            creature</religiousReference> rarely seen</line>
+                    <line>Since some liar brought the thunder</line>
+                    <line>When the land was <religiousReference reference="pagan">godless and
+                            free</religiousReference></line>
+                </stanza>
+                <stanza>
+                    <line>Her eyes look sharp and steady</line>
+                    <line>Into the empty parts of me</line>
+                    <line>But still my heart is heavy</line>
+                    <line>With the <litDevice device="symbolism">hate of some other man's
+                            beliefs</litDevice></line>
+                </stanza>
+            </verse>
+            <preChorus>
+                <stanza>
+                    <line>Always a well dressed fraud</line>
+                    <line>Who wouldn't spare the rod</line>
+                    <line>Never for me</line>
+                </stanza>
+            </preChorus>
+            <chorus>
+                <stanza>
+                    <line>Screaming the name</line>
+                    <line>Of a <religiousReference reference="pagan">foreigner's
+                            God</religiousReference></line>
+                    <line>Screaming the name</line>
+                    <line>Of a <religiousReference reference="pagan">foreigner's
+                            God</religiousReference></line>
+                    <line>Screaming the name</line>
+                    <line>Of a <religiousReference reference="pagan">foreigner's
+                            God</religiousReference></line>
+                    <line>
+                        <litDevice device="motif">The purest expression of grief</litDevice>
+                    </line>
+                    <line>Of a <religiousReference reference="pagan">foreigner's
+                            God</religiousReference></line>
+                    <line>Screaming the name</line>
+                    <line>Of a <religiousReference reference="pagan">foreigner's
+                            God</religiousReference></line>
+                    <line>Screaming the name</line>
+                    <line>Of a <religiousReference reference="pagan">foreigner's
+                            God</religiousReference></line>
+                    <line>
+                        <litDevice device="motif">The purest expression of grief</litDevice>
+                    </line>
+                </stanza>
+            </chorus>
+            <verse>
+                <stanza>
+                    <line>Wondering who I copy</line>
+                    <line>Mustering some tender charm</line>
+                    <line>
+                        <litDevice device="allusion">She feels no control of her body</litDevice>
+                    </line>
+                    <line>She feels no safety in my arms</line>
+                </stanza>
+                <stanza>
+                    <line>I've no language left to say it</line>
+                    <line>But all I do is quake to her</line>
+                    <line>Breaking if I try convey it</line>
+                    <line>
+                        <litDevice device="allusion">The broken love I make to her</litDevice>
+                    </line>
+                </stanza>
+            </verse>
+            <preChorus>
+                <stanza>
+                    <line>All that I've been taught</line>
+                    <line>And every word I've got</line>
+                    <line>Is foreign to me</line>
+                </stanza>
+            </preChorus>
+            <chorus>
+                <stanza>
+                    <line>Screaming the name</line>
+                    <line>Of a <religiousReference reference="pagan">foreigner's
+                            God</religiousReference></line>
+                    <line>Screaming the name</line>
+                    <line>Of a <religiousReference reference="pagan">foreigner's
+                            God</religiousReference></line>
+                    <line>Screaming the name</line>
+                    <line>Of a <religiousReference reference="pagan">foreigner's
+                            God</religiousReference></line>
+                    <line>
+                        <litDevice device="motif">The purest expression of grief</litDevice>
+                    </line>
+                </stanza>
+            </chorus>
+            <instrumental/>
+            <chorus>
+                <stanza>
+                    <line>Screaming the name</line>
+                    <line>Of a <religiousReference reference="pagan">foreigner's
+                            God</religiousReference></line>
+                    <line>Screaming the name</line>
+                    <line>Of a <religiousReference reference="pagan">foreigner's
+                            God</religiousReference></line>
+                    <line>Screaming the name</line>
+                    <line>Of a <religiousReference reference="pagan">foreigner's
+                            God</religiousReference></line>
+                    <line>
+                        <litDevice device="motif">The purest expression of grief</litDevice>
+                    </line>
+                </stanza>
+                <stanza>
+                    <line>Screaming the name</line>
+                    <line>Of a <religiousReference reference="pagan">foreigner's
+                            God</religiousReference></line>
+                    <line>Screaming the name</line>
+                    <line>Of a <religiousReference reference="pagan">foreigner's
+                            God</religiousReference></line>
+                    <line>Screaming the name</line>
+                    <line>Of a <religiousReference reference="pagan">foreigner's
+                            God</religiousReference></line>
+                    <line>
+                        <litDevice device="motif">The purest expression of grief</litDevice>
+                    </line>
+                </stanza>
+            </chorus>
+        </lyrics>
+    </song>
+    <song>
+        <information>
+            <producers>Hozier</producers>
+            <trackNumber>13</trackNumber>
+            <title>Cherry Wine (Live)</title>
+        </information>
+        <lyrics>
+            <verse>
+                <stanza>
+                    <line>Her eyes and words are so icy</line>
+                    <line>Oh, but she burns</line>
+                    <line>
+                        <litDevice device="simile">Like rum on a fire</litDevice>
+                    </line>
+                    <line>Hot and fast and angry as she can be</line>
+                    <line>
+                        <litDevice device="foreshadowing">I walk my days on a wire</litDevice>
+                    </line>
+                </stanza>
+            </verse>
+            <preChorus>
+                <stanza>
+                    <line>
+                        <litDevice device="extended_metaphor">It looks ugly, but it's
+                            clean</litDevice>
+                    </line>
+                    <line>
+                        <litDevice device="motif">Oh mama, don't fuss over me</litDevice>
+                    </line>
+                </stanza>
+            </preChorus>
+            <chorus>
+                <stanza>
+                    <line>
+                        <litDevice device="motif">The way she tells me I'm hers and she is
+                            mine</litDevice>
+                    </line>
+                    <line>
+                        <litDevice device="foreshadowing">Open hand or closed fist would be
+                            fine</litDevice>
+                    </line>
+                    <line>
+                        <litDevice device="metaphor">The blood is rare and sweet as cherry
+                            wine</litDevice>
+                    </line>
+                </stanza>
+            </chorus>
+            <verse>
+                <stanza>
+                    <line>
+                        <litDevice device="motif">Calls of guilty thrown at me, all while she
+                            strains</litDevice>
+                    </line>
+                    <line>
+                        <litDevice device="dramatic irony">The sheets of some other</litDevice>
+                    </line>
+                    <line>Thrown at me so powerfully, just like she throws</line>
+                    <line>With the arm of her brother</line>
+                </stanza>
+            </verse>
+            <preChorus>
+                <stanza>
+                    <line>
+                        <litDevice device="motif">But I want it, it's a crime</litDevice>
+                    </line>
+                    <line>That she's not around most of the time</line>
+                </stanza>
+            </preChorus>
+            <chorus>
+                <stanza>
+                    <line>
+                        <litDevice device="motif">The way she tells me I'm hers and she is
+                            mine</litDevice>
+                    </line>
+                    <line>
+                        <litDevice device="foreshadowing">Open hand or closed fist would be
+                            fine</litDevice>
+                    </line>
+                    <line>
+                        <litDevice device="metaphor">The blood is rare and sweet as cherry
+                            wine</litDevice>
+                    </line>
+                </stanza>
+            </chorus>
+            <verse>
+                <stanza>
+                    <line>Her fight and fury's fiery</line>
+                    <line>Oh, but she looks</line>
+                    <line>
+                        <litDevice device="simile">Like sleep to the freezing</litDevice>
+                    </line>
+                    <line>
+                        <litDevice device="allusion">Sweet and right and merciful, I'm all but
+                            washed</litDevice>
+                    </line>
+                    <line>In the tide of her breathing</line>
+                </stanza>
+            </verse>
+            <preChorus>
+                <stanza>
+                    <line>And it's worth it, it's divine</line>
+                    <line>I have this some of the time</line>
+                </stanza>
+            </preChorus>
+            <chorus>
+                <stanza>
+                    <line>
+                        <litDevice device="motif">The way she tells me I'm hers and she is
+                            mine</litDevice>
+                    </line>
+                    <line>
+                        <litDevice device="foreshadowing">Open hand or closed fist would be
+                            fine</litDevice>
+                    </line>
+                    <line>
+                        <litDevice device="metaphor">The blood is rare and sweet as cherry
+                            wine</litDevice>
+                    </line>
+                </stanza>
+            </chorus>
+        </lyrics>
+    </song>
+    <song>
+        <information>
+            <producers>Hozier and Rob Kirwan</producers>
+            <trackNumber>14</trackNumber>
+            <title>In the Woods Somewhere</title>
+        </information>
+        <lyrics>
+            <verse>
+                <stanza>
+                    <line>My head was warm</line>
+                    <line>My skin was soaked</line>
+                    <line>I called your name <litDevice device="metaphor">'til the fever
+                            broke</litDevice></line>
+                    <line>When I awoke</line>
+                    <line>The moon still hung</line>
+                    <line>The night so black that <litDevice device="personification">the darkness
+                            hums</litDevice></line>
+                </stanza>
+            </verse>
+            <verse>
+                <stanza>
+                    <line>I raised myself</line>
+                    <line>My legs were weak</line>
+                    <line>I <religiousAction action="worship">prayed</religiousAction> my mind be
+                        good to me</line>
+                    <line>An awful noise</line>
+                    <line>Filled the air</line>
+                    <line>I heard a scream in the woods somewhere</line>
+                </stanza>
+            </verse>
+            <chorus>
+                <stanza>
+                    <line>Ooh, oo-ooh, oo-ooh</line>
+                </stanza>
+            </chorus>
+            <verse>
+                <stanza>
+                    <line>A woman's voice</line>
+                    <line>I quickly ran</line>
+                    <line>Into the trees with empty hands</line>
+                    <line>A fox it was</line>
+                    <line>He shook afraid</line>
+                    <line>I spoke no words, no sound he made</line>
+                </stanza>
+            </verse>
+            <verse>
+                <stanza>
+                    <line>His bone exposed</line>
+                    <line>His hind was lame</line>
+                    <line>I raised a stone to end his pain</line>
+                    <line>What caused the wound?</line>
+                    <line>How large the teeth?</line>
+                    <line>I saw new eyes were watching me</line>
+                </stanza>
+            </verse>
+            <chorus>
+                <stanza>
+                    <line>Ooh, oo-ooh, oo-ooh</line>
+                </stanza>
+            </chorus>
+            <verse>
+                <stanza>
+                    <line>The creature lunged</line>
+                    <line>I turned and ran</line>
+                    <line>To save a life I didn't have</line>
+                    <line>Dear, in the chase</line>
+                    <line>There as I flew</line>
+                    <line>Forgot all <religiousConcept concept="unknown">prayers</religiousConcept>
+                        of joining you</line>
+                </stanza>
+            </verse>
+            <verse>
+                <stanza>
+                    <line>I clutched my life</line>
+                    <line>And wished it kept</line>
+                    <line>
+                        <litDevice device="motif">My dearest love, I'm not done yet</litDevice>
+                    </line>
+                    <line>How many years</line>
+                    <line>I know I'll bear</line>
+                    <line>I found something in the woods somewhere</line>
+                </stanza>
+            </verse>
+            <chorus>
+                <stanza>
+                    <line>Ooh, oo-ooh, oo-ooh</line>
+                </stanza>
+            </chorus>
+        </lyrics>
+    </song>
+    <song>
+        <information>
+            <producers>Rob Kirwan and Hozier</producers>
+            <trackNumber>15</trackNumber>
+            <title>Run</title>
+        </information>
+        <lyrics>
+            <chorus>
+                <stanza>
+                    <line>
+                        <litDevice device="motif">Rare is this love</litDevice>
+                    </line>
+                    <line>Keep it covered</line>
+                    <line>
+                        <litDevice device="motif">I need you to run to me, run to me,
+                            lover</litDevice>
+                    </line>
+                    <line>Run until you feel your lungs bleeding</line>
+                </stanza>
+            </chorus>
+            <verse>
+                <stanza>
+                    <line>Oh but the farrow know</line>
+                    <line>Her hungry eyes, <litDevice device="hyperbole">her ancient
+                            soul</litDevice></line>
+                    <line>It's carried by the sneering menagerie</line>
+                </stanza>
+                <stanza>
+                    <line>Know what it is to grow</line>
+                    <line>
+                        <litDevice device="hyperbole">Beneath her sky, her punishing
+                            cold</litDevice>
+                    </line>
+                    <line>
+                        <litDevice device="hyperbole">To slowly learn of her ancient
+                            misery</litDevice>
+                    </line>
+                </stanza>
+                <stanza>
+                    <line>To be twisted by something</line>
+                    <line>A shame without a sin</line>
+                    <line>Like how she twisted the bog man</line>
+                    <line>After she married him</line>
+                </stanza>
+            </verse>
+            <chorus>
+                <stanza>
+                    <line>
+                        <litDevice device="motif">Rare is this love</litDevice>
+                    </line>
+                    <line>Keep it covered</line>
+                    <line>
+                        <litDevice device="motif">I need you to run to me, run to me,
+                            lover</litDevice>
+                    </line>
+                    <line>Run until you feel your lungs bleeding</line>
+                </stanza>
+            </chorus>
+            <verse>
+                <stanza>
+                    <line>But in all the world</line>
+                    <line>There is one lover worthy of her</line>
+                    <line>With as many souls claimed as she</line>
+                </stanza>
+                <stanza>
+                    <line>But for all he's worth</line>
+                    <line>
+                        <litDevice device="frame_story">He still shatters always on her
+                            earth</litDevice>
+                    </line>
+                    <line>
+                        <litDevice device="frame_story">The cause of every tear she'd ever
+                            weep</litDevice>
+                    </line>
+                </stanza>
+                <stanza>
+                    <line>Rushing to shore to meet her</line>
+                    <line>
+                        <litDevice device="metaphor">Foaming with loneliness</litDevice>
+                    </line>
+                    <line>
+                        <litDevice device="imagery">White hands to fondle and beat her</litDevice>
+                    </line>
+                    <line>Give her his onliness</line>
+                </stanza>
+            </verse>
+            <chorus>
+                <stanza>
+                    <line>
+                        <litDevice device="motif">Rare is this love</litDevice>
+                    </line>
+                    <line>
+                        <litDevice device="motif">I need you to run to me, run to me,
+                            lover</litDevice>
+                    </line>
+                    <line>Run until you feel your lungs bleeding</line>
+                    <line>
+                        <litDevice device="motif">Rare is this love"</litDevice>
+                    </line>
+                    <line>
+                        <litDevice device="motif">I need you to run to me, run to me,
+                            lover</litDevice>
+                    </line>
+                    <line>Run until you feel your lungs bleeding</line>
+                </stanza>
+                <stanza>
+                    <line>
+                        <litDevice device="motif">Rare is this love"</litDevice>
+                    </line>
+                    <line>
+                        <litDevice device="motif">I need you to run to me, run to me,
+                            lover</litDevice>
+                    </line>
+                    <line>Run until you feel your lungs bleeding</line>
+                    <line>
+                        <litDevice device="motif">Rare is this love</litDevice>
+                    </line>
+                    <line>
+                        <litDevice device="motif">I need you to run to me, run to me,
+                            lover</litDevice>
+                    </line>
+                    <line>Run until you feel your lungs bleeding</line>
+                </stanza>
+            </chorus>
+        </lyrics>
+    </song>
+    <song>
+        <information>
+            <producers>Hozier and Rob Kirwan</producers>
+            <trackNumber>16</trackNumber>
+            <title>Arsonist's Lullabye</title>
+        </information>
+        <lyrics>
+            <humming/>
+            <verse>
+                <stanza>
+                    <line>When I was a child, I heard voices</line>
+                    <line>
+                        <religiousConcept concept="chrisianity">Some would sing and some would
+                            scream</religiousConcept>
+                    </line>
+                    <line>
+                        <religiousConcept concept="chrisianity">Some would sing and some would
+                            scream</religiousConcept>
+                    </line>
+                    <line>You soon find you have few choices</line>
+                    <line>I learned the voices died with me</line>
+                    <line>When I was a child, I'd sit for hours</line>
+                    <line>Staring into open flame</line>
+                    <line>Something in it had a power</line>
+                    <line>Could barely tear my eyes away</line>
+                </stanza>
+            </verse>
+            <hook>
+                <stanza>
+                    <line>All you have is <litDevice device="symbolism">your fire</litDevice></line>
+                    <line>And the place you need to reach</line>
+                    <line>Don't you ever tame your <religiousConcept concept="chrisianity"
+                            >demons</religiousConcept></line>
+                    <line>But <litDevice device="metaphor">always keep them on a
+                        leash</litDevice></line>
+                    <line>Don't you ever tame your <religiousConcept concept="chrisianity"
+                            >demons</religiousConcept></line>
+                    <line>But <litDevice device="metaphor">always keep them on a
+                        leash</litDevice></line>
+                </stanza>
+            </hook>
+            <humming/>
+            <verse>
+                <stanza>
+                    <line>When I was sixteen, my senses fooled me</line>
+                    <line>Thought gasoline was on my clothes</line>
+                    <line>I knew that <litDevice device="symbolism">something would always
+                            ruleme</litDevice></line>
+                    <line>I knew this scent was mine alone </line>
+                </stanza>
+            </verse>
+            <hook>
+                <stanza>
+                    <line>All you have is <litDevice device="symbolism">your fire</litDevice></line>
+                    <line>And the place you need to reach</line>
+                    <line>Don't you ever tame your <religiousConcept concept="chrisianity"
+                            >demons</religiousConcept></line>
+                    <line>
+                        <litDevice device="metaphor">Always keep them on a leash</litDevice>
+                    </line>
+                    <line>Don't you ever tame your <religiousConcept concept="chrisianity"
+                            >demons</religiousConcept></line>
+                    <line>
+                        <litDevice device="metaphor">Always keep them on a leash</litDevice>
+                    </line>
+                </stanza>
+            </hook>
+            <bridge>
+                <stanza>
+                    <line>When I was a man, I thought it ended</line>
+                    <line>When I knew <litDevice device="metaphor">love's perfect
+                        ache</litDevice></line>
+                    <line>But my peace has always depended</line>
+                    <line>On all the ashes in my wake</line>
+                </stanza>
+            </bridge>
+            <outro>
+                <stanza>
+                    <line>All you have is <litDevice device="symbolism">your fire</litDevice></line>
+                    <line>And the place you need to reach</line>
+                    <line>Don't you ever tame your <religiousConcept concept="chrisianity"
+                            >demons</religiousConcept></line>
+                    <line>But <litDevice device="metaphor">always keep them on a
+                        leash</litDevice></line>
+                    <line>Don't you ever tame your <religiousConcept concept="chrisianity"
+                            >demons</religiousConcept></line>
+                    <line>But <litDevice device="metaphor">always keep them on a
+                        leash</litDevice></line>
+                </stanza>
+            </outro>
+        </lyrics>
+    </song>
+    <song>
+        <information>
+            <producers>Hozier</producers>
+            <trackNumber>17</trackNumber>
+            <title>My Love Will Never Die</title>
+        </information>
+        <lyrics>
+            <stanza>
+                <line>You've done</line>
+                <line>Me wrong</line>
+                <line>For a long</line>
+                <line>Long time</line>
+            </stanza>
+            <stanza>
+                <line>But after all</line>
+                <line>You've done</line>
+                <line>I never changed</line>
+                <line>My mind</line>
+            </stanza>
+            <stanza>
+                <line>Honey please</line>
+                <line>Try to love me</line>
+                <line>Honey please</line>
+                <line>Honey try</line>
+                <line>My love will never die</line>
+            </stanza>
+            <stanza>
+                <line>Flowers</line>
+                <line>Flowers grow</line>
+                <line>Where I'm laid</line>
+                <line>To rest</line>
+            </stanza>
+            <stanza>
+                <line>Honey pick</line>
+                <line>A blossom</line>
+                <line>And hold it</line>
+                <line>Hold it</line>
+                <line>To your breast</line>
+            </stanza>
+            <stanza>
+                <line>Honey you know</line>
+                <line>That's my love</line>
+                <line>Bursting loud</line>
+                <line>From inside</line>
+            </stanza>
+            <stanza>
+                <line>My love</line>
+                <line>Oh my love my love</line>
+                <line>Will never die</line>
+            </stanza>
+        </lyrics>
+    </song>
 </hozierSongs>
