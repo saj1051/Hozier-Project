@@ -6,17 +6,31 @@ body {
     margin: 50px;
 }
 
-h1, h2 {
-    text-align: center;
-    font-size: 46px;
-    font-family: Oswald;
-    color: #1b313e
-}
-
 h1 {
     font-size: 50px;
     height: 50px;
     vertical-align: middle;
+    text-align: center;
+    font-family: Oswald;
+    color: #1b313e;
+}
+
+h2 {
+    font-size: 36px;
+    height: 36px;
+    vertical-align: middle;
+    text-align: center;
+    font-family: Oswald;
+    color: #1b313e;
+}
+
+h3 {
+    font-size: 24px;
+    height: 24px;
+    vertical-align: middle;
+    font-weight: 600;
+    font-family: Oswald;
+    color: #1b313e
 }
 
 p {
@@ -33,13 +47,6 @@ div {
 li {
     font-size: 18px;
     color: black;
-}
-
-h3 {
-    font-size: 24px;
-    color: black;
-    font-weight: 600;
-    font-family: Oswald;
 }
 
 /* navigation bar */
@@ -70,16 +77,19 @@ li.toc {
     padding-right: 8%;
 }
 
+/* link color */
 a:link {
     text-decoration: none;
     color: #2d7330;
 }
 
+/* color of link when you hover over it */
 a:hover {
     text-decoration: none;
     color: white;
 }
 
+/* box behind navigation bar and text grid */
 section {
     text-align: justify;
     display: flex;
@@ -120,7 +130,7 @@ img {
 .grid-container {
     display: grid;
     grid-template-columns: auto auto auto auto;
-    background-color: #9ad2f1;
+    background-color: #2b444b;
     padding: 10px;
 }
 
