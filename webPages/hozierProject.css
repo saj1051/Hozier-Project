@@ -25,6 +25,11 @@ p {
     color: black;
 }
 
+div {
+    display: flex;
+    justify-content: center; 
+}
+
 li {
     font-size: 18px;
     color: black;
