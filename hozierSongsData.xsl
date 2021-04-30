@@ -5,14 +5,19 @@
     <xsl:template match="/">
         <svg height="100%" width="100%">
             <g transform="translate(30, 330)">
+                <!--used xpath to count how many times each piece of markup showed up in xml-->
                 <xsl:variable name="religiousAction" select="count(//religiousAction)"/>
                 <xsl:variable name="religiousPlace" select="count(//religiousPlace)"/>
                 <xsl:variable name="religiousConcept" select="count(//religiousConcept)"/>
                 <xsl:variable name="religiousReference" select="count(//religiousReference)"/>
                 <xsl:variable name="religiousFigure" select="count(//religiousFigure)"/>
                 <xsl:variable name="litDevice" select="count(//litDevice)"/>
+
+                <!--x and y axis lines-->
                 <line x1="20" x2="20" y1="0" y2="-160" stroke="black" stroke-width="1"/>
                 <line x1="20" x2="200" y1="0" y2="0" stroke="black" stroke-width="1"/>
+
+                <!--dotted lines across the graph-->
                 <line x1="20" x2="200" y1="-160" y2="-160" stroke="black" opacity="0.5"
                     stroke-dasharray="8 4" stroke-width="1"/>
                 <line x1="20" x2="200" y1="-140" y2="-140" stroke="black" opacity="0.5"
