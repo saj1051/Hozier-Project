@@ -57,6 +57,10 @@
                 <rect x="215" y="-60" width="15" height="15" stroke="black" stroke-width="1" fill="orange"/>
                 <text x="240" y="-148" font-size="small">= Religious Action</text>
                 <text x="240" y="-128" font-size="small">= Religious Place</text>
+                <text x="240" y="-108" font-size="small">= Religious Concept</text>
+                <text x="240" y="-88" font-size="small">= Religious Reference</text>
+                <text x="240" y="-68" font-size="small">= Religious Figure</text>
+                <text x="240" y="-48" font-size="small">= Literary Device</text>
             </g>
         </svg>
     </xsl:template>
