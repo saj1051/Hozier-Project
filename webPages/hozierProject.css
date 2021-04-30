@@ -4,6 +4,7 @@ body {
     background-attachment: fixed;
     background-size: cover;
     margin: 50px;
+    font-family: Verdana;
 }
 
 h1 {
@@ -11,7 +12,7 @@ h1 {
     height: 50px;
     vertical-align: middle;
     text-align: center;
-    font-family: Oswald;
+    font-family: Georgia;
     color: #305663;
 }
 
@@ -20,7 +21,7 @@ h2 {
     height: 36px;
     vertical-align: middle;
     text-align: center;
-    font-family: Oswald;
+    font-family: Georgia;
     color: #5c6140;
 }
 
@@ -30,14 +31,13 @@ h3 {
     text-align: center;
     vertical-align: middle;
     font-weight: 600;
-    font-family: Oswald;
+    font-family: Georgia;
     color: #774745;
 }
 
 p {
-    font-size: 20px;
-    font-family: "Noto Sans";
     color: black;
+    font-size: 20px;
 }
 
 div {
@@ -63,9 +63,7 @@ nav ul.nav {
     margin: 0;
     padding: 12em;
 }
-nav,
-ul,
-li.toc {
+nav, ul, li.toc {
     display: inline;
     list-style-type: none;
 }
@@ -86,8 +84,14 @@ a:link {
 
 /* color of link when you hover over it */
 a:hover {
-    text-decoration: none;
+    text-decoration: underline;
     color: white;
+}
+
+/* visited link */
+a:visited {
+    text-decoration: none;
+    color: gray;
 }
 
 /* box behind navigation bar and text grid */
